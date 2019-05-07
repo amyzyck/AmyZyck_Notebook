@@ -4,6 +4,8 @@ Last Updated: 20190501
 
 See finished products [here](https://emmastrand.weebly.com/infographics.html).
 
+Welcome to my tidbits on designing and creating effective infographics. This is an evolving document and additions will be made over time. Please feel free to reach out to me (emma_strand@uri.edu) if you have any questions or suggestions! 
+
 Insert note on copyright. 
 
 The disconnect between the general public and the scientiic community is essentially an advertising issue. You can't get someone to actively makes changes and be involved in/support a movement if they don't care about it. And you can't get someone to care about something if they don't know about it. 
@@ -26,6 +28,8 @@ Great examples of choosing color:
 ![Color Theory](https://www.motocms.com/blog/wp-content/uploads/2014/08/color-theory-infographic-paper-leaf.jpg).
 
 ![10 Commandements of Color](http://www.designmantic.com/blog/wp-content/uploads/2014/05/Color-Theory-Infographic.jpg).
+
+Insert note on addressing color blindness.
 
 ### Simple Shapes
 If you look closely, most visuals in an infographic are actually simple shapes put together to create an image. The trick is to use different shades of the same color to give a three dimensional look.
