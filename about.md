@@ -7,10 +7,10 @@ permalink: /about/
 # Curriculum Vitae
 Last Updated: 20190320
 
-## <center>Emma L. Strand</center>
-<center>emmastrand.weebly.com • emma_strand@uri.edu</center>  
-<center>Department of Biological Sciences</center>  
-<center>University of Rhode Island</center>
+## Emma L. Strand
+emmastrand.weebly.com • emma_strand@uri.edu  
+Department of Biological Sciences  
+University of Rhode Island
 
 ### EDUCATION 
 2018 – Current  
