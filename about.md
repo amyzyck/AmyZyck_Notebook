@@ -12,7 +12,7 @@ Last Updated: 20190320
 Department of Biological Sciences  
 University of Rhode Island
 
-### EDUCATION 
+### Education 
 2018 – Current  
 University of Rhode Island: Doctor of Philosophy in Evolutionary and Marine Biology  
 Dissertation focus: Characterizing coral holobiont physiological and (epi)genomic responses to multivariate stressors 
