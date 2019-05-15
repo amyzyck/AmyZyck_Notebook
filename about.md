@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Curriculum Vitae
 permalink: /about/
 ---
 
-# Curriculum Vitae
 Last Updated: 20190320
 
 ## Emma L. Strand
