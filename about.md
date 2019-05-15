@@ -8,8 +8,8 @@ permalink: /about/
 Last Updated: 20190320
 
 ## <center>Emma L. Strand</center>
-<center>emmastrand.weebly.com • emma_strand@uri.edu</center>
-<center>Department of Biological Sciences</center>
+<center>emmastrand.weebly.com • emma_strand@uri.edu</center>  
+<center>Department of Biological Sciences</center>  
 <center>University of Rhode Island</center>
 
 ### EDUCATION 
