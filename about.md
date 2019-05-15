@@ -72,11 +72,11 @@ Dr. W. Wesley Dowd, Loyola Marymount University
  
 **Invited Presentations**
 
-2018 | Guest Lecture: Principles of Ecology, BIOL 318, Dr. Ron Rozar; Loyola Marymount University  
-2018 | Guest Lecture: IB Biology II; Skyline High School  
-2018 | Lightning Talk: “Ecophysiology and Epigenetics of Coral Reefs”; Seattle Aquarium  
-2017 | Lightning Talk: “Molecular Ecology and Coral Reef Health in Bermuda and Roatán, Honduras”; Seattle Aquarium  
-2015 | Lightning Talk: “Marine Ecophysiology Research as an Undergraduate”; Seattle Aquarium
+Guest Lecture: Principles of Ecology, BIOL 318, Dr. Ron Rozar; Loyola Marymount University (2018)  
+Guest Lecture: IB Biology II; Skyline High School  (2018)  
+Lightning Talk: “Ecophysiology and Epigenetics of Coral Reefs”; Seattle Aquarium (2018)  
+Lightning Talk: “Molecular Ecology and Coral Reef Health in Bermuda and Roatán, Honduras”; Seattle Aquarium (2017)  
+Lightning Talk: “Marine Ecophysiology Research as an Undergraduate”; Seattle Aquarium (2015)
 
 **Oral Presentations**  
 **Strand E.**, Goodbody-Gringley, G. Molecular characterization of Bermuda’s baitfish populations to improve management and fishery sustainability.  
