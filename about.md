@@ -13,7 +13,7 @@ Last Updated: 20190320
 <center>University of Rhode Island</center>
 
 ### EDUCATION 
-2018 – Current	
+2018 – Current  
 University of Rhode Island: Doctor of Philosophy in Evolutionary and Marine Biology  
 Dissertation focus: Characterizing coral holobiont physiological and (epi)genomic responses to multivariate stressors 
 in order to inform sustainable conservation efforts. 
@@ -34,6 +34,7 @@ Dr. Hollie Putnam, University of Rhode Island
 *Function of Acid-Rich Proteins in Coral Biomineralization across Diverse Climates*  
 - Combined 7 months of field work: 4-month multivariate stressor (pH and temperature) and recovery time series experiment, 2-month pH stress and larvae settlement experiment, 1-month temperature induced bleaching experiment  
 - Physiological parameters: respiration, photosynthesis, and calcification rates, quantified bleaching, growth  
+
 *Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture*  
 - Ocean acidification experiments on geoduck clams at Point Whitney Shellfish Laboratory, Washington
 
@@ -100,16 +101,16 @@ Adam Helbig: Undergraduate, Hawaii Pacific University (2018)
 Valeria Schmidt: Undergraduate, Princeton University (2018)
 
 ### Outreach and Education
-Science Infographic Designer and Creator (emmastrand.weebly.com/infographics) | 2018 - Current  
-International Coral Reef Society: Reef Student Committee Member | 2018 - Current  
-Skype a Scientist Volunteer Scientist | 2018 - Current  
-Chasing Coral Documentary Showing and Discussion Host: University House, Seattle, WA; LMU | 2018; 2019  
-Nature Seekers Program, Leatherback Sea Turtle Research Volunteer: Trinidad & Tobago | 2014  
-Seattle Aquarium Puget Sound Youth Campaign Volunteer & Exhibit Interpreter High School Volunteer | 2012-2014
+2018 - Current | Science Infographic Designer and Creator (emmastrand.weebly.com/infographics)  
+2018 - Current | International Coral Reef Society: Reef Student Committee Member  
+2018 - Current | Skype a Scientist Volunteer Scientist   
+2018; 2019 | Chasing Coral Documentary Showing and Discussion Host: University House, Seattle, WA; LMU  
+2014 | Nature Seekers Program, Leatherback Sea Turtle Research Volunteer: Trinidad & Tobago  
+2012 - 2014 | Seattle Aquarium Puget Sound Youth Campaign Volunteer & Exhibit Interpreter High School Volunteer
 
 ### Awards 
 2019 | Association for the Sciences of Limnology and Oceanography Multicultural Program Scholarship           
-2018 | Alan R. Seydoux Memorial Award in Marine and Field Biology	
+2018 | Alan R. Seydoux Memorial Award in Marine and Field Biology  
 2017 | National Science Foundation: Research Experience for Undergraduates (NSF REU)  
 2016; 2017 | Howard Towner Research Scholarship Recipient, LMU Department of Biology  
 2017 | Summer Undergraduate Research Program Scholarship, Loyola Marymount University  
