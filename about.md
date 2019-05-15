@@ -1,82 +1,116 @@
 ---
-
-
+layout: page
+title: About
+permalink: /about/
 ---
 
-<h1 id="emma-l.-strand">Emma L. Strand</h1>
-<p>Last Updated: 20180525 | <a href="http://emmastrand.weebly.com">emmastrand.weebly.com</a> | <a href="mailto:emma_strand@uri.edu">emma_strand@uri.edu</a></p>
-<h2 id="education">Education</h2>
-<p><strong>University of Rhode Island</strong>	| May 2018 – Current<br>
-<em>Doctor of Philosophy Candidate, Evolutionary and Marine Biology</em></p>
-<p><strong>Loyola Marymount University</strong>	| Graduated May 2018<br>
-<em>Bachelor of Science Candidate, Biology</em>	<br>
-Overall GPA 3.3; Major GPA 3.3; GRE Scores: Verbal 154, Math 154, Writing 4</p>
-<ul>
-<li>Relevant Course Work: Tropical Marine Ecology (Roatán Institute for Marine Sciences, Honduras); Comparative Animal Physiology; Hormones &amp; Behavior; General Biology I/II; Genetics; Organic Chemistry I/II; Physics I/II; Calculus I/II; Biostatics; Marine Biology</li>
-</ul>
-<h2 id="professional-experience">Professional Experience</h2>
-<p><strong>PhD Graduate Assistantship; University of Rhode Island</strong><br>
-<em>Research Assistant; Teaching Assistant</em> 	| 	May 2018 - Current<br>
-- University of Rhode Island; Dr. Hollie Putnam’s Lab<br>
-- Molecular ecophysiology of marine invertebrates</p>
-<p><strong>NSF Undergraduate Research Fellow (REU)</strong><br>
-<em>Research Assistant</em>	|	 August 2017 – November 2017<br>
-- Bermuda Institute of Ocean Sciences; Dr. Gretchen Goodbody-Gringley’s Lab<br>
-- Molecular biology laboratory techniques: genetic barcoding, DNA extraction, PCR protocols<br>
-- Population genetics approaches for analysis (Mega7 Software, Fst, Φst, AMOV)</p>
-<p><strong>Coral Reef Research Internship</strong><br>
-<em>Research Intern</em> 	|	July 2017 – August 2017<br>
-- Roatán Institute for Marine Sciences; Jennifer Keck and Dr. Roy Houston<br>
-- Skills: scuba diving (∼60 dives), benthic surveys, coral reef monitoring, basic biostatistics<br>
-- Proficient in Caribbean lifeform ID<br>
-- Maintained and cleaned coral restoration trees weekly<br>
-- Designed, performed, and analyzed an individual research project</p>
-<p><strong>Marine Ecophysiology Research</strong><br>
-<em>Research Assistant</em> 	|	September 2015 – June 2017<br>
-<em>Summer Undergraduate Research Program</em> May 2017 – June 2017<br>
-- Loyola Marymount University; Dr. Wes Dowd’s Marine Ecophysiology Lab<br>
-- Hopkins Marine Station of Stanford University; collaboration on copepod salinity/temperature tolerance in Dr. Mark Denny’s Marine Biomechanics lab for 2 months of Summer 2016<br>
-- Assisted with assays and experiments conducted in the lab and in the rocky intertidal zone<br>
-- Collaborated with professors, postdoctoral fellow and lab mates on manuscript preparation<br>
-- Skills: physiology experiments (thermal tolerance; behavioral observation), biochemical methods (oxidative damage assays),  molecular techniques (DNA extraction and PCR)</p>
-<p><strong>Rains Research Assistantship</strong><br>
-<em>Research Assistant</em> 	|	September 2015 – June 2017<br>
-- Loyola Marymount University; Dr. Wes Dowd’s Marine Ecophysiology Lab<br>
-- Accountable for the live animals (mussels and copepods) in lab; Upkeep of lab materials and research space</p>
-<p><strong>Scuba &amp; Snorkel Club</strong>, <strong>Loyola Marymount University</strong><br>
-<em>Risk &amp; Safety Officer, Executive Board</em> 	|	November  2014 – May 2018<br>
-- Scheduled boat and shore dives as well as Catalina weekend camping trips<br>
-- Responsible for all safety measurements and divers</p>
-<p><strong>Seattle Aquarium Volunteer</strong><br>
-<em>High School Volunteer; Puget Sound Youth Campaign Volunteer</em> 	|	October 2012 – June  2014<br>
-- Planned and executed events such as beach clean-ups throughout the year<br>
-- Educated the public about environmental issues through media and exhibits within the aquarium</p>
-<p><strong>Nature Seekers  Matura, Trinidad &amp; Tobago</strong><br>
-<em>Two Week Leatherback Sea Turtle Service Volunteer</em> 	|	August 2013<br>
-- Focused on tracking migratory patterns as well as nest and new-born protection</p>
-<h2 id="publications">Publications</h2>
-<p>Gleason, L. U., <strong>Strand, E. L.</strong>, Hizon, B. J., &amp; Dowd, W. W. (2018). Plasticity of thermal tolerance and its relationship with growth rate in juvenile mussels (Mytilus californianus). <em>Proceedings. Biological sciences</em>, <em>285</em>(1877).</p>
-<h2 id="presentations">Presentations</h2>
-<p><strong>Strand E.,</strong> Goodbody-Gringley, G. Characterizing Bermuda’s baitfish populations to improve management and fishery sustainability. 2018 TriBeta National Biological Honor Society Research Conference. Oral Presentation. Irvine, California.</p>
-<p><strong>Strand E.</strong>, Mummert, M., Keck, J., Houston, R. Color variation and its relationship with depth in <em>Montastrea cavernosa</em>. 2018 Loyola Marymount University Research Symposium; Poster Presentation. Los Angeles, California.</p>
-<p><strong>Strand E.</strong>, Goodbody-Gringley, G. Characterizing Bermuda’s baitfish populations to improve management and fishery sustainability. 2018 Loyola Marymount University Research Symposium; Oral Presentation. Los Angeles, California.</p>
-<p><strong>Strand E.</strong>, Gleason L., Dowd W. Expression of thermally tolerant genes in juvenile mussels (<em>Mytilus californianus</em>). 2018 Loyola Marymount University Research Symposium; Poster Presentation. Los Angeles, California.</p>
-<p><strong>Strand, E.</strong> Molecular Ecology and Coral Reef Health in Bermuda and Roatán, Honduras. 2017 Seattle Aquarium Lightning Talk. Seattle, Washington.</p>
-<p><strong>Strand E.</strong>, Hizon B., Gleason L., Dowd W. Plasticity of thermal tolerance and growth rates in juvenile mussels (<em>Mytilus californianus</em>). 2017 Loyola Marymount University Research Symposium; Poster Presentation. Los Angeles, California.</p>
-<p><strong>Strand E.</strong>, Hizon B., Gleason L., Dowd W. Plasticity of thermal tolerance and growth rates in juvenile mussels (<em>Mytilus californianus</em>). 2017 Society for Integrative and Comparative Biology; Poster Presentation. New Orleans, Louisiana.</p>
-<p>Hizon B., <strong>Strand E.</strong>, Alves S., Lane J., Denny M., Dowd W. Effects of chronic and acute salinity changes on thermal tolerance in the tidepool copepod (<em>Tigiropus californicus</em>). 2017 Society for Integrative and Comparative Biology; Poster Presentation. New Orleans, Louisiana.</p>
-<p>Dallmer J., <strong>Strand E.</strong>, Dugay C., Drolshagen H., Gleason L., Dowd W. Lipid Peroxidation Recovery after an Acute Thermal Challenge in a Marine Intertidal Mussel (<em>Mytilus</em> californianus). 2016 Loyola Marymount University Research Symposium; Poster Presentation. Los Angeles, California.</p>
-<p><strong>Strand, E.</strong> Marine Ecophysiology Research as an Undergraduate. 2015 Seattle Aquarium Lightning Talk. Seattle, Washington.</p>
-<h2 id="mentoring">Mentoring</h2>
-<p>Maddie Sherman | Undergraduate, University of Rhode Island (May 2018 - August 2018)<br>
-Valeria Schmidt | Undergraduate, Princeton University (May 2018 - June 2018)</p>
-<h2 id="professional-society-affiliations">Professional Society Affiliations</h2>
-<p>Society for Integrative and Comparative Biology Member 	|	 Fall 2016 - Present</p>
-<h2 id="awards">Awards</h2>
-<p>Loyola Marymount Merit Scholarship Recipient September | 2014 – May 2018<br>
-Howard Towner Research Scholarship Recipient, LMU Department of Biology | May 2016; June 2017<br>
-Alan R. Seydoux Memorial Award in Marine and Field Biology  | May 2018</p>
-<h2 id="skills--interests">Skills &amp; Interests</h2>
-<p>Open-Water and Advanced Diver Certifications; 2015; 100+ dives<br>
-Photography, Graphic and Web Design; Proficient in MS Office</p>
+# Curriculum Vitae
+Last Updated: 20190320
 
+## <center>Emma L. Strand</center>
+<center>emmastrand.weebly.com • emma_strand@uri.edu</center>
+<center>Department of Biological Sciences</center>
+<center>University of Rhode Island</center>
+
+### EDUCATION 
+2018 – Current	
+University of Rhode Island: Doctor of Philosophy in Evolutionary and Marine Biology  
+Dissertation focus: Characterizing coral holobiont physiological and (epi)genomic responses to multivariate stressors 
+in order to inform sustainable conservation efforts. 
+
+2014 – 2018  
+Loyola Marymount University: Bachelors of Science in Biology
+
+### Current Research Aims
+
+The overall goal of my dissertation research is to characterize coral holobiont response to environmental change by examining physiological performance, (epi)genomics, and microbiome communities response to stress to inform more sustainable coral restoration plans. This interdisciplinary approach is taken to evaluate transgenerational acclimatization and phenotypic plasticity of the coral holobiont in order to advance work in assisted evolution and selective breeding for conservation.
+
+### Professional & Laboratory Experience
+*Italics indicate project titles*
+
+**Graduate Research Assistantship | 2018 - Current**  
+Dr. Hollie Putnam, University of Rhode Island  
+*Elucidating adaptive potential through coral holobiont functional integration*  
+*Function of Acid-Rich Proteins in Coral Biomineralization across Diverse Climates*  
+- Combined 7 months of field work: 4-month multivariate stressor (pH and temperature) and recovery time series experiment, 2-month pH stress and larvae settlement experiment, 1-month temperature induced bleaching experiment  
+- Physiological parameters: respiration, photosynthesis, and calcification rates, quantified bleaching, growth  
+*Development of environmental conditioning practices to decrease impacts of climate change on shellfish aquaculture*  
+- Ocean acidification experiments on geoduck clams at Point Whitney Shellfish Laboratory, Washington
+
+**Graduate Teaching Assistantship | Spring 2019**  
+- BIO 345: Marine Environmental Physiology; University of Rhode Island
+
+**NSF Undergraduate Research Fellow (REU) | Fall 2017**  
+Dr. Gretchen Goodbody-Gringley, Bermuda Institute of Ocean Sciences  
+*Using molecular techniques to characterizing Bermuda’s baitfish populations to inform ecosystem-based management and promote sustainable fisheries*.  
+- 3 months of molecular laboratory work, analysis, and manuscript preparation  
+- Molecular methods: genetic barcoding, DNA extraction, PCR protocols, gel electrophoresis  
+- Population genetics analysis approach: Mega7 and MUSCLE software, phylogenetic tree construction using Maximum Likelihood method, standard diversity indices, pairwise FST, molecular variance with AMOVA
+
+**Coral Reef Research Intern | 2015, 2017**  
+Dr. Roy Houston and Jennifer Keck, M.Sc., Roatán Institute for Marine Sciences  
+*Investigating coral reef health of Roatán and phenotypic variation of M. cavernosa*  
+- Combined 6 weeks of field work and classroom activities  
+- Ecology methods: scuba diving (~60 dives), benthic surveys, coral reef monitoring, biostatistical analysis  
+- Maintenance of coral restoration trees and management of lionfish populations
+
+**Marine Ecophysiology Research Assistant, Rains Research Assistant | 2015 – 2017**  
+Dr. W. Wesley Dowd, Loyola Marymount University  
+*Mechanistic Causes and Consequences of Micro-scale Spatial Variation within Intertidal Populations*  
+- 2 years of molecular laboratory and field work, husbandry, analysis and manuscript preparation  
+- Methods: physiological (thermal performance curves, behavioral observations), molecular (DNA extraction, PCR, gel electrophoresis), biochemical (oxidative damage assays)  
+- 2 months of field work: reciprocal transplant experiment of juvenile mussels in the rocky intertidal zone  
+- Visiting Researcher with: Dr. Mark Denny, Stanford University: Hopkins Marine Station
+
+### Publications
+
+1. Goodbody-Gringley, G., **Strand, E. L.**, Pitt, J. (In Review). Molecular characterization of nearshore baitfish populations in Bermuda to inform management. 
+2. Gleason, L. U., **Strand, E. L.**, Hizon, B. J., & Dowd, W. W. (2018). Plasticity of thermal tolerance and its relationship with growth rate in juvenile mussels (Mytilus californianus). *Proceedings of the Royal Society B: Biological sciences,* 285(1877). 
+
+### Presentations 
+ 
+**Invited Presentations**
+
+2018 | Guest Lecture: Principles of Ecology, BIOL 318, Dr. Ron Rozar; Loyola Marymount University  
+2018 | Guest Lecture: IB Biology II; Skyline High School  
+2018 | Lightning Talk: “Ecophysiology and Epigenetics of Coral Reefs”; Seattle Aquarium  
+2017 | Lightning Talk: “Molecular Ecology and Coral Reef Health in Bermuda and Roatán, Honduras”; Seattle Aquarium  
+2015 | Lightning Talk: “Marine Ecophysiology Research as an Undergraduate”; Seattle Aquarium
+
+**Oral Presentations**  
+**Strand E.**, Goodbody-Gringley, G. Molecular characterization of Bermuda’s baitfish populations to improve management and fishery sustainability.  
+- 2019 ASLO Aquatic Sciences Meeting. San Juan, Puerto Rico.  
+- 2018 TriBeta National Biological Honor Society Research Conference. Irvine, California.  
+- 2018 Loyola Marymount University Research Symposium. Irvine, California.
+
+**Poster Presentations**  
+**Strand E.**, Mummert, M., Keck, J., Houston, R. Color variation and its relationship with depth in Montastraea cavernosa. 2018 Loyola Marymount University Research Symposium; Los Angeles, California.  
+**Strand E.**, Gleason L., Dowd W. Plasticity of thermal tolerance and its relationship with the accumulation of taurine in juvenile mussels (Mytilus californianus). 2018 Loyola Marymount University Research Symposium; Los Angeles, California.  
+**Strand E.**, Hizon B., Gleason L., Dowd W. Plasticity of thermal tolerance and growth rates in juvenile mussels (Mytilus californianus). 2017 Loyola Marymount University Research Symposium; Los Angeles, California.  
+**Strand E.**, Hizon B., Gleason L., Dowd W. Plasticity of thermal tolerance and growth rates in juvenile mussels (Mytilus californianus). 2017 Society for Integrative and Comparative Biology; New Orleans, Louisiana.  
+Hizon B., **Strand E.**, Alves S., Lane J., Denny M., Dowd W. Effects of chronic and acute salinity changes on thermal tolerance in the tidepool copepod (Tigiropus californicus). 2017 Society for Integrative and Comparative Biology; New Orleans, LA.  
+Dallmer J., **Strand E.**, Dugay C., Drolshagen H., Gleason L., Dowd W. Lipid Peroxidation Recovery after an Acute Thermal Challenge in a Marine Intertidal Mussel (Mytilus californianus). 2016 LMU Research Symposium; Los Angeles, CA.
+
+### Mentoring 
+Chris Suchocki, M.Sc.: Gates Coral Lab, Hawaii Institute of Marine Biology Volunteer (2018 – 2019)  
+Elliott Chinn: Undergraduate, University of Washington (2019)  
+Nathan Streams: Undergraduate, Washington State University (2019)  
+Madeleine Sherman: Undergraduate, University of Rhode Island (2018)  
+Adam Helbig: Undergraduate, Hawaii Pacific University (2018)  
+Valeria Schmidt: Undergraduate, Princeton University (2018)
+
+### Outreach and Education
+Science Infographic Designer and Creator (emmastrand.weebly.com/infographics) | 2018 - Current  
+International Coral Reef Society: Reef Student Committee Member | 2018 - Current  
+Skype a Scientist Volunteer Scientist | 2018 - Current  
+Chasing Coral Documentary Showing and Discussion Host: University House, Seattle, WA; LMU | 2018; 2019  
+Nature Seekers Program, Leatherback Sea Turtle Research Volunteer: Trinidad & Tobago | 2014  
+Seattle Aquarium Puget Sound Youth Campaign Volunteer & Exhibit Interpreter High School Volunteer | 2012-2014
+
+### Awards 
+2019 | Association for the Sciences of Limnology and Oceanography Multicultural Program Scholarship           
+2018 | Alan R. Seydoux Memorial Award in Marine and Field Biology	
+2017 | National Science Foundation: Research Experience for Undergraduates (NSF REU)  
+2016; 2017 | Howard Towner Research Scholarship Recipient, LMU Department of Biology  
+2017 | Summer Undergraduate Research Program Scholarship, Loyola Marymount University  
+2014 – 2018 | Loyola Marymount Merit Scholarship Recipient 	
