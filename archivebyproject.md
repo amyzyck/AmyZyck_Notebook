@@ -7,7 +7,7 @@ layout: page
 ---
 
 
-{% assign tags = site.categories | sort %}
+{% assign tags = site.projects | sort %}
 {% assign sorted_posts = site.posts | sort: 'title' %}
 <div> 
 {% for tag in tags %}
@@ -19,5 +19,5 @@ layout: page
 <p><a name="{{ tag | first | slugify }}"></a>&nbsp;</p>
 <h3 class="archivetitle">{{ tag | first | replace:'-', ' ' }} <i class="badge">{{ tag | last | size }}</i> </h3>
 
-<ul>{% for post in sorted_posts %}{%if post.categories contains tag[0]%}<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.author %} • {{ post.author }}{% endif %}{% if post.date %} • {{ post.date | date: "%B %e, %Y" }}{% endif %}</li>{%endif%}{% endfor %}</ul>
+<ul>{% for post in sorted_posts %}{%if post.projects contains tag[0]%}<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.author %} • {{ post.author }}{% endif %}{% if post.date %} • {{ post.date | date: "%B %e, %Y" }}{% endif %}</li>{%endif%}{% endfor %}</ul>
 {% endfor %}
