@@ -23,7 +23,7 @@ or <a title="The complete archive of
 -  After the above line, add `or <a title="The complete archive of
      {{ site.name }}'s Notebook by project`. This will extend to line 44.
 - Click enter 
-- On line 45 add `href="{{ site.url}}{{site.baseurl}}/tagview">tag</a>`
+- On line 45 add `href="{{ site.url}}{{site.baseurl}}/projectview">project</a>`
 - Click the green "Commit changes" button
 
 ### 2. Create an archive by project markdown file 
