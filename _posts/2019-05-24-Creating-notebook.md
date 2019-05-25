@@ -4,7 +4,6 @@ title: Creating a GitHub/Jekyll Lab Notebook
 date: '2019-05-24'
 categories: Notebook
 tags: [computing, Lab Notebook, Jekyll]
-project: [Lab Notebook]
 ---
 
 # Creating a GitHub/Jekyll Lab Notebook
