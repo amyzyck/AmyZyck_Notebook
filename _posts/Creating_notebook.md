@@ -1,4 +1,13 @@
-# Creating a Github/Jekyll Lab Notebook
+---
+layout: post
+title: Creating a GitHub/Jekyll Lab Notebook
+date: '2019-05-24'
+categories: Notebook
+tags: [computing, Lab Notebook, Jekyll]
+project: [Lab Notebook]
+---
+
+# Creating a GitHub/Jekyll Lab Notebook
 
 Jekyll is a software designed for simple site generators for personal, project, or organization webpages. There are many jekyll themes out there available to "fork". When you fork a webpage or repository on github, you're making your own "branch" or copy of that repository. Forking allows you to manipulate that repository without affecting the original. Explore the following links for examples of webpages and general how-tos. Choose a theme you'd like to fork for your own webpage and see the following instructions on how to set up your page.
 
