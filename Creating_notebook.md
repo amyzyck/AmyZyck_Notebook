@@ -32,8 +32,19 @@ How to fork my open lab notebook:
 6. Your webpage should now be viewable at https://yourgithubusername.github.io. If not, wait a few minutes and refresh the page.
 
 Customize your webpage:
-1. Select the config.yml file.  
-![config_edit]()
+1. Select the config.yml file.
+2. Select the "Edit this file" function next to "Raw", "Blame", and "History".
+![config_edit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/edit_config.png?raw=true).
+3. Edit "name: Emma L. Strand's Open Lab Notebook" to reflect the title of your site.
+4. Edit "description" to reflect a short bio of your site.
+5. "Avatar" is the link to your profile photo on the homepage of the site. My photo lives in the images folder and is called "URI.jpg".
+6. Edit "footer-links" to reflect any outside media or contact information. Icons such as twitter, email, and github will appear at the bottom of the site with links to your personal accounts.
+7. Edit "url" to reflect your webpage's link.
+8. In the "Commit changes" box, write a short comment about what you edited. This is part of Git version control, if you need to return to a previous version then the comments made with each saved change will be helpful in tracking which version you'd like to return to.
+9. Select the green "Commit changes" button.
+
+This format of webpage gives you the opportunity to tag your posts by categories, dates, projects, and tags. At the beginning of each post, you will have to include the following:
+
 
 
 There are two main ways to edit the content within your repository: either editing directly online at GitHub.com or locally on your computer.
