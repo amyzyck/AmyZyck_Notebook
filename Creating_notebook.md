@@ -46,15 +46,27 @@ Customize your webpage:
 The "images" folder houses all the images used in the markdown files, and on the webpage itself.
 To upload an "avatar" photo:
 1. In your Notebook homepage, select the images folder.
-2. 
+2. Select the "Upload files" button in the right hand corner
+![upload_image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/upload_image.png?raw=true)
+3. Drag or choose an image file that you want as your homepage profile photo.
+4. Leave a comment in the "Commit changes" box.
+5. Select the green "Commit changes" button.
+6. In the config.yml file, edit the "Avatar" line to reflect the name of your photo. Mine is "URI.jpg".
 
+Posts are written in a format called Markdown and saved in the "posts" folder on this repository. See the following link for an introduction into markdown format: https://guides.github.com/features/mastering-markdown/. There are several free markdown editor applications, including [Atom](https://atom.io/) and [MacDown](https://macdown.uranusjr.com/). Atom allows you to open projects through GitHub and edit those repositories directly, but your choice in software will be personal preference.
 
-This format of webpage gives you the opportunity to tag your posts by categories, dates, projects, and tags. At the beginning of each post, you will have to include the following:
+This format of webpage gives you the opportunity to tag your posts by categories, dates, projects, and tags. At the beginning of each markdown file, you will have to include the following:
 ![post_tags](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/post_tags.png?raw=true)
 
+Feel free to start editing and customizing your own webpage now! There may be markdown files and posts specific to my work that you may delete (or keep if you're interested, it's all open source anyway).
 
-There are two main ways to edit the content within your repository: either editing directly online at GitHub.com or locally on your computer.
+There are two main ways to edit the content within your repository: either editing directly online at GitHub.com or locally on your computer. All of the previous directions were editing directly on GitHub.com, but can be done in a local repository using Terminal.
 
 To create a local repository:
 1. Open the Terminal application your computer. Terminal is an interface to work in a command line using Unix shell and bash scripts. See the following for more information about working with Unix Shell and version control with Git: https://software-carpentry.org/lessons/.
-2.  
+2. My projects live in my "emmastrand" home folder in another folder called "MyProjects" (~/emmastrand/MyProjects). Where you place your repositories will be personal preference. The following instructions are based on my path, edit this as needed for your local computer.
+3. In terminal, each command is indicated by a `$` sign. The code written after the `$` will be the command.
+4. `$ cd MyProjects`. `cd` tells the computer to navigate to the MyProjects folder.
+5. On GitHub.com, select the homepage of your repository and select the green "Clone or download" button. 
+
+If you have any questions or concerns, feel free to email me at emma_strand@uri.edu or contact me via [emmastrand.weebly.com](emmastrand.weebly.com). Happy webpage-building.
