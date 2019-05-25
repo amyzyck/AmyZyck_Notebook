@@ -22,7 +22,6 @@ https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2018-
 
 How to fork my open lab notebook:  
 1. Log into github or create a free account.
-2. Open another browser window with this link: https://emmastrand.github.io/EmmaStrand_Notebook/
-
-You will see:  
-![Notebook_homepage]()
+2. Open another browser window with this link: https://emmastrand.github.io/EmmaStrand_Notebook/.  
+3. Select "Fork" in the upper right hand corner:  
+![Notebook_homepage](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/EmmaStrand_Notebook.png?raw=true)
