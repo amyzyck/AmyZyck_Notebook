@@ -34,7 +34,7 @@ How to fork my open lab notebook:
 Customize your webpage:
 1. Select the config.yml file.
 2. Select the "Edit this file" function next to "Raw", "Blame", and "History".
-![config_edit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/edit_config.png?raw=true).
+![config_edit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/edit_config.png?raw=true)
 3. Edit "name: Emma L. Strand's Open Lab Notebook" to reflect the title of your site.
 4. Edit "description" to reflect a short bio of your site.
 5. "Avatar" is the link to your profile photo on the homepage of the site. My photo lives in the images folder and is called "URI.jpg".
@@ -43,8 +43,14 @@ Customize your webpage:
 8. In the "Commit changes" box, write a short comment about what you edited. This is part of Git version control, if you need to return to a previous version then the comments made with each saved change will be helpful in tracking which version you'd like to return to.
 9. Select the green "Commit changes" button.
 
-This format of webpage gives you the opportunity to tag your posts by categories, dates, projects, and tags. At the beginning of each post, you will have to include the following:
+The "images" folder houses all the images used in the markdown files, and on the webpage itself.
+To upload an "avatar" photo:
+1. In your Notebook homepage, select the images folder.
+2. 
 
+
+This format of webpage gives you the opportunity to tag your posts by categories, dates, projects, and tags. At the beginning of each post, you will have to include the following:
+![post_tags](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/post_tags.png?raw=true)
 
 
 There are two main ways to edit the content within your repository: either editing directly online at GitHub.com or locally on your computer.
