@@ -10,30 +10,30 @@ tags: [computing, Lab Notebook, Jekyll]
 
 Jekyll is a software designed for simple site generators for personal, project, or organization webpages. There are many jekyll themes out there available to "fork". When you fork a webpage or repository on github, you're making your own "branch" or copy of that repository. Forking allows you to manipulate that repository without affecting the original. Explore the following links for examples of webpages and general how-tos. Choose a theme you'd like to fork for your own webpage and see the following instructions on how to set up your page.
 
-See below for examples:  
-https://kevinhwong1.github.io/  
-http://rachelss.github.io/  
-https://putnam-lab.github.io/  
-https://njsilbiger.github.io/  
+See below for examples:
+https://kevinhwong1.github.io/
+http://rachelss.github.io/
+https://putnam-lab.github.io/
+https://njsilbiger.github.io/
 https://jpuritz.github.io/
 
-Below are several links to explore background information on Jekyll themes and Github pages:  
-https://jekyllrb.com/  
-https://jekyllthemes.io/free  
-http://jekyllthemes.org/  
+Below are several links to explore background information on Jekyll themes and Github pages:
+https://jekyllrb.com/
+https://jekyllthemes.io/free
+http://jekyllthemes.org/
 https://hackernoon.com/how-to-setup-your-jekyll-website-with-free-web-hosting-ssl-and-a-custom-domain-4056ff862ca1
 
-How to create a Jekyll webpage:  
-https://deanattali.com/beautiful-jekyll/  
+How to create a Jekyll webpage:
+https://deanattali.com/beautiful-jekyll/
 https://github.com/barryclark/jekyll-now
 
 See Maggie Schedl's protocol on forking our lab notebook:
-https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2018-09-26-Forked-Repository-And-Site-Instructions.md  
+https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2018-09-26-Forked-Repository-And-Site-Instructions.md
 
-**How to fork my open lab notebook:**  
+**How to fork my open lab notebook:**
 1. Log into github or create a free account.
-2. Open another browser window with this link: https://emmastrand.github.io/EmmaStrand_Notebook/.  
-3. Select "Fork" in the upper right hand corner:  
+2. Open another browser window with this link: https://emmastrand.github.io/EmmaStrand_Notebook/.
+3. Select "Fork" in the upper right hand corner:
 ![Notebook_homepage](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/create_fork.png?raw=true)
 4. Github will ask you "Where should we fork EmmaStrand_Notebook?" Select your github profile.
 5. Once forking is finished, Click "Settings" in your repository. Change your repository name to "yourgithubusername.github.io".
@@ -61,34 +61,34 @@ To upload an "avatar" photo:
 5. Select the green "Commit changes" button.
 6. In the config.yml file, edit the "Avatar" line to reflect the name of your photo. Mine is "URI.jpg".
 
-**Using Markdown for creating posts**  
+**Using Markdown for creating posts**
 Posts are written in a format called Markdown and saved in the "posts" folder on this repository. See the following link for an introduction into markdown format: https://guides.github.com/features/mastering-markdown/. There are several free markdown editor applications, including [Atom](https://atom.io/) and [MacDown](https://macdown.uranusjr.com/). Atom allows you to open projects through GitHub and edit those repositories directly, but your choice in software will be personal preference.
 
 This format of webpage gives you the opportunity to tag your posts by categories, dates, projects, and tags. At the beginning of each markdown file, you will have to include the following:
 ![post_tags](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/post_tags.png?raw=true)
 
-Below are several Markdown formatting cheatsheets:  
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
-https://www.markdownguide.org/cheat-sheet/  
-https://devhints.io/markdown  
+Below are several Markdown formatting cheatsheets:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://www.markdownguide.org/cheat-sheet/
+https://devhints.io/markdown
 
 ---
 Feel free to start editing and customizing your own webpage now! There may be markdown files and posts specific to my work that you may delete (or keep if you're interested, it's all open source anyway).
 
 There are two main ways to edit the content within your repository: either editing directly online at GitHub.com or locally on your computer. All of the previous directions were editing directly on GitHub.com, but can be done in a local repository using Terminal.
 
-**Installing and Using Git and Terminal**  
+**Installing and Using Git and Terminal**
 Before creating a local repo, you will need to set up Git in Terminal. See the following link for more information on Git: https://help.github.com/en/articles/set-up-git. Terminal is an interface to work in a command line using Unix shell and bash scripts. See the following for more information about working with Unix Shell and version control with Git: https://software-carpentry.org/lessons/.
 
 1. Download the latest version of Git: https://git-scm.com/downloads
 2. Open the Terminal application.
 3. Set a Git username: `$ git config --global user.name "Your Name"`. This will set your username for every repository on your computer.
-4. Confirm that you have set your username:  
-`$ git config --global user.name`  
-`output: > Your Name`  
+4. Confirm that you have set your username:
+`$ git config --global user.name`
+`output: > Your Name`
 5. Set an email address in Git. Use the email address used for your GitHub account. `$ git config --global user.email "youraddress@email.com"`
-6. Confirm that you set your email address:  
-`$ git config --global user.email`  
+6. Confirm that you set your email address:
+`$ git config --global user.email`
 `output: youraddress@email.com`
 
 To create a local repository:
@@ -110,9 +110,9 @@ Once changes have been made:
 4. `$ git push` to push those changes to the master repo on GitHub. This sends the changes made from your computer to GitHub. Make sure to always pull before you push.
 
 Git might ask for your GitHub username and password in order to confirm your right to make changes to that repo.
-See below for helpful links on pushing, pulling, and Git:  
-https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/all  
-https://rogerdudler.github.io/git-guide/  
+See below for helpful links on pushing, pulling, and Git:
+https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/all
+https://rogerdudler.github.io/git-guide/
 https://stackoverflow.com/questions/2745076/what-are-the-differences-between-git-commit-and-git-push:
 ![git](https://i.stack.imgur.com/MgaV9.png)
 
