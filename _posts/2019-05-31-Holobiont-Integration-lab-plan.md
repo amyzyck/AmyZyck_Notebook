@@ -8,6 +8,8 @@ tags: [Lab Plan, Holobiont Integration]
 
 # Lab Plan for Holobiont Integration project
 
+## Protocols
+
 **Tissue extraction for molecular work**  
 Beadbeating protocol: ["Sample Prep" in K. Wong's post](https://kevinhwong1.github.io/KevinHWong_Notebook/Zymo-DNA-RNA-Extraction-Protocol/)  
 Separating symbionts from host in a tissue slurry: [Protocol](https://kevinhwong1.github.io/KevinHWong_Notebook/Adult-coral-Homogenate-prep-and-symbiont-separation/)
@@ -60,3 +62,5 @@ Protocol: ___
 **Ash-free dry weight**  
 Portions of the tissue slurry were baked in a muffle furnace (4 hours at 500 °C) to calculate ash free dry weight as the difference between dry weight and the ash weight  
 Protocol: ____
+
+## Schedule 
