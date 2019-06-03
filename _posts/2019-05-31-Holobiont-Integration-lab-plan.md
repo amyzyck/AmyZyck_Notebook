@@ -20,7 +20,11 @@ To test RNA quality: [TapeStation](https://meschedl.github.io/MESPutnam_Open_Lab
 To test DNA quality: [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
 
 **Chlorophyll concentration**  
-Following the protocol in: [Wall et al 2018](https://par.nsf.gov/servlets/purl/10056422)  
+Following the protocol in: [Wall et al 2018](https://par.nsf.gov/servlets/purl/10056422)
+
+**Lipid Content**  
+
+
 
 **Surface Area**  
 Wax-dipping:
