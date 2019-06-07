@@ -107,3 +107,5 @@ TapeStation start 6:28 end 6:38
 | 2309 Soft       | G1    | 8.3 |
 | 2364 Hard       | H1    | 4.1 |
 | 2364 Soft       | A2    | 6.9 |
+
+[Link to report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-06-06%20-%2018.25.53.pdf)
