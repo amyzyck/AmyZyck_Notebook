@@ -63,4 +63,17 @@ Protocol: ___
 Portions of the tissue slurry were baked in a muffle furnace (4 hours at 500 °C) to calculate ash free dry weight as the difference between dry weight and the ash weight  
 Protocol: ____
 
-## Schedule 
+## Schedule
+Week of June 3rd - June 7th: lab work planning, 4 coral fragment RNA DNA protocol testing, bead beating testing, organize freezer.
+Week of June 10th - 14th: Emma out of town the 11th through the 18th.  
+Week of June 17th - 21st:  
+Week of June 24th - 28th:  
+Week of July 1st - July 5th:  
+Week of July 8th - July 12th:  
+Week of July 15th - July 19th:  
+Week of July 22nd - July 26th:  
+Week of July 29th - August 2nd:  
+Week of August 5th - August 9th:  
+Week of August 12th - August 16th:  
+Week of August 19th - August 23rd:  
+Week of August 26th - August 30th:  
