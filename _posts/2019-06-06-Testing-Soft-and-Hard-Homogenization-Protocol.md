@@ -50,9 +50,10 @@ Qubit Master Mix (x2 for DNA and RNA)
 - Gel made and hardening at 3:58  
 - Re-aliquoted fragment 1591 hard and soft DNA and RNA tubes
 
-Qubit Results
+Qubit Results  
+dsDNA broad range
 
-| DNA        | Trial 1   | Trial 2 | Avg   |
+| DNA(ug/uL)    | Trial 1   | Trial 2 | Avg |
 |------------|-----------|---------|-------|
 | Standard 1 | 174.13    | NA      | NA    |
 | Standard 2 | 18,408.70 | NA      | NA    |
@@ -65,7 +66,9 @@ Qubit Results
 | 2364 Hard  | 199       | 198     | 198.5 |
 | 2364 Soft  | 55.4      | 54.8    | 55.1  |
 
-| RNA        | Trial 1   | Trial 2 | Avg  |
+RNA broad range
+
+| RNA  (ug/uL)      | Trial 1   | Trial 2 | Avg  |
 |------------|-----------|---------|------|
 | Standard 1 | 396.31    | NA      | NA   |
 | Standard 2 | 10,506.90 | NA      | NA   |
@@ -78,12 +81,14 @@ Qubit Results
 | 2364 Hard  | 193       | 193     | 193  |
 | 2364 Soft  | 202       | 202     | 202  |
 
-- Gel started at 6:00 end at 6:45  
+Gel Electrophoresis:
+- 1.5% agarose gel  
+- Run at 100V for 45 minutes, start 6:00 end 6:45  
+- Ladder:  
+- Dye:  
 - 4 uL ladder + 1 uL dye, 5 uL sample + 1 uL dye  
 
-Gel Electrophoresis:
 
-Run at 100V for 45 minutes
 Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 1431 Soft, 1591 Hard, 1591 Soft
 ![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/IMG_8044.jpg?raw=true)
 
