@@ -93,8 +93,9 @@ Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 143
 ![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/IMG_8044.jpg?raw=true)
 
 TapeStation Results:  
-Thermocycler start 6:15 end 6:21  
-TapeStation start 6:28 end 6:38
+- Thermocycler (rna denature program) start 6:15 end 6:21  
+- TapeStation start 6:28 end 6:38  
+- Ladder: 
 
 | Coral ID | Tape Station ID |   RIN^e  |
 |-----------------|-------|-----|
