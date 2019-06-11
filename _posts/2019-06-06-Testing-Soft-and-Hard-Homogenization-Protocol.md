@@ -53,7 +53,7 @@ Qubit Master Mix (x2 for DNA and RNA)
 Qubit Results  
 dsDNA broad range
 
-| DNA(ug/uL)    | Trial 1   | Trial 2 | Avg |
+| DNA(ng/uL)    | Trial 1   | Trial 2 | Avg |
 |------------|-----------|---------|-------|
 | Standard 1 | 174.13    | NA      | NA    |
 | Standard 2 | 18,408.70 | NA      | NA    |
@@ -68,7 +68,7 @@ dsDNA broad range
 
 RNA broad range
 
-| RNA  (ug/uL)      | Trial 1   | Trial 2 | Avg  |
+| RNA  (ng/uL)      | Trial 1   | Trial 2 | Avg  |
 |------------|-----------|---------|------|
 | Standard 1 | 396.31    | NA      | NA   |
 | Standard 2 | 10,506.90 | NA      | NA   |
@@ -82,7 +82,7 @@ RNA broad range
 | 2364 Soft  | 202       | 202     | 202  |
 
 Gel Electrophoresis:
-- 1.5% agarose gel  
+- 1.5% TAE agarose gel  
 - Run at 100V for 45 minutes, start 6:00 end 6:45  
 - Ladder:  
 - Dye:  
@@ -95,7 +95,7 @@ Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 143
 TapeStation Results:  
 - Thermocycler (rna denature program) start 6:15 end 6:21  
 - TapeStation start 6:28 end 6:38  
-- Ladder: 
+- Ladder:
 
 | Coral ID | Tape Station ID |   RIN^e  |
 |-----------------|-------|-----|
