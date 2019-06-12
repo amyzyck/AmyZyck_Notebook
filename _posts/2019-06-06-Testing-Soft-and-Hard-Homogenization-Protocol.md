@@ -7,7 +7,7 @@ tags: RNA, DNA, Soft homogenization, Hard homogenization, extraction
 projects: Holobiont Integration
 ---
 
-# Soft and Hard Homogenization Protocol testing
+# Soft and Hard Homogenization Protocol Testing Round 1
 
 20190606 E.S.
 
