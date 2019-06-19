@@ -107,7 +107,7 @@ Gel Electrophoresis ([Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_No
 - 100V for 45 minutes  
 - 75 uL TAE buffer + 0.75 g + 5 uL of gel RED to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
-- 4 uL GeneRuler 1 kb Plus DNA ladder + 1 uL 6x purple loading dye
+- 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
 
 Gel order: Ladder, 1-8H, 1-8S, Ladder
 
