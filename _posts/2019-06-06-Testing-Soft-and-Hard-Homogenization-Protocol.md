@@ -90,7 +90,7 @@ Gel Electrophoresis:
 
 
 Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 1431 Soft, 1591 Hard, 1591 Soft
-![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/IMG_8044.jpg?raw=true)
+![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190606.jpg?raw=true)
 
 TapeStation Results:  
 - Thermocycler (rna denature program) start 6:15 end 6:21  
