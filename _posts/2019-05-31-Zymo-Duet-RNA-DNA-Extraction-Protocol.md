@@ -11,115 +11,98 @@ projects: Putnam Lab
 
 Zymo's Duet [RNA DNA Extraction](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) kit was modified for our lab.
 
-Putnam Lab Protocol written by: [K. Wong](https://kevinhwong1.github.io/KevinHWong_Notebook/Zymo-DNA-RNA-Extraction-Protocol/)
+Putnam Lab Protocol written by: [E. Chille](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Protocol-for-DNA-RNA-Extractions-of-Montipora-Coral-Larvae-Using-Zymo-Duet-Extraction-Kit/)
 
-The following protocol was used for our Holobiont Integration project:
+### Materials:
+- Zymo Duet DNA/RNA Extraction Kit [HERE](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf)**  
+- Thermoixer
+- Centrifuge capable of 16,000 rcf spin (Eppendorf)**
 
-#### Overall workflow
-1. Prepare samples
-2. Extract and prep DNA with column (elute RNA and Protein)
-3. Extract and prep RNA with column (elute Protein)
-4. Quantify DNA, RNA, and protein extracts
+_Make sure ethanol has been added to the wash buffer, and that enzymes have been re-hydrated before starting_
 
-#### Reagents and supplies
-* RNase-free Water
-* 100% ethanol, ACS grade or better
-* 10mM Tris HCl pH 8.0 made with RNase-free water
-* ZR BBashing lysis tubes with 0.1mm and 0.5mm beads
+### Sample Preparation
 
-#### Equipment
-* Rocking oven that can be set to 55°C
-* RNase away and a designated RNase free space
-* Tabletop and larger centrifuges for 1.5mL and 50mL tubes capable of 12,000 x g
+1. Take sample tube with larvae 1 at a time out of the -80 to minimize amount of thawing
+2. Add 300µl DNA/RNA shield directly to the sample tube
+3. Record tube number
+4. Add 30µl of PK digestion buffer to each sample tube
+5. Add 15µl Proteinase K to each sample tube
+6. Vortex and spin down sample tubes
+7. Place in Thermoixer for ~3 hours at 55 degrees C, shaking at 1100 rpm. Check periodically to monitor digestion progress.
+8. After digestion proceed with DNA and RNA Extraction
 
-#### Clipper Sterilization
-* Rub down clippers with:
-  1. 10% Bleach solution
-  2. DI water
-  3. 90% ethanol
-  4. RNAse free water
+### DNA Extraction
+1. Set up yellow DNA spin columns and collection tubes, label appropriately
+2. Warm elution liquids to 70 degrees C (10mM Tris HCl pH. 8.0 and RNase free water)
+3. Add equal volume (345µl) DNA/RNA lysis buffer to each sample tube
+4. Finger flick to mix tubes
+5. Add 700µl (total volume) of sample gently to the yellow DNA spin column
+6. Centrifuge at 16,000 rcf (g) for 30 seconds
+7. **Important** Save the flow through from this step: transfer to a new 1.5mL tube labeled for RNA
+8. Add 400µl DNA/RNA Prep Buffer gently to the yellow DNA spin columns
+9. Centrifuge at 16,000 rcf (g) for 30 seconds
+10. Discard flow through (Zymo kit waste)
+11. Add 700µl DNA/RNA Wash Buffer gently to the yellow DNA spin columns
+12. Centrifuge at 16,000 rcf (g) for 30 seconds
+13. Discard flow through (Zymo kit waste)
+14. Add 400µl DNA/RNA Wash Buffer genetly to the yellow DNA spin columns
+15. Centrifuge at 16,000 rcf (g) for **2 minutes**
+16. Discard flow through (Zymo kit waste)
+17. Transfer yellow columns to new 1.5mL microcentrifuge tubes
+18. Add 50µl warmed 10mM Tris HCl to each yellow DNA column by dripping slowly directly on the filer
+19. Incubate at room temp for 5 minutes
+20. Centrifuge at 16,000 rcf (g) for 30 seconds
+21. Repeat steps 18-20 for a final elution volume of 100µl
+22. Label tubes, store at 4 degrees C if quantifying the same day or the next, if waiting longer store in -20
 
-#### Notes before starting
-  * Wipe down benchtop with RNase away and have the spray bottle and kimwipes on-hand to use frequently
+### RNA Extraction
+*Can do concurrently with DNA Extraction after DNA Extraction Step 7*
+1. Add equal volume (700µl) 100% EtOH to the 1.5mL tubes labeled for RNA containing the original yellow column flow through
+2. Vortex and spin down to mix
+3. Add 700µl of that liquid to the green RNA spin columns
+4. Centrifuge at 16,000 rcf (g) for 30 seconds
+5. Discard flow through (Zymo kit waste)
+6. Add 700µl to the green RNA spin columns (the rest from the 1.5mL RNA tubes)
+7. Centrifuge at 16,000 rcf (g) for 30 seconds
+    - Get DNase I from freezer
+8. Discard flow through (Zymo kit waste)
+9. Add 400µl DNA/RNA Wash Buffer gently to each green RNA column
+10. Centrifuge at 16,000 rcf (g) for 30 seconds
+11. Discard flow through (Zymo kit waste)
+12. Make DNase I treatment master mix:
+    - 75µl DNA Digestion buffer x # of samples
+    - 5µl DNase I x # of samples
+13. Add 80µl DNase I treatment master mix directly to the filter of the green RNA columns
+14. Incubate at room temp for 15 minutes
+15. Add 400µl DNA/RNA Prep Buffer gently to each column
+16. Centrifuge at 16,000 rcf (g) for 30 seconds
+17. Discard flow through (Zymo kit waste)
+18. Add 700µl DNA/RNA Wash Buffer gently to the yellow DNA spin columns
+19. Centrifuge at 16,000 rcf (g) for 30 seconds
+20. Discard flow through (Zymo kit waste)
+21. Add 400µl DNA/RNA Wash Buffer genetly to the yellow DNA spin columns
+22. Centrifuge at 16,000 rcf (g) for **2 minutes**
+23. Discard flow through (Zymo kit waste)
+24. Transfer green columns to new 1.5mL microcentrifuge tubes
+25. Add 50µl warmed DNase/RNase free water to each green RNA column by dripping slowly directly on the filer
+26. Incubate at room temp for 5 minutes
+27. Centrifuge at 16,000 rcf (g) for 30 seconds
+28. Repeat steps 25-27 for a final elution volume of 100µl
+29. Label 1.5mL tubes on ice afterwards, and aliquot 5µl into PCR strip tubes to save for Qubit and Tape Station to avoid freeze-thaw of your stock sample
+30. Store all tubes in the -80
 
-## Sample preparation
+### Extraction Content Analysis
+*These steps analyze the quantity and quality of the DNA/RNA extracted and may be done on a separate day from the extraction*
 
-  #### Homogenate preparation
-  * Immediately after taking sample out of the -80&deg;C freezer, add 500&mu;L of DNA/RNA shield
-  * Add 100 &mu;L of Protenase K digestion buffer
-    * Derived from volume of homogenate and 300/30 ratio from Zymo Protocol
-  * Add 50 &mu;L of Protenase K
-    * Derived from volume of homogenate and 300/15 ratio from Zymo Protocol
-  * Incubate on Thermomixer at 56&deg;C at 600 rpm for 30 minutes
-  * Remove all liquid (1150 &mu;L) and transfer in 5 mL tubes
+#### RNA/DNA Quantity  
+Follow Broad Range dsDNA and RNA Qubit [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/) to analyze sample ++quantity++. Read all samples twice.
 
-#### Fragment preparation
-  * Sterilize clippers (as outlined above)
-  * Clip off ~10mm in diameter of tissue and skeleton and place into ZR BBashing lysis tube
-  * Add 1000 &mu;L of DNA/RNA shield (may be too much)
-  * Vortex for ~1 minute
-  * Remove 500 &mu;L of supernatant and transfer into 5mL tube
-    * Large mucus chunks made this step difficult --> potential source of error
+#### DNA Quality  
+If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel. See example below:
 
-## DNA Extraction
-  1. Add equal volumes of DNA lysis buffer as sample volume to the 5 mL tube with sample
-    * 1150 &mu;L for the homogenate samples
-    * 500 &mu;L for the fragment samples
-    * Vortex to mix
-  2. Transfer 700 &mu;L into DNA filter column (yellow)
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Remove flow through liquid and transfer into a new 5 mL tube labeled for RNA
-  3. Repeat steps 2 until all liquid is gone
-  4. Add 400 &mu;L of DNA/RNA prep buffer to column
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Remove the flow through and transfer to waste
-  5. Add 700 &mu;L of DNA/RNA wash buffer
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Remove the flow through and transfer to waste
-  6. Add 400 &mu;L of DNA/RNA wash buffer
-    * Centrifuge at 16,000 rcf for 2 minutes
-    * Remove the flow through and transfer to waste
-  7. Removed column and place into a new sterile 1.5 mL tube
-  8. Add 50 &mu;L of 10 mM Tris HCL (warmed to 55&deg;C) directly to filter
-    * Incubate at room temperature for 5 minutes
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Keep flow through in tube
-  9. Add another 50 &mu;L of 10 mM Tris HCL (warmed to 55&deg;C) directly to filter
-    * Incubate at room temperature for 5 minutes
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Discard column and keep flow through in tube
-  10. Aliquot into appropriate tubes for storage at -20&deg;C
+![annotated-biomin-gel-batches-4-5.png](https://raw.githubusercontent.com/echille/E.-Chille-Open-Lab-Notebook/master/images/annotated-biomin-gel-batches-4-5.png)
 
-## RNA Extraction
-  11. Add equal volumes of 100% Ethanol as sample volume to the 5 mL tube with sample
-    * 1150 &mu;L for the homogenate samples
-    * 500 &mu;L for the fragment samples
-    * Vortex to mix
-  12. Transfer 700 &mu;L into RNA filter column (green)
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Remove flow through liquid and transfer into a new 5 mL tube labeled for Protein
-  13. Repeat steps 12 until all liquid is gone
-  14. Add 400 &mu;L of DNA/RNA wash buffer to column
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Remove the flow through and transfer to waste
-  15. Make DNase I master mix: [75μL DNA digestion buffer and 5μL DNase] X n (sample #)
-  16. Add 80μL of DNase I master mix directly to the filter of each column. Incubate at room temperature for ~15 minutes
-  17. Add 400 &mu;L of DNA/RNA prep buffer to column
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Remove the flow through and transfer to waste
-  18. Add 700 &mu;L of DNA/RNA wash buffer
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Remove the flow through and transfer to waste
-  19. Add 400 &mu;L of DNA/RNA wash buffer
-    * Centrifuge at 16,000 rcf for 2 minutes
-    * Remove the flow through and transfer to waste
-  20. Removed column and place into a new sterile 1.5 mL tube
-  21. Add 50 &mu;L of RNAase-free water (warmed to 55&deg;C) directly to filter
-    * Incubate at room temperature for 5 minutes
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Keep flow through in tube
-  22. Add another 50 &mu;L of RNAase-free water (warmed to 55&deg;C) directly to filter
-    * Incubate at room temperature for 5 minutes
-    * Centrifuge at 16,000 rcf for 30 seconds
-    * Discard column and keep flow through in tube
-  23. Aliquot into appropriate tubes for storage at -80&deg;C
+#### RNA Quality  
+If RNA quantity is sufficient follow the Tape Station [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) to determine RNA quality and obtain a RNA Integrity Number (RIN). "Good" RNA should have a RIN above 8.0 and form two distinct peaks at the 18S and 28S locations. See example below:
+
+![TS-biomin-Ext-Batch-5-26.png](https://raw.githubusercontent.com/echille/E.-Chille-Open-Lab-Notebook/master/images/TS-biomin-Ext-Batch-5-26.png)

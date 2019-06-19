@@ -61,10 +61,11 @@ Protocol: ___
 
 **Ash-free dry weight**  
 Portions of the tissue slurry were baked in a muffle furnace (4 hours at 500 °C) to calculate ash free dry weight as the difference between dry weight and the ash weight  
-Protocol: ____
+Protocol: ____  
+Can be done in the lipid protocol
 
 ## Schedule
-Week of June 3rd - June 7th: lab work planning, 4 coral fragment RNA DNA protocol testing, bead beating testing, organize freezer.
+Week of June 3rd - June 7th: lab work planning, 4 coral fragment RNA DNA protocol testing 2 rounds, bead beating testing 1 round.
 Week of June 10th - 14th: Emma out of town the 11th through the 18th.  
 Week of June 17th - 21st:  
 Week of June 24th - 28th:  
