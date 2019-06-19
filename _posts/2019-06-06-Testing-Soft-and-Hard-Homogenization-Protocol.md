@@ -50,7 +50,7 @@ Qubit Master Mix (x2 for DNA and RNA)
 - Gel made and hardening at 3:58  
 - Re-aliquoted fragment 1591 hard and soft DNA and RNA tubes
 
-Qubit Results  
+Qubit ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md))Results  
 dsDNA broad range
 
 | DNA(ng/uL)    | Trial 1   | Trial 2 | Avg |
@@ -81,18 +81,16 @@ RNA broad range
 | 2364 Hard  | 193       | 193     | 193  |
 | 2364 Soft  | 202       | 202     | 202  |
 
-Gel Electrophoresis:
-- 1.5% TAE agarose gel  
-- Run at 100V for 45 minutes, start 6:00 end 6:45  
-- Ladder:  
-- Dye:  
-- 4 uL ladder + 1 uL dye, 5 uL sample + 1 uL dye  
-
+Gel Electrophoresis ([Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)):
+- 100V for 45 minutes  
+- 75 uL TAE buffer + 0.75 g + 5 uL of gel RED to make a 1.5% gel  
+- 5 uL samples + 1 uL 6x purple loading dye  
+- 4 uL GeneRuler 1 kb Plus DNA ladder + 1 uL 6x purple loading dye
 
 Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 1431 Soft, 1591 Hard, 1591 Soft
 ![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190606.jpg?raw=true)
 
-TapeStation Results:  
+TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md))Results:  
 - Thermocycler (rna denature program) start 6:15 end 6:21  
 - TapeStation start 6:28 end 6:38  
 - Ladder:

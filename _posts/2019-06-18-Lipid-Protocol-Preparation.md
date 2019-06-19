@@ -51,14 +51,14 @@ Confirmed we have the following:
 - 0.88% Potassium chloride (KCl) - 16 mL  
 - UHP grade 5.0 Nitrogen (Order from BOC gases)
 
-Total physiology samples =  
+Total physiology samples =  310
 If using 9 samples + 1 blank protocol:  
-- Glass test tubes  
-- Pasteur Pipettes  
-- Glass fiber filters  
-- aluminum pans  
-- large amber vials  
-- small amber vials  
-- Chloroform  
-- Methanol  
-- KCl  
+- Glass test tubes (345 = 310 samples + 35 blanks)  
+- Pasteur Pipettes (345 = 310 samples + 35 blanks)  
+- Glass fiber filters (345 = 310 samples + 35 blanks)  
+- aluminum pans (345 = 310 samples + 35 blanks)  
+- large amber vials (345 = 310 samples + 35 blanks)  
+- small amber vials (345 = 310 samples + 35 blanks)  
+- Chloroform (11,040 mL = 345 x 32 mL)  
+- Methanol (3,450 mL = 345 x 10 mL)  
+- KCl (5,520 mL = 345 x 16 mL)  
