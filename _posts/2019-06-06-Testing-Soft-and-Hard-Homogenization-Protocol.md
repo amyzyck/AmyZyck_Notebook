@@ -11,7 +11,7 @@ projects: Holobiont Integration
 
 20190606 E.S.
 
-Testing the soft and hard homogenization protocol on extra molecular samples from the recovery time period of the Holobiont Integration project. 2 *M. capitata* and 2 *P. acuta* fragments were randomly chosen.
+Testing the soft and hard homogenization protocol on extra molecular samples from the recovery time period of the Holobiont Integration project. 2 *M. capitata* and 2 *P. acuta* fragments were randomly chosen. DNA RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).
 
 Original samples:
 
@@ -85,7 +85,7 @@ Gel Electrophoresis ([Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_No
 - 100V for 45 minutes  
 - 75 uL TAE buffer + 0.75 g + 5 uL of gel RED to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
-- 4 uL GeneRuler 1 kb Plus DNA ladder + 1 uL 6x purple loading dye
+- 4 uL [GeneRuler 1 kb Plus DNA ladder]() + 1 uL 6x purple loading dye
 
 Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 1431 Soft, 1591 Hard, 1591 Soft
 ![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190606.jpg?raw=true)

@@ -13,7 +13,7 @@ projects: Holobiont Integration
 
 We chose one *M. capitata* and one *P. acuta* of the four from [Testing Round 1]() to test the vortex timing in the soft homogenization step. During the first round of protocol testing, the tissue on the *P. acuta* fragments came  off much quicker than the *M. capitata* and therefore might need a shorter vortex time during the soft homogenization.
 
-RNA/DNA Extraction protocol used: [Emma Notebook]()  
+RNA/DNA Extraction protocol used: [Emma Notebook](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md)  
 Modified from original [Zymo Duet](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) RNA/DNA Extraction protocol
 
 Samples used:  
@@ -116,8 +116,7 @@ Gel order: Ladder, 1-8H, 1-8S, Ladder
 TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md))  
 - 2 screentapes used (each tape has 16 slots)  
 - 1st round: Ladder, 1-6H; start 5:31 end 5:41  
-- 2nd round: Ladder, 1-7S, 7H, 8S, 8H; screentape switched halfway through  
-- start 5:58 end 6:08 start 6:09 end 6:15  
+- 2nd round: Ladder, 1-7S, 7H, 8S, 8H; screentape switched halfway through- start 5:58 end 6:08 start 6:09 end 6:15  
 - Ladder: Agilen RNA screentape ladder  
 
 | Extraction # | Coral ID | Species | Extraction Type | RIN^e |
