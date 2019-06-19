@@ -138,7 +138,7 @@ If using 9 samples + 1 blank protocol:
 
 ### Flow Cytometer
 
-- 96 well plates (4)  
+- 96 round bottom well plates (4)  
 - paraformaldehyde
 
 ### Airbrushing
@@ -149,7 +149,7 @@ If using 9 samples + 1 blank protocol:
 
 ### DNA RNA Extractions
 
-- Zymo kits (X)  
+- Zymo kits (order as needed)  
 - microcentrifuge tubes
 
 ### Qubit, TapeStation, Gel  
@@ -160,9 +160,12 @@ If using 9 samples + 1 blank protocol:
 
 - Pierce BCA kits (X)
 
-### Wax Dipping
+### Wax Dipping  
+
+- dowels
 
 ### Chlorophyll concentration
 
 - acetone  
-- spectrophotometer 
+- spectrophotometer  
+- glass plate
