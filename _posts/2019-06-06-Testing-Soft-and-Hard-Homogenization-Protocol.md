@@ -93,7 +93,7 @@ Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 143
 TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md))Results:  
 - Thermocycler (rna denature program) start 6:15 end 6:21  
 - TapeStation start 6:28 end 6:38  
-- Ladder:
+- Ladder: Agilen RNA screentape ladder
 
 | Coral ID | Tape Station ID |   RIN^e  |
 |-----------------|-------|-----|

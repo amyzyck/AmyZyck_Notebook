@@ -116,7 +116,9 @@ Gel order: Ladder, 1-8H, 1-8S, Ladder
 TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md))  
 - 2 screentapes used (each tape has 16 slots)  
 - 1st round: Ladder, 1-6H; start 5:31 end 5:41  
-- 2nd round: Ladder, 1-7S, 7H, 8S, 8H; screentape switched halfway through - start 5:58 end 6:08 start 6:09 end 6:15  
+- 2nd round: Ladder, 1-7S, 7H, 8S, 8H; screentape switched halfway through  
+- start 5:58 end 6:08 start 6:09 end 6:15  
+- Ladder: Agilen RNA screentape ladder  
 
 | Extraction # | Coral ID | Species | Extraction Type | RIN^e |
 |--------|-----------------|-------|---------|-------|
