@@ -145,12 +145,12 @@ If using 9 samples + 1 blank protocol:
 
 - 50 mL falcon tubes (310)  
 - filtered seawater  
-- 0.X µm filters (X)
+- 0.X µm filters (X)  
+- compressed air - scuba tank?
 
 ### DNA RNA Extractions
 
 - Zymo kits (order as needed)  
-- microcentrifuge tubes
 
 ### Qubit, TapeStation, Gel  
 
@@ -168,4 +168,9 @@ If using 9 samples + 1 blank protocol:
 
 - acetone  
 - spectrophotometer  
-- glass plate
+- glass plate  
+
+### General - order as needed
+
+- microcentrifuge tubes  
+- filter and non-filter pipettes tips
