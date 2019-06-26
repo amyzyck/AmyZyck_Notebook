@@ -67,7 +67,7 @@ Can be done in the lipid protocol
 ## Schedule
 Week of June 3rd - June 7th: lab work planning, 4 coral fragment RNA DNA protocol testing 2 rounds, bead beating testing 1 round.
 Week of June 10th - 14th: Emma out of town the 11th through the 18th.  
-Week of June 17th - 21st:  
+Week of June 17th - 21st: order materials, lab work planning, outside of lab work.
 Week of June 24th - 28th:  
 Week of July 1st - July 5th:  
 Week of July 8th - July 12th:  
@@ -77,7 +77,9 @@ Week of July 29th - August 2nd:
 Week of August 5th - August 9th:  
 Week of August 12th - August 16th:  
 Week of August 19th - August 23rd:  
-Week of August 26th - August 30th:
+Week of August 26th - August 30th:  
+
+Timeline: 10 samples a day (extractions, qubit, tapestation, gel) = ~40 days to do 399 samples total, ~24 days to do just the stress period samples.
 
 ## Equipment Preparation
 ### Lipid Protocol
@@ -139,7 +141,8 @@ If using 9 samples + 1 blank protocol:
 ### Flow Cytometer
 
 - 96 round bottom well plates (4)  
-- paraformaldehyde
+- paraformaldehyde  
+- adapter for microcentrifuge tubes?
 
 ### Airbrushing
 
@@ -158,7 +161,7 @@ If using 9 samples + 1 blank protocol:
 
 ### Total Protein
 
-- Pierce BCA kits (X)
+- Pierce BCA kits (order as needed)
 
 ### Wax Dipping  
 
@@ -169,6 +172,8 @@ If using 9 samples + 1 blank protocol:
 - acetone  
 - spectrophotometer  
 - glass plate  
+
+### Dry biomass, ash-free dry weight
 
 ### General - order as needed
 
