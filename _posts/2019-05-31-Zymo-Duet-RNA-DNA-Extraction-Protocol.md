@@ -21,10 +21,35 @@ Based on Putnam Lab protocols written by: [E. Chille](https://echille.github.io/
 
 ### Adult Fragment Tissue Sample Preparation
 
-1.
+Bead tubes: 2mL 0.5mm glass beads and tubes from [Fisher Scientific](https://www.fishersci.com/shop/products/bead-tube-2ml-0-5mm-glass-50pk/15340152)
+
+Sterilizing working area:
+I. Rinse clippers with:
+  1. 10% bleach solution  
+  2. DI water  
+  3. Isopropanol  
+  4. RNAse free water
+
+II. Spray gloves with RNAse away and rub hands together.
+
+Take fragments one at a time out of the freezer and sterilize clippers in between every fragment. These steps are time sensitive to prevent the coral fragments and freezer from thawing. Do not rush, but be efficient.
+
+Clipping fragment:  
+1. Label the side of a bead tube with the coral fragment's sample ID number, your initials, and today's date. Label the cap of the bead tube with the coral ID number.       
+2. Add 1000 uL of RNA/DNA shield to the tube.
+3. Remove desired fragment from -80 &deg;C freezer.  
+4. Using sterilized clippers, clip off 3-4 small pieces and place all the pieces into the 1.5 mL microcentrifuge tube. RNA/DNA shield needs to cover the fragments.
 
 ### Larvae Sample Preparation
-
+From [E. Chille's Putnam Lab Protocol](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Protocol-for-DNA-RNA-Extractions-of-Montipora-Coral-Larvae-Using-Zymo-Duet-Extraction-Kit/):
+1. Take sample tube with larvae 1 at a time out of the -80 to minimize amount of thawing  
+2. Add 300µl DNA/RNA shield directly to the sample tube  
+3. Record tube number  
+4. Add 30µl of PK digestion buffer to each sample tube  
+5. Add 15µl Proteinase K to each sample tube  
+6. Vortex and spin down sample tubes  
+7. Place in Thermoixer for ~3 hours at 55 degrees C, shaking at 1100 rpm. Check periodically to monitor digestion progress.  
+8. After digestion proceed with DNA and RNA Extraction.  
 
 
 
