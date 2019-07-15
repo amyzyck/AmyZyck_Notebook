@@ -11,7 +11,9 @@ projects: Holobiont Integration
 
 20190606 E.S.
 
-Testing the soft and hard homogenization protocol on extra molecular samples from the recovery time period of the Holobiont Integration project. 2 *M. capitata* and 2 *P. acuta* fragments were randomly chosen. DNA RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).
+Testing the soft and hard homogenization protocol on extra molecular samples from the recovery time period of the Holobiont Integration project. 2 *M. capitata* and 2 *P. acuta* fragments were randomly chosen.
+
+DNA RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).
 
 Original samples:
 
@@ -22,17 +24,19 @@ Original samples:
 | SITE 3 | Reef.18         | 5     | M45     | Mcapitata | 20180910     | 2309    | 6     | ATAC      | Molecular | 11:28 | 11         | 20181215      | Alive      | In Tank 6 20181118; off plug | In Transit to URI | 20190206      | Soft and hard homogenization | ES          | 20190606      |
 | SITE 3 | Reef.18         | 8     | P72     | Pacuta    | 20180910     | 2364    | 6     | ATAC      | Molecular | 11:27 | 11         | 20181215      | Alive      | In Tank 6 20181118           | In Transit to URI | 20190206      | Soft and hard homogenization | ES          | 20190606      |
 
-General notes:  
-- Proteinase K buffer and Proteinase K added after bead beating steps.  
+Observations:  
 - Vortexing for two minutes was more than enough time. The *P. acuta* tissue came off quicker than *M. capitata*. This might cause problems later in the protocol. Maybe less beads or more fragment pieces?  
-- Almost all of the tissue from fragment 1431 came off during the "soft" homogenization step.  
-- Half of the beads from bead bug machine tubes were used.  
-- Tissue Lyser was broken, so bead bug was used for the "hard" homogenization step instead. Run at 400 speed and 30 seconds.  
 - Both homogenization steps got at least 500 uL of sample.  
+- Almost all of the tissue from fragment 1431 came off during the "soft" homogenization step.   
+- After hard homogenization, not all of the tissue from the *M. capitata* came off the skeleton, but the liquid was dark brown.    
+- Tissue Lyser was broken, so bead bug was used for the "hard" homogenization step instead. Run at 400 speed and 30 seconds.  
+- Heating started at 12:55, ended at 2:25.   
+
+Changes to [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md):  
+- Half of the beads from bead bug machine tubes were used.
 - 500 uL of shield used instead of 1000 uL for the "hard" homogenization step.  
-- After hard homogenization, not all of the tissue from the *M. capitata* came off the skeleton, but the liquid was dark brown.  
 - 30 uL of Proteinase K Buffer, and 15 uL of Proteinase K used.  
-- Heating started at 12:55, ended at 2:25.  
+- Proteinase K buffer and Proteinase K added after bead beating steps.  
 
 Calculations:  
 DNAse I  
@@ -46,8 +50,7 @@ Qubit Master Mix (x2 for DNA and RNA)
 2 standards: 190 uL Master Mix + 10 uL standard  
 16 samples: 199 uL Master Mix + 1 uL sample  
 
-15 minute incubation started at 3:44  
-- Gel made and hardening at 3:58  
+15 minute incubation started at 15:44  
 - Re-aliquoted fragment 1591 hard and soft DNA and RNA tubes
 
 Qubit ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md))Results  
@@ -81,19 +84,20 @@ RNA broad range
 | 2364 Hard  | 193       | 193     | 193  |
 | 2364 Soft  | 202       | 202     | 202  |
 
-Gel Electrophoresis ([Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)):
+Gel Electrophoresis ([Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)):  
+- Gel made during 15 minute incubation period at 15:58
 - 100V for 45 minutes  
-- 75 uL TAE buffer + 0.75 g + 5 uL of gel RED to make a 1.5% gel  
+- 75 uL TAE buffer + 0.75 g agarose + 5 uL of gel RED to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
 - 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
 
 Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 1431 Soft, 1591 Hard, 1591 Soft
 ![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190606.jpg?raw=true)
 
-TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md))Results:  
-- Thermocycler (rna denature program) start 6:15 end 6:21  
-- TapeStation start 6:28 end 6:38  
-- Ladder: Agilen RNA screentape ladder
+TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md)) Results:  
+- Thermocycler (rna denature program) start 18:15 end 18:21  
+- TapeStation start 18:28 end 18:38  
+- Ladder: [Agilen RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
 
 | Coral ID | Tape Station ID |   RIN^e  |
 |-----------------|-------|-----|
@@ -107,4 +111,5 @@ TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/m
 | 2364 Hard       | H1    | 4.1 |
 | 2364 Soft       | A2    | 6.9 |
 
-[Link to report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-06-06%20-%2018.25.53.pdf)
+[Link to 20190606 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-06-06%20-%2018.25.53.pdf)  
+[Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)

@@ -19,9 +19,18 @@ Based on Putnam Lab protocols written by: [E. Chille](https://echille.github.io/
 2. Reconstitute the lyophilized (freeze-dried) DNase I as indicated on the vial prior to use. Mix by inversion. Store frozen aliquots.  
 3. Reconstitute the lyophilized (freeze-dried) 20 mg Proteinase K with 1040 uL Proteinase K Storage Buffer or lyophilized (freeze-dried) 5 mg Proteinase K with 260 uL Proteinase K Storage Buffer. Vortex to dissolve. Store at -20 &deg;C.
 
+### Adult Fragment Tissue Sample Preparation
+
+1.
+
+### Larvae Sample Preparation
+
+
+
+
 ### DNA Extraction
 1. Set up yellow DNA spin columns and collection tubes, label appropriately
-2. Warm elution liquids to 70 degrees C (10mM Tris HCl pH. 8.0 and RNase free water)
+2. Warm elution liquids to 70 degrees &deg;C (10mM Tris HCl pH. 8.0 and RNase free water)
 3. Add equal volume (345µl) DNA/RNA lysis buffer to each sample tube
 4. Finger flick to mix tubes
 5. Add 700µl (total volume) of sample gently to the yellow DNA spin column
