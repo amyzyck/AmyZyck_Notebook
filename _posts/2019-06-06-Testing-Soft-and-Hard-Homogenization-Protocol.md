@@ -87,7 +87,7 @@ RNA broad range
 Gel Electrophoresis ([Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)):  
 - Gel made during 15 minute incubation period at 15:58
 - 100V for 45 minutes  
-- 75 uL TAE buffer + 0.75 g agarose + 5 uL of gel RED to make a 1.5% gel  
+- 75 uL TAE buffer + 0.75 g agarose + 5 uL of [ Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
 - 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
 
@@ -95,7 +95,7 @@ Sample order: Ladder, 2364 Hard, 2364 Soft, 2309 Hard, 2309 Soft, 1431 Hard, 143
 ![Image](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190606.jpg?raw=true)
 
 TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md)) Results:  
-- Thermocycler (rna denature program) start 18:15 end 18:21  
+- Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C. start 18:15 end 18:21  
 - TapeStation start 18:28 end 18:38  
 - Ladder: [Agilen RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
 

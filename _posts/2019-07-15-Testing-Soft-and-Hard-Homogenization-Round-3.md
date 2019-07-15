@@ -115,7 +115,7 @@ Qubit round 2 results:
 
 [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):  
 - 100V for 45 minutes, start 15:52 end 16:27  
-- 75 uL TAE buffer + 0.75 g agarose + 5 uL of gel RED to make a 1.5% gel  
+- 75 uL TAE buffer + 0.75 g agarose + 5 uL of [ Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
 - 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
 
@@ -138,3 +138,7 @@ Sample order: Ladder, #1-8
 
 [Link to the full 20190715 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-15%20-%2016.17.52.pdf)
 [Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
+
+- Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C.  
+- TapeStation start 16:17 end 16:27  
+- Ladder: [Agilen RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
