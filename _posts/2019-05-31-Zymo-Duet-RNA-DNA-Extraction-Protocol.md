@@ -11,25 +11,13 @@ projects: Putnam Lab
 
 Zymo's Duet [RNA DNA Extraction](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) kit was modified for our lab.
 
-Putnam Lab Protocol written by: [E. Chille](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Protocol-for-DNA-RNA-Extractions-of-Montipora-Coral-Larvae-Using-Zymo-Duet-Extraction-Kit/)
+Based on Putnam Lab protocols written by: [E. Chille](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Protocol-for-DNA-RNA-Extractions-of-Montipora-Coral-Larvae-Using-Zymo-Duet-Extraction-Kit/) and [K. Wong](https://github.com/kevinhwong1/KevinHWong_Notebook/blob/master/_posts/2019-03-13-Zymo-DNA-RNA-Extract-P.astreoides-Genome.md).
 
-### Materials:
-- Zymo Duet DNA/RNA Extraction Kit [HERE](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf)**  
-- Thermoixer
-- Centrifuge capable of 16,000 rcf spin (Eppendorf)**
+### Reagent Preparation
 
-_Make sure ethanol has been added to the wash buffer, and that enzymes have been re-hydrated before starting_
-
-### Sample Preparation
-
-1. Take sample tube with larvae 1 at a time out of the -80 to minimize amount of thawing
-2. Add 300µl DNA/RNA shield directly to the sample tube
-3. Record tube number
-4. Add 30µl of PK digestion buffer to each sample tube
-5. Add 15µl Proteinase K to each sample tube
-6. Vortex and spin down sample tubes
-7. Place in Thermoixer for ~3 hours at 55 degrees C, shaking at 1100 rpm. Check periodically to monitor digestion progress.
-8. After digestion proceed with DNA and RNA Extraction
+1. Add 96 mL 100% ethanol (104 mL 95% ethanol) to the 24 mL DNA/RNA Wash Buffer concentrate before use. DNA/RNA Wash Buffer included with D7003T (Mini Prep Plus Kit) is supplied ready-to-use and does not require the addition of ethanol prior to use. Check kit contents and instructions to confirm prep steps.  
+2. Reconstitute the lyophilized (freeze-dried) DNase I as indicated on the vial prior to use. Mix by inversion. Store frozen aliquots.  
+3. Reconstitute the lyophilized (freeze-dried) 20 mg Proteinase K with 1040 uL Proteinase K Storage Buffer or lyophilized (freeze-dried) 5 mg Proteinase K with 260 uL Proteinase K Storage Buffer. Vortex to dissolve. Store at -20 &deg;C.
 
 ### DNA Extraction
 1. Set up yellow DNA spin columns and collection tubes, label appropriately
