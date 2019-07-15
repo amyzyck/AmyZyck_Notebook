@@ -30,7 +30,7 @@ DNA RNA Extraction Protocol found [here](https://github.com/emmastrand/EmmaStran
 
 2-3 fragment pieces were clipped per coral. The following photo depicts the fragment pieces in RNA DNA shield before soft and hard homogenization steps.
 
-![Before](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190715_before.JPG?raw=true)
+![Before](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190715_before3.JPG?raw=true)
 
 Pocillopora were "soft-homogenized" for 1 minute and Montipora for 2 minutes in a vortex. Both species were "hard-homogenized" for 30 seconds at 20 Hz in the [Qiagen Tissue Lyser]().
 
