@@ -125,5 +125,16 @@ Sample order: Ladder, #1-8
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:  
 
-[Link to the full 20190715 report]()
+| Extraction ID | Coral ID         | RIN^e |
+|---------------|------------------|-------|
+| 1             | 1132 Mcap soft   | 5.8   |
+| 2             | 1132 Mcap hard   | 4.8   |
+| 3             | 1769 Mcap soft   | 6.8   |
+| 4             | 1769 Mcap hard   | 5.3   |
+| 5             | 1056 Pacuta soft | 6.1   |
+| 6             | 1056 Pacuta hard | 5     |
+| 7             | 1607 Pacuta soft | 5     |
+| 8             | 1607 Pacuta hard | 4.3   |
+
+[Link to the full 20190715 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-15%20-%2016.17.52.pdf)
 [Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
