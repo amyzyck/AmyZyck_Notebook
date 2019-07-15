@@ -121,7 +121,7 @@ Qubit round 2 results:
 
 Sample order: Ladder, #1-8
 
-![Gel_20190715]()
+![Gel_20190715](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190715.jpg?raw=true)
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:  
 
