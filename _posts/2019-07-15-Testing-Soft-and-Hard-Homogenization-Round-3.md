@@ -55,7 +55,7 @@ DNA Master Mix Calculations:
 - 8 samples + 2 standards + 0.2% error = 10.2 uL Quant-IT reagent  
 - 199 * 10.2 = 2,029.8 uL buffer
 
-Qubit Results:
+Qubit (ng/uL) Results:
 
 | DNA        |                  |         |         |
 |------------|------------------|---------|---------|
@@ -85,7 +85,7 @@ Qubit Results:
 
 The value for DNA Standard 2 looks too high. Standards and Qubit re-done.  
 
-Qubit round 2 results:
+Qubit (ng/uL) round 2 results:
 
 | DNA        |                  |      |      |
 |------------|------------------|------|------|
@@ -115,7 +115,7 @@ Qubit round 2 results:
 
 [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):  
 - 100V for 45 minutes, start 15:52 end 16:27  
-- 75 uL TAE buffer + 0.75 g agarose + 5 uL of [ Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
+- 75 uL TAE buffer + 0.75 g agarose + 5 uL of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
 - 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
 
