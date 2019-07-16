@@ -30,15 +30,15 @@ DNA RNA Extraction Protocol found [here](https://github.com/emmastrand/EmmaStran
 
 Before homogenization steps:  
 
-![Before]()
+![Before](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716_before.JPG?raw=true)
 
 After soft homogenization:  
 
-![After_soft]()
+![After_soft](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716_soft.JPG?raw=true)
 
 After hard homogenization:  
 
-![After_hard]()
+![After_hard](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716_hard.JPG?raw=true)
 
 500 µl of DNA RNA shield accidentally added to the soft homogenization tubes. The supernatant taken from the soft homogenization step instead of adding the shield to the tube with the coral fragment clippings.
 
@@ -56,8 +56,40 @@ Master Mix Calculations:
 - 8 samples + 2 standards + 0.2% error = 10.2 µl reagent  
 - 199 * 10.2 = 2,029.8 µl buffer
 
+| DNA (ng/uL)        |                  |      |      |
+|------------|------------------|------|------|
+| Standard 1 | 176.27           |      |      |
+| Standard 2 | 20135.99         |      |      |
+| 1          | 1132 Mcap soft   | 20.8 | 20.8 |
+| 2          | 1132 Mcap hard   | 20.8 | 20.6 |
+| 3          | 1769 Mcap soft   | 27   | 26.8 |
+| 4          | 1769 Mcap hard   | 28   | 28   |
+| 5          | 1056 Pacuta soft | 39.4 | 39.4 |
+| 6          | 1056 Pacuta hard | 54   | 53.8 |
+| 7          | 1607 Pacuta soft | 18.6 | 18.5 |
+| 8          | 1607 Pacuta hard | 17.4 | 17.3 |
 
+| RNA (ng/uL)        |                  |      |      |
+|------------|------------------|------|------|
+| Standard 1 | 393.16           |      |      |
+| Standard 2 | 10592.52         |      |      |
+| 1          | 1132 Mcap soft   | 11.8 | 11.8 |
+| 2          | 1132 Mcap hard   | 10.6 | 10.6 |
+| 3          | 1769 Mcap soft   | 16.6 | 16.6 |
+| 4          | 1769 Mcap hard   | 20.4 | 20.4 |
+| 5          | 1056 Pacuta soft | 34.2 | 34.2 |
+| 6          | 1056 Pacuta hard | 47.2 | 47.2 |
+| 7          | 1607 Pacuta soft | 27.8 | 27.8 |
+| 8          | 1607 Pacuta hard | 22.8 | 22.8 |
 
-[Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):
+[Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):  
+- 100V for 45 minutes, start 15:52 end 16:27  
+- 75 uL TAE buffer + 0.75 g agarose + 5 uL of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
+- 5 uL samples + 1 uL 6x purple loading dye  
+- 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
+
+Gel order: Ladder, 1-8
+
+![Gel20190716](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716.JPG?raw=true)
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
