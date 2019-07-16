@@ -53,8 +53,8 @@ DNAse I Master Mix Calculations:
 [Qubit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md) Results:
 
 Master Mix Calculations:  
-- 8 samples + 2 standards + 0.2% error = 10.2 µl reagent  
-- 199 * 10.2 = 2,029.8 µl buffer
+- 8 samples + 2 standards + 0.2% error = 10.2 µl Quant-IT Reagent  
+- 199 * 10.2 = 2,029.8 µl Qubit buffer
 
 | DNA (ng/uL)        |                  |      |      |
 |------------|------------------|------|------|
@@ -107,7 +107,10 @@ Gel order: Ladder, 1-8
 
 ** Concentration too low for TapeStation to detect.
 
-[Link to the full 20190715 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-15%20-%2016.17.52.pdf)
+TapeStation re-done because samples were out of range.
+
+[Link to the first 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2013.24.12.pdf)
+[Link to the second 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2014.11.01.pdf)
 [Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
 
 - Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C.  
