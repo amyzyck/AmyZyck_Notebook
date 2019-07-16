@@ -83,13 +83,33 @@ Master Mix Calculations:
 | 8          | 1607 Pacuta hard | 22.8 | 22.8 |
 
 [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):  
-- 100V for 45 minutes, start 15:52 end 16:27  
+- 100V for 45 minutes, start 12:47 end 13:32  
 - 75 uL TAE buffer + 0.75 g agarose + 5 uL of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
 - 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
 
 Gel order: Ladder, 1-8
 
-![Gel20190716](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716.JPG?raw=true)
+![Gel20190716](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716_gel.JPG?raw=true)
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
+
+| Extraction ID | Coral ID         | RIN^e |
+|---------------|------------------|-------|
+| 1             | 1132 Mcap soft   | 6.1   |
+| 2             | 1132 Mcap hard   | **   |
+| 3             | 1769 Mcap soft   | 7.7   |
+| 4             | 1769 Mcap hard   | 8.2   |
+| 5             | 1056 Pacuta soft | 6.9   |
+| 6             | 1056 Pacuta hard | 7.1     |
+| 7             | 1607 Pacuta soft | 6.3     |
+| 8             | 1607 Pacuta hard | 6.0   |
+
+** Concentration too low for TapeStation to detect.
+
+[Link to the full 20190715 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-15%20-%2016.17.52.pdf)
+[Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
+
+- Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C.  
+- TapeStation start 14:10 end 14:20  
+- Ladder: [Agilen RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
