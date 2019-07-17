@@ -36,7 +36,7 @@ Take fragments one at a time out of the freezer and sterilize clippers in betwee
 
 Clipping fragment:  
 1. Label the side of a bead tube with the coral fragment's sample ID number, your initials, and today's date. Label the cap of the bead tube with the coral ID number.       
-2. Add 1000 uL of RNA/DNA shield to the tube.
+2. Add 1000 μl of RNA/DNA shield to the tube.
 3. Remove desired fragment from -80 &deg;C freezer.  
 4. Using sterilized clippers, clip off 3-4 small pieces and place all the pieces into the 1.5 mL microcentrifuge tube. RNA/DNA shield needs to cover the fragments.
 
@@ -50,8 +50,6 @@ From [E. Chille's Putnam Lab Protocol](https://echille.github.io/E.-Chille-Open-
 6. Vortex and spin down sample tubes  
 7. Place in Thermoixer for ~3 hours at 55 degrees C, shaking at 1100 rpm. Check periodically to monitor digestion progress.  
 8. After digestion proceed with DNA and RNA Extraction.  
-
-
 
 ### DNA Extraction
 1. Set up yellow DNA spin columns and collection tubes, label appropriately

@@ -105,7 +105,7 @@ General notes:
 
 Gel Electrophoresis ([Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)):   
 - 100V for 45 minutes  
-- 75 uL TAE buffer + 0.75 g + 5 uL of gel RED to make a 1.5% gel  
+- 75 uL TAE buffer + 0.75 g + 5 uL of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
 - 5 uL samples + 1 uL 6x purple loading dye  
 - 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
 
@@ -117,7 +117,7 @@ TapeStation ([Protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/m
 - 2 screentapes used (each tape has 16 slots)  
 - 1st round: Ladder, 1-6H; start 5:31 end 5:41  
 - 2nd round: Ladder, 1-7S, 7H, 8S, 8H; screentape switched halfway through- start 5:58 end 6:08 start 6:09 end 6:15  
-- Ladder: Agilen RNA screentape ladder  
+- Ladder: [Agilent RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
 
 | Extraction # | Coral ID | Species | Extraction Type | RIN^e |
 |--------|-----------------|-------|---------|-------|

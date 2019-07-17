@@ -32,7 +32,7 @@ DNA RNA Extraction Protocol found [here](https://github.com/emmastrand/EmmaStran
 
 ![Before](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190715_before3.JPG?raw=true)
 
-Pocillopora were "soft-homogenized" for 1 minute and Montipora for 2 minutes in a vortex. Both species were "hard-homogenized" for 30 seconds at 20 Hz in the [Qiagen Tissue Lyser]().
+Pocillopora were "soft-homogenized" for 1 minute and Montipora for 2 minutes in a vortex. Both species were "hard-homogenized" for 30 seconds at 20 Hz in the Qiagen Tissue Lyser: [Handbook](https://www.qiagen.com/us/resources/resourcedetail?id=65e7826c-4d50-4faf-8154-2fbc782c41a6&lang=en).
 
 Extraction notes:  
 - New Proteinase K made halfway through steps, new Proteinase K used for samples #6-8.  
@@ -48,14 +48,14 @@ Fragment pieces after the hard homogenization:
 ![After_hard](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190715_hard.JPG?raw=true)
 
 DNA Master Mix Calculations:  
-- 75 uL DNA Digestion Buffer x 8 samples = 600 uL buffer  
-- 5 uL DNase I x 8 samples = 40 uL DNase I enzyme  
+- 75 μl DNA Digestion Buffer x 8 samples = 600 μl buffer  
+- 5 μl DNase I x 8 samples = 40 μl DNase I enzyme  
 
 [Qubit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md) Master Mix Calculations:  
-- 8 samples + 2 standards + 0.2% error = 10.2 uL Quant-IT reagent  
-- 199 * 10.2 = 2,029.8 uL buffer
+- 8 samples + 2 standards + 0.2% error = 10.2 μl Quant-IT reagent  
+- 199 * 10.2 = 2,029.8 μl buffer
 
-Qubit (ng/uL) Results:
+Qubit (ng/μl) Results:
 
 | DNA        |                  |         |         |
 |------------|------------------|---------|---------|
@@ -85,7 +85,7 @@ Qubit (ng/uL) Results:
 
 The value for DNA Standard 2 looks too high. Standards and Qubit re-done.  
 
-Qubit (ng/uL) round 2 results:
+Qubit (ng/μl) round 2 results:
 
 | DNA        |                  |      |      |
 |------------|------------------|------|------|
@@ -115,9 +115,9 @@ Qubit (ng/uL) round 2 results:
 
 [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):  
 - 100V for 45 minutes, start 15:52 end 16:27  
-- 75 uL TAE buffer + 0.75 g agarose + 5 uL of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
-- 5 uL samples + 1 uL 6x purple loading dye  
-- 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
+- 75 μl TAE buffer + 0.75 g agarose + 5 μl of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
+- 5 μl samples + 1 μl 6x purple loading dye  
+- 4 μl [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 μl 6x purple loading dye
 
 Sample order: Ladder, #1-8
 
@@ -141,4 +141,4 @@ Sample order: Ladder, #1-8
 
 - Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C.  
 - TapeStation start 16:17 end 16:27  
-- Ladder: [Agilen RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
+- Ladder: [Agilent RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)

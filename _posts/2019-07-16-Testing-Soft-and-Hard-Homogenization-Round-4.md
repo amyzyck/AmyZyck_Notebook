@@ -56,7 +56,7 @@ Master Mix Calculations:
 - 8 samples + 2 standards + 0.2% error = 10.2 µl Quant-IT Reagent  
 - 199 * 10.2 = 2,029.8 µl Qubit buffer
 
-| DNA (ng/uL)        |                  |      |      |
+| DNA (ng/μl)        |                  |      |      |
 |------------|------------------|------|------|
 | Standard 1 | 176.27           |      |      |
 | Standard 2 | 20135.99         |      |      |
@@ -69,7 +69,7 @@ Master Mix Calculations:
 | 7          | 1607 Pacuta soft | 18.6 | 18.5 |
 | 8          | 1607 Pacuta hard | 17.4 | 17.3 |
 
-| RNA (ng/uL)        |                  |      |      |
+| RNA (ng/μl)        |                  |      |      |
 |------------|------------------|------|------|
 | Standard 1 | 393.16           |      |      |
 | Standard 2 | 10592.52         |      |      |
@@ -84,9 +84,9 @@ Master Mix Calculations:
 
 [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):  
 - 100V for 45 minutes, start 12:47 end 13:32  
-- 75 uL TAE buffer + 0.75 g agarose + 5 uL of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel  
-- 5 uL samples + 1 uL 6x purple loading dye  
-- 4 uL [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 uL 6x purple loading dye
+- 75 μl TAE buffer + 0.75 g agarose + 5 μl of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel.  
+- 5 μl samples + 1 μl 6x purple loading dye  
+- 4 μl [GeneRuler 1 kb Plus DNA ladder](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/GeneRuler_1kb_Plus_DNALadder_250ug_UG.bmp-650.jpg?raw=true) + 1 μl 6x purple loading dye
 
 Gel order: Ladder, 1-8
 
@@ -109,10 +109,10 @@ Gel order: Ladder, 1-8
 
 TapeStation re-done because samples were out of range.
 
-[Link to the first 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2013.24.12.pdf)
-[Link to the second 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2014.11.01.pdf)
-[Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
+[Link to the first 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2013.24.12.pdf)  
+[Link to the second 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2014.11.01.pdf)  
+[Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)  
 
 - Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C.  
 - TapeStation start 14:10 end 14:20  
-- Ladder: [Agilen RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
+- Ladder: [Agilent RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
