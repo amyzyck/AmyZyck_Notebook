@@ -11,10 +11,6 @@ projects: Holobiont Integration
 
 Testing the soft and hard homogenization protocol on extra molecular samples from the December recovery time period of the Holobiont Integration project. 2 *M. capitata* and 2 *P. acuta* fragments were randomly chosen from ATAC treatment 20181215. These four fragments were used on 20190715 and 20190716.
 
-Changes for round 4:  
-- No heat to lyse step because the heating might be contributing to the RNA degradation  
-- just 1 fragment clipping because the RNA DNA shield might be overloaded with more than one clipping
-
 | Extraction # | Coral ID | Species     | Homogenization |
 |--------------|----------|-------------|----------------|
 | 1            | 1123     | Montipora   | Soft           |
@@ -26,7 +22,11 @@ Changes for round 4:
 | 7            | 1607     | Pocillopora | Soft           |
 | 8            | 1607     | Pocillopora | Hard           |
 
-DNA RNA Extraction Protocol found [here](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).
+Soft and Hard homogenization, and DNA/RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-06-05-Soft-and-Hard-Homogenization-Protocol.md). General Zymo Duet RNA DNA Extraction protocol found [here](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).  
+With the following changes:  
+- No heat to lyse step to test if the heating is contributing to the RNA degradation.    
+- Just 1 fragment clipping instead of 2-3 clippings to test if the RNA/DNA shield is overloaded with more than one clipping.    
+- Diluted soft homogenization supernatant with 500 µl of RNA/DNA shield accidentally. Results suggest that this didn't impact the quality, but may have diluted quantity.  
 
 Before homogenization steps:  
 
@@ -40,11 +40,9 @@ After hard homogenization:
 
 ![After_hard](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716_hard.JPG?raw=true)
 
-500 µl of DNA RNA shield accidentally added to the soft homogenization tubes. The supernatant taken from the soft homogenization step instead of adding the shield to the tube with the coral fragment clippings.
-
 Extraction steps: start 10:00 end 12:06. 8 samples takes about two hours.  
 
-1056 soft DNA final tube lost some liquid.
+1056 soft DNA final tube contains ~70-80 µl instead of 90 µl.
 
 DNAse I Master Mix Calculations:  
 - 75 µl x 8 samples = 600 µl buffer  
@@ -82,6 +80,8 @@ Master Mix Calculations:
 | 7          | 1607 Pacuta soft | 27.8 | 27.8 |
 | 8          | 1607 Pacuta hard | 22.8 | 22.8 |
 
+If the quantity is below 10 ng/μl in the soft homogenization, then re-extract DNA and RNA to allow for enough DNA/RNA for methylation and transcriptomic protocols/sequencing.
+
 [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):  
 - 100V for 45 minutes, start 12:47 end 13:32  
 - 75 μl TAE buffer + 0.75 g agarose + 5 μl of [Biotium gel RED gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to make a 1.5% gel.  
@@ -92,7 +92,13 @@ Gel order: Ladder, 1-8
 
 ![Gel20190716](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190716_gel.JPG?raw=true)
 
+Ordered [Biotium gel GREEN gel stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/?keyword=dna%20gel%20electrophoresis&creative=262626170330&gclid=EAIaIQobChMIsIKv5va34wIVzICfCh1BowDnEAAYASAAEgKjK_D_BwE) to use in the future instead of Biotium gel RED gel stain. Gel GREEN stain has been brighter in gels before for labmates.
+
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
+
+- Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C.  
+- TapeStation start 14:10 end 14:20  
+- Ladder: [Agilent RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
 
 | Extraction ID | Coral ID         | RIN^e |
 |---------------|------------------|-------|
@@ -105,14 +111,11 @@ Gel order: Ladder, 1-8
 | 7             | 1607 Pacuta soft | 6.3     |
 | 8             | 1607 Pacuta hard | 6.0   |
 
-** Concentration too low for TapeStation to detect.
-
-TapeStation re-done because samples were out of range.
+** Concentration too low for TapeStation to detect. But two small peaks are still visible in both reports. TapeStation done twice because samples were out of range. Not necessary in the future since a Qubit result of equal to or less than 10 ng/µl will likely read as too low of a concentration.
 
 [Link to the first 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2013.24.12.pdf)  
 [Link to the second 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2014.11.01.pdf)  
 [Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)  
 
-- Thermocycler (rna denature program): 3 minutes at 72 &deg;C, 2 minutes at 4 &deg;C, hold at 4 &deg;C.  
-- TapeStation start 14:10 end 14:20  
-- Ladder: [Agilent RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)
+Future changes for next "round" of testing this protocol:  
+- Change hard homogenization in Tissue Lyser step to 1 minute instead of 30 seconds. 

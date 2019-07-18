@@ -137,6 +137,10 @@ Modified from the [Zymo protocol](https://github.com/kevinhwong1/KevinHWong_Note
 12. Make DNase I treatment master mix:
     - 75µl DNA Digestion buffer x # of samples
     - 5µl DNase I x # of samples  
+> 4 coral fragments (8 samples total): 600 µl of buffer and 40 µl of DNase I  
+8 coral fragments (16 samples total): 1,200 µl of buffer, 80 µl of DNase I  
+10 coral fragments (20 samples total): 1,500 µl of buffer, 100 µl of DNase I. Place in 5 mL tube instead of 1.5 mL tube.
+
 13. Add 80 µl DNase I treatment master mix directly to the filter of the green RNA columns  
 14. Incubate at room temp for 15 minutes  
 15. Add 400 µl DNA/RNA Prep Buffer gently to each column  

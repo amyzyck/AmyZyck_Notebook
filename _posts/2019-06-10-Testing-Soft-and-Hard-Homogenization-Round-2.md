@@ -13,7 +13,7 @@ projects: Holobiont Integration
 
 We chose one *M. capitata* and one *P. acuta* of the four from [Testing Round 1]() to test the vortex timing in the soft homogenization step. During the first round of protocol testing, the tissue on the *P. acuta* fragments came  off much quicker than the *M. capitata* and therefore might need a shorter vortex time during the soft homogenization.
 
-RNA/DNA Extraction protocol used: [Emma Notebook](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md)  
+Soft and Hard homogenization, and DNA/RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-06-05-Soft-and-Hard-Homogenization-Protocol.md). General Zymo Duet RNA DNA Extraction protocol found [here](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).   
 Modified from original [Zymo Duet](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) RNA/DNA Extraction protocol
 
 Samples used:  

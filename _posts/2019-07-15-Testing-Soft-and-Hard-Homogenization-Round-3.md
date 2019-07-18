@@ -26,7 +26,7 @@ Testing the soft and hard homogenization protocol on extra molecular samples fro
 
 Fragment #1607 had algae covering the top of the fragment. Pieces were broken off at the bottom and used for the following extraction protocol.
 
-DNA RNA Extraction Protocol found [here](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).
+Soft and Hard homogenization, and DNA/RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-06-05-Soft-and-Hard-Homogenization-Protocol.md). General Zymo Duet RNA DNA Extraction protocol found [here](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).
 
 2-3 fragment pieces were clipped per coral. The following photo depicts the fragment pieces in RNA DNA shield before soft and hard homogenization steps.
 
