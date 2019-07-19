@@ -75,3 +75,47 @@ Extraction ID #19 has 150 μl final volume.
 
 **20190719 E.S.**  
 Gel electrophoresis, Qubit, and TapeStation from extractions #1-32.
+
+[Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):
+
+
+[TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
+
+| Coral Fragment ID | Extraction ID | Homogenization | RIN |
+|-------------------|---------------|----------------|-----|
+| 1754              | 1             | Soft           | 8   |
+| 1754              | 2             | Hard           | 7.7 |
+| 1775              | 3             | Soft           | 6.8 |
+| 1775              | 4             | Hard           | 6.9 |
+| 2005              | 5             | Soft           | 8.2 |
+| 2005              | 6             | Hard           | 8.1 |
+| 2386              | 7             | Soft           | 8.2 |
+| 2386              | 8             | Hard           | 7.8 |
+| 2357              | 9             | Soft           | 7.8 |
+| 2357              | 10            | Hard           | 7.3 |
+| 1131              | 11            | Soft           | 8   |
+| 1131              | 12            | Hard           | 7.7 |
+| 2026              | 13            | Soft           | 7.9 |
+| 2026              | 14            | Hard           | 7.6 |
+| 1471              | 15            | Soft           | 8.5 |
+| 1471              | 16            | Hard           | 8   |
+| 1644              | 17            | Soft           | 8.1 |
+| 1644              | 18            | Hard           | 8.2 |
+| 1676              | 19            | Soft           | 7.6 |
+| 1676              | 20            | Hard           | 7.3 |
+| 1631              | 21            | Soft           | 8.7 |
+| 1631              | 22            | Hard           | 8.7 |
+| 2183              | 23            | Soft           | 8.9 |
+| 2183              | 24            | Hard           | 8.9 |
+| 1103              | 25            | Soft           | 8.2 |
+| 1103              | 26            | Hard           | 7.9 |
+| 1696              | 27            | Soft           | **  |
+| 1696              | 28            | Hard           | 8.5 |
+| 1600              | 29            | Soft           | 9   |
+| 1600              | 30            | Hard           | 9   |
+| 1580              | 31            | Soft           | 8.7 |
+| 1580              | 32            | Hard           | 8.4 |
+
+[Link to the first 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2013.24.12.pdf)  
+[Link to the second 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2014.11.01.pdf)  
+[Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
