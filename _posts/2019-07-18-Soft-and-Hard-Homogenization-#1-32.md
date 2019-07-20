@@ -76,8 +76,89 @@ Extraction ID #19 has 150 μl final volume.
 **20190719 E.S.**  
 Gel electrophoresis, Qubit, and TapeStation from extractions #1-32.
 
+[Qubit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md) Results:
+
+| DNA        |           |           |         |
+|------------|-----------|-----------|---------|
+| Standard 1 | 101.91    |           |         |
+| Standard 2 | 8942.34   |           |         |
+|            | Reading 1 | Reading 2 | Average |
+| 1          | 28        | 27.6      | 27.8    |
+| 2          | 17.1      | 17        | 17.05   |
+| 3          | 46.4      | 46        | 46.2    |
+| 4          | 37.4      | 37        | 37.2    |
+| 5          | 42.6      | 42.4      | 42.5    |
+| 6          | 30.4      | 30.2      | 30.3    |
+| 7          | 52.2      | 51.8      | 52      |
+| 8          | 36.2      | 36        | 36.1    |
+| 9          | 57.4      | 57        | 57.2    |
+| 10         | 62        | 61.6      | 61.8    |
+| 11         | 35.2      | 35        | 35.1    |
+| 12         | 30.6      | 30.4      | 30.5    |
+| 13         | 12        | 11.9      | 11.95   |
+| 14         | 14.9      | 14.8      | 14.85   |
+| 15         | 55        | 54.6      | 54.8    |
+| 16         | 41.4      | 41        | 41.2    |
+| 17         | 42.8      | 42.4      | 42.6    |
+| 18         | 34.2      | 34        | 34.1    |
+| 19         | 28.2      | 27.8      | 28      |
+| 20         | 24        | 23        | 23.5    |
+| 21         | 20.4      | 20.4      | 20.4    |
+| 22         | 20.2      | 20.2      | 20.2    |
+| 23         | 16.9      | 16.8      | 16.85   |
+| 24         | 11.7      | 11.5      | 11.6    |
+| 25         | 56.8      | 56.4      | 56.6    |
+| 26         | 51        | 50.8      | 50.9    |
+| 27         | 29        | 28.8      | 28.9    |
+| 28         | 24        | 23.8      | 23.9    |
+| 29         | 38.6      | 38.2      | 38.4    |
+| 30         | 26.8      | 26.4      | 26.6    |
+| 31         | 22.4      | 22.4      | 22.4    |
+| 32         | 15.9      | 15.7      | 15.8    |
+
+| RNA        |           |           |         |
+|------------|-----------|-----------|---------|
+| Standard 1 | 399.52    |           |         |
+| Standard 2 | 9930.43   |           |         |
+|            | Reading 1 | Reading 2 | Average |
+| 1          | 15.4      | 15.4      | 15.4    |
+| 2          | 12.4      | 12.4      | 12.4    |
+| 3          | 57.8      | 57.6      | 57.7    |
+| 4          | 46.2      | 46.2      | 46.2    |
+| 5          | 41.2      | 41.2      | 41.2    |
+| 6          | 37.8      | 37.8      | 37.8    |
+| 7          | 36.4      | 36.4      | 36.4    |
+| 8          | 31.4      | 31.4      | 31.4    |
+| 9          | 78        | 77.8      | 77.9    |
+| 10         | 48.4      | 48.4      | 48.4    |
+| 11         | 54.8      | 54.8      | 54.8    |
+| 12         | 48.6      | 48.4      | 48.5    |
+| 13         | 23.2      | 23        | 23.1    |
+| 14         | 27.4      | 27.4      | 27.4    |
+| 15         | 54        | 53.8      | 53.9    |
+| 16         | 53        | 52.8      | 52.9    |
+| 17         | 16.8      | 16.8      | 16.8    |
+| 18         | 15.8      | 15.8      | 15.8    |
+| 19         | 41        | 41        | 41      |
+| 20         | 37.2      | 37.2      | 37.2    |
+| 21         | 13        | 13        | 13      |
+| 22         | 13.4      | 13.8      | 13.6    |
+| 23         | 13        | 12.8      | 12.9    |
+| 24         | 10.8      | 10.6      | 10.7    |
+| 25         | 62.6      | 62.6      | 62.6    |
+| 26         | 38.4      | 38.2      | 38.3    |
+| 27         | 40.2      | 40.2      | 40.2    |
+| 28         | 33.6      | 33.6      | 33.6    |
+| 29         | 14.8      | 14.8      | 14.8    |
+| 30         | 15.2      | 15.2      | 15.2    |
+| 31         | 24        | 24        | 24      |
+| 32         | 11.8      | 11.8      | 11.8    |
+
 [Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):
 
+Extractions #1-16:   
+
+Extractions #17-32:  
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
 
@@ -116,6 +197,7 @@ Gel electrophoresis, Qubit, and TapeStation from extractions #1-32.
 | 1580              | 31            | Soft           | 8.7 |
 | 1580              | 32            | Hard           | 8.4 |
 
-[Link to the first 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2013.24.12.pdf)  
-[Link to the second 20190716 report](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-16%20-%2014.11.01.pdf)  
+[Link to 20190719 report, Extractions #1-15](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.13.53.pdf)  
+[Link to 20190719 report, Extractions #16-30](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.36.37.pdf)  
+[Link to 20190719 report, Extractions #31-32](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.58.06.pdf)   
 [Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
