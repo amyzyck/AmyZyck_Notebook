@@ -154,11 +154,15 @@ Gel electrophoresis, Qubit, and TapeStation from extractions #1-32.
 | 31         | 24        | 24        | 24      |
 | 32         | 11.8      | 11.8      | 11.8    |
 
-[Gel Electrophoresis](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):
+[Gel Electrophoresis Results](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/):
 
-Extractions #1-16:   
+Extractions #1-16:  
+
+![20190719_1](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190719_1.JPG?raw=true)
 
 Extractions #17-32:  
+
+![20190719_2](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190719_2.JPG?raw=true)
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
 
@@ -201,3 +205,5 @@ Extractions #17-32:
 [Link to 20190719 report, Extractions #16-30](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.36.37.pdf)  
 [Link to 20190719 report, Extractions #31-32](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.58.06.pdf)   
 [Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
+
+Gel electrophoresis, qubit, and TapeStation for 16 samples (32 DNA extractions, 32 RNA extractions) takes ~4 hours. 
