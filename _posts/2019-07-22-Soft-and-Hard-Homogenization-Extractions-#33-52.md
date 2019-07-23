@@ -99,6 +99,32 @@ Extractions start 10:31 end 13:35
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
-![20190720]()
+![20190720](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190720.JPG?raw=true)
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
+
+| Coral ID | Extraction ID | RIN |
+|----------|---------------|-----|
+| 2363     | 33            | 7.4 |
+| 2363     | 34            | 7.5 |
+| 1486     | 35            | 7.3 |
+| 1486     | 36            | 7   |
+| 1159     | 37            | 6.9 |
+| 1159     | 38            | 6.5 |
+| 1641     | 39            | 7.4 |
+| 1641     | 40            | 6.8 |
+| 2554     | 41            | 9.1 |
+| 2554     | 42            | 8.6 |
+| 1594     | 43            | 7.6 |
+| 1594     | 44            | 7.8 |
+| 1205     | 45            | 7.3 |
+| 1205     | 46            | 7   |
+| 2731     | 47            | 5.7 |
+| 2731     | 48            | **  |
+| 1451     | 49            | 7.7 |
+| 1451     | 50            | 7.7 |
+| 1418     | 51            | 7.4 |
+| 1418     | 52            | 7   |
+
+[Link to 20190720 report #1, Extractions #33-52](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.13.53.pdf)      
+[Link to 20190720 report #2, Extractions #33-52](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.13.53.pdf)
