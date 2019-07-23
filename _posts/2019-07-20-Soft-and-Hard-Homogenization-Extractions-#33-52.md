@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soft and Hard Homogenization Extractions #33-52
-date: '2019-07-22'
+date: '2019-07-20'
 categories: Processing
 tags: RNA, DNA, soft and hard homogenization
 projects: Holobiont Integration
@@ -126,5 +126,9 @@ Extractions start 10:31 end 13:35
 | 1418     | 51            | 7.4 |
 | 1418     | 52            | 7   |
 
-[Link to 20190720 report #1, Extractions #33-52](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.13.53.pdf)      
-[Link to 20190720 report #2, Extractions #33-52](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-19%20-%2012.13.53.pdf)
+** Concentration too low to read.  
+Not enough buffer in samples #35,36. Values in second report.
+
+[Link to 20190720 report #1, Extractions #33-52](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-20%20-%2015.43.32.pdf)      
+[Link to 20190720 report #2, Extractions #33-52](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-20%20-%2016.12.53.pdf)  
+[Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
