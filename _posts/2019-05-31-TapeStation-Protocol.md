@@ -11,7 +11,8 @@ projects: Putnam Lab
 
 Based on Putnam Lab TapeStation Protocol written by M. Schedl: [TapeStation](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
 
-Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds)
+Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds)  
+[Link to Agilent 4200 TapeStation System](https://www.agilent.com/cs/library/technicaloverviews/public/5991-6616EN.pdf)
 TapeStation Ladder: [Agilent RNA screentape ladder](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-rna-screentape-reagents/rna-screentape-analysis-228268)  
 TapeStation buffer and tape: [Agilent RNA assays](https://www.agilent.com/cs/library/datasheets/public/5991-7785EN_4200_TapeStation.pdf)  
 
