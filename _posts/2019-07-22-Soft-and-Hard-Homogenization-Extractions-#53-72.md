@@ -71,8 +71,12 @@ Extractions start 11:40 end 14:50
 | 1332       | 71            | too low   | too low   | **      |
 | 1332       | 72            | 2.24      | 2.2       | 2.22    |
 
-[Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
+[Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
+Extraction #53-68:
+![20190723]()
+
+Extraction #69-82: 
 ![20190723]()
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
