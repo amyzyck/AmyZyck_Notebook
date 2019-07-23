@@ -9,7 +9,11 @@ projects: Putnam Lab
 
 # Putnam Lab Gel Electrophoresis Protocols  
 
-Based on Putnam Lab Protocol written by [M. Schedl](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/).
+A gel matrix that contains an electrical field used to separate DNA strands based on size. The bigger strands move through the gel slower and tend to stay closer to the wells compared to the small strands that will move faster and end up closer to the end of the gel.
+
+“Run to red” – the black (-) (top of the rig next to the wells) and red (+) (bottom of the rig near the end of the gel) cords of the gel rig. DNA bands are negatively charged (because of the phosphate group) so they will run to the bottom of the gel (red).
+
+Below based on Putnam Lab Protocol written by [M. Schedl](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/).
 
 1. For small gel box, make a 75mL gel mix, for the medium box make a 100mL mix.  
 2. Making gels:  

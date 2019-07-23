@@ -21,7 +21,7 @@ Based on Putnam Lab protocols written by: [E. Chille](https://echille.github.io/
 
 ### Adult Fragment Tissue Sample Preparation
 
-Bead tubes: 2mL 0.5mm glass beads and tubes from [Fisher Scientific](https://www.fishersci.com/shop/products/bead-tube-2ml-0-5mm-glass-50pk/15340152)
+Bead tubes: 2 mL 0.5 mm glass beads and tubes from [Fisher Scientific](https://www.fishersci.com/shop/products/bead-tube-2ml-0-5mm-glass-50pk/15340152)
 
 Sterilizing working area:
 I. Rinse clippers with:
@@ -42,65 +42,65 @@ Clipping fragment:
 
 ### Larvae Sample Preparation
 From [E. Chille's Putnam Lab Protocol](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Protocol-for-DNA-RNA-Extractions-of-Montipora-Coral-Larvae-Using-Zymo-Duet-Extraction-Kit/):
-1. Take sample tube with larvae 1 at a time out of the -80 to minimize amount of thawing  
-2. Add 300µl DNA/RNA shield directly to the sample tube  
+1. Take sample tube with larvae 1 at a time out of the -80 &deg;C to minimize amount of thawing  
+2. Add 300 µl DNA/RNA shield directly to the sample tube  
 3. Record tube number  
-4. Add 30µl of PK digestion buffer to each sample tube  
-5. Add 15µl Proteinase K to each sample tube  
+4. Add 30 µl of PK digestion buffer to each sample tube  
+5. Add 15 µl Proteinase K to each sample tube  
 6. Vortex and spin down sample tubes  
-7. Place in Thermoixer for ~3 hours at 55 degrees C, shaking at 1100 rpm. Check periodically to monitor digestion progress.  
+7. Place in Thermoixer for ~3 hours at 55 &deg;C, shaking at 1100 rpm. Check periodically to monitor digestion progress.  
 8. After digestion proceed with DNA and RNA Extraction.  
 
 ### DNA Extraction
 1. Set up yellow DNA spin columns and collection tubes, label appropriately
 2. Warm elution liquids to 70 degrees &deg;C (10mM Tris HCl pH. 8.0 and RNase free water)
-3. Add equal volume (345µl) DNA/RNA lysis buffer to each sample tube
+3. Add equal volume (345 µl) DNA/RNA lysis buffer to each sample tube
 4. Finger flick to mix tubes
-5. Add 700µl (total volume) of sample gently to the yellow DNA spin column
+5. Add 700 µl (total volume) of sample gently to the yellow DNA spin column
 6. Centrifuge at 16,000 rcf (g) for 30 seconds
 7. **Important** Save the flow through from this step: transfer to a new 1.5mL tube labeled for RNA
 8. Add 400µl DNA/RNA Prep Buffer gently to the yellow DNA spin columns
 9. Centrifuge at 16,000 rcf (g) for 30 seconds
 10. Discard flow through (Zymo kit waste)
-11. Add 700µl DNA/RNA Wash Buffer gently to the yellow DNA spin columns
+11. Add 700 µl DNA/RNA Wash Buffer gently to the yellow DNA spin columns
 12. Centrifuge at 16,000 rcf (g) for 30 seconds
 13. Discard flow through (Zymo kit waste)
-14. Add 400µl DNA/RNA Wash Buffer genetly to the yellow DNA spin columns
+14. Add 400 µl DNA/RNA Wash Buffer genetly to the yellow DNA spin columns
 15. Centrifuge at 16,000 rcf (g) for **2 minutes**
 16. Discard flow through (Zymo kit waste)
 17. Transfer yellow columns to new 1.5mL microcentrifuge tubes
-18. Add 50µl warmed 10mM Tris HCl to each yellow DNA column by dripping slowly directly on the filer
+18. Add 50 µl warmed 10 mM Tris HCl to each yellow DNA column by dripping slowly directly on the filer
 19. Incubate at room temp for 5 minutes
 20. Centrifuge at 16,000 rcf (g) for 30 seconds
-21. Repeat steps 18-20 for a final elution volume of 100µl
-22. Label tubes, store at 4 degrees C if quantifying the same day or the next, if waiting longer store in -20
+21. Repeat steps 18-20 for a final elution volume of 100 µl
+22. Label tubes, store at 4 &deg;C if quantifying the same day or the next, if waiting longer store in -20 &deg;C
 
 ### RNA Extraction
 *Can do concurrently with DNA Extraction after DNA Extraction Step 7*
-1. Add equal volume (700µl) 100% EtOH to the 1.5mL tubes labeled for RNA containing the original yellow column flow through
+1. Add equal volume (700 µl) 100% EtOH to the 1.5mL tubes labeled for RNA containing the original yellow column flow through
 2. Vortex and spin down to mix
-3. Add 700µl of that liquid to the green RNA spin columns
+3. Add 700 µl of that liquid to the green RNA spin columns
 4. Centrifuge at 16,000 rcf (g) for 30 seconds
 5. Discard flow through (Zymo kit waste)
-6. Add 700µl to the green RNA spin columns (the rest from the 1.5mL RNA tubes)
+6. Add 700 µl to the green RNA spin columns (the rest from the 1.5mL RNA tubes)
 7. Centrifuge at 16,000 rcf (g) for 30 seconds
     - Get DNase I from freezer
 8. Discard flow through (Zymo kit waste)
-9. Add 400µl DNA/RNA Wash Buffer gently to each green RNA column
+9. Add 400 µl DNA/RNA Wash Buffer gently to each green RNA column
 10. Centrifuge at 16,000 rcf (g) for 30 seconds
 11. Discard flow through (Zymo kit waste)
 12. Make DNase I treatment master mix:
     - 75µl DNA Digestion buffer x # of samples
     - 5µl DNase I x # of samples
-13. Add 80µl DNase I treatment master mix directly to the filter of the green RNA columns
+13. Add 80 µl DNase I treatment master mix directly to the filter of the green RNA columns
 14. Incubate at room temp for 15 minutes
-15. Add 400µl DNA/RNA Prep Buffer gently to each column
+15. Add 400 µl DNA/RNA Prep Buffer gently to each column
 16. Centrifuge at 16,000 rcf (g) for 30 seconds
 17. Discard flow through (Zymo kit waste)
-18. Add 700µl DNA/RNA Wash Buffer gently to the yellow DNA spin columns
+18. Add 700 µl DNA/RNA Wash Buffer gently to the green RNA spin columns
 19. Centrifuge at 16,000 rcf (g) for 30 seconds
 20. Discard flow through (Zymo kit waste)
-21. Add 400µl DNA/RNA Wash Buffer genetly to the yellow DNA spin columns
+21. Add 400 µl DNA/RNA Wash Buffer genetly to the green RNA spin columns
 22. Centrifuge at 16,000 rcf (g) for **2 minutes**
 23. Discard flow through (Zymo kit waste)
 24. Transfer green columns to new 1.5mL microcentrifuge tubes
@@ -109,7 +109,7 @@ From [E. Chille's Putnam Lab Protocol](https://echille.github.io/E.-Chille-Open-
 27. Centrifuge at 16,000 rcf (g) for 30 seconds
 28. Repeat steps 25-27 for a final elution volume of 100µl
 29. Label 1.5mL tubes on ice afterwards, and aliquot 5µl into PCR strip tubes to save for Qubit and Tape Station to avoid freeze-thaw of your stock sample
-30. Store all tubes in the -80
+30. Store all tubes in the -80 &deg;C
 
 ### Extraction Content Analysis
 *These steps analyze the quantity and quality of the DNA/RNA extracted and may be done on a separate day from the extraction*

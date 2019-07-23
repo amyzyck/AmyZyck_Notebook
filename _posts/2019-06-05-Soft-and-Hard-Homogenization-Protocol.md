@@ -82,7 +82,7 @@ Clipping fragment:
 7. Remove supernatant from the bead tube and place in a new 1.5 microcentrifuge tube labeled on the side with the extraction ID number, coral fragment's sample ID number, "soft", and today's date. Label the cap of the microcentrifuge tube with the extraction number. This supernatant will become the sample for "soft homogenization". The remaining chunks of fragment will become the sample for "hard homogenization".  
 8. Add 500 μl of RNA/DNA shield to the bead tube with the coral fragment pieces. RNA/DNA shield needs to cover the fragment pieces.   
 9. Place the beads tubes with the coral fragment pieces in the Qiagen Tissue Lyser Adapter Set 2 x 24.  
-10. Operate the Tissue Lyser for 30 seconds at 20 Hz.       
+10. Operate the Tissue Lyser for 1 minute at 20 Hz.       
 11. Remove the supernatant and put in a new 1.5 mL microcentrifuge tube labeled on the side with the extraction ID number, coral fragment's sample ID number, "hard", and today's date. Label the cap of the microcentrifuge tube with the extraction ID number.  
 12. Add 300 μl of sample, 30 μl of Proteinase K digestion buffer (10:1 ratio of sample:digestion buffer), and 15 μl of Proteinase K (2:1 ratio of digestion buffer:Proteinase K) to a new 1.5 mL microcentrifuge tube.  
 > At this point, each coral fragment should have 2 tubes to move forward to extractions with: one for soft homogenization and one for hard homogenization.  
@@ -146,10 +146,10 @@ Modified from the [Zymo protocol](https://github.com/kevinhwong1/KevinHWong_Note
 15. Add 400 µl DNA/RNA Prep Buffer gently to each column  
 16. Centrifuge at 16,000 rcf (g) for 30 seconds  
 17. Discard flow through (Zymo kit waste)  
-18. Add 700 µl DNA/RNA Wash Buffer gently to the yellow DNA spin columns  
+18. Add 700 µl DNA/RNA Wash Buffer gently to the green RNA spin columns  
 19. Centrifuge at 16,000 rcf (g) for 30 seconds  
 20. Discard flow through (Zymo kit waste)  
-21. Add 400 µl DNA/RNA Wash Buffer genetly to the yellow DNA spin columns  
+21. Add 400 µl DNA/RNA Wash Buffer genetly to the green RNA spin columns  
 22. Centrifuge at 16,000 rcf (g) for **2 minutes**  
 23. Discard flow through (Zymo kit waste)  
 24. Transfer green columns to new 1.5 mL microcentrifuge tubes  
@@ -169,3 +169,29 @@ Modified from the [Zymo protocol](https://github.com/kevinhwong1/KevinHWong_Note
 To test RNA and DNA quantity: [Qubit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md)  
 To test RNA quality: [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md)  
 To test DNA quality: [Gel Electrophoresis](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md)
+
+### Solution Key:
+**DNA/RNA Lysis Buffer**: Contains a high concentration of chaotropic salts, which destabilize hydrogen bonds, van der Waals forces and hydrophobic interactions. This destabilizes proteins, including nucleases. The buffer will also disrupt association of nucleic acids with water.    
+**DNA/RNA Wash Buffer**: Used to remove residual proteins and carbohydrates, and purifies the molecular end product.  
+**DNase I**: deoxyribonuclease is an enzyme that catalyzes the hydrolytic cleavage of phosphodiester linkages in the DNA backbone, thus degrading DNA. This is used in the RNA extraction step to purify RNA final product.  
+**DNA/RNA Prep Buffer**: Ethanol and guanidinium chloride used a deproteinization measure. Guanidinium is a very strong denaturing agent that will dissolve cells and RNAses.  
+**EtOH**: the addition of alcohol futher enhances and influences the binding of nucleic aicds to the silica (see spin colum description below).  
+**10 mM Tris HCl**: DNA is more stable at slightly basic pH and will dissolve faster in a buffer than water. Using Tris instead of water will enhance rehydration of high molecular weight DNA.  
+**DNA/RNase free water**: Used as an elution in the RNA extraction steps. RNA can tolerate a slightly acidic pH and dissolves. Warmed water as an elution increases high molecular yield.  
+**Yellow DNA/Green RNA Spin Columns**: contain a silica membrane that binds to nucleic acids. Proteins and polysaccharides should be in the flow-through liquid that is discarded while RNA and DNA is kept on the membrane.    
+**Proteinase K**: an enzyme that cleaves the peptide bond in proteins next to the carboxyl group of hydrophobic amino acid residues. This decontaminates the sample and leaves purified DNA/RNA.
+
+General workflow of an extraction:  
+1. Cell lysis through disruption of cellular membranes  
+2. Dehydration and precipitation of the cellular proteins (protein denaturation)  
+3. Separation of cellular proteins and other cellular components out of the nucleic acid  
+4. Precipitation and dissolving the nucleic acid  
+
+Helpful links:  
+[How DNA RNA extraction kits work](https://bitesizebio.com/13516/how-dna-extraction-rna-miniprep-kits-work/)  
+[DNA Extraction and Purification](https://www.labome.com/method/DNA-Extraction-and-Purification.html)  
+[DNA Extraction Methods](https://www.sciencedirect.com/topics/neuroscience/dna-extraction)
+
+### Troubleshooting  
+
+More info coming soon.  
