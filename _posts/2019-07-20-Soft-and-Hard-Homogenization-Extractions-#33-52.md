@@ -9,7 +9,7 @@ projects: Holobiont Integration
 
 # Soft and Hard Homogenization DNA/RNA Extractions #33-52
 
-**20190718 E.S.**
+**20190720 E.S.**
 DNA/RNA Extractions from *Montipora capitata* and *Pocillopora acuta* adult coral fragments from Holobiont Integration Hawaii 2018 project.  
 
 Soft and Hard homogenization, and DNA/RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-06-05-Soft-and-Hard-Homogenization-Protocol.md). General Zymo Duet DNA/RNA Extraction protocol found [here](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md).  

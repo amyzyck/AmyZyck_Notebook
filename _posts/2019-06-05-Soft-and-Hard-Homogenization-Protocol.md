@@ -175,7 +175,7 @@ To test DNA quality: [Gel Electrophoresis](https://github.com/emmastrand/EmmaStr
 **DNA/RNA Wash Buffer**: Used to remove residual proteins and carbohydrates, and purifies the molecular end product.  
 **DNase I**: deoxyribonuclease is an enzyme that catalyzes the hydrolytic cleavage of phosphodiester linkages in the DNA backbone, thus degrading DNA. This is used in the RNA extraction step to purify RNA final product.  
 **DNA/RNA Prep Buffer**: Ethanol and guanidinium chloride used a deproteinization measure. Guanidinium is a very strong denaturing agent that will dissolve cells and RNAses.  
-**EtOH**: the addition of alcohol futher enhances and influences the binding of nucleic aicds to the silica (see spin colum description below).  
+**EtOH**: the addition of alcohol further enhances and influences the binding of nucleic aicds to the silica (see spin colum description below).  
 **10 mM Tris HCl**: DNA is more stable at slightly basic pH and will dissolve faster in a buffer than water. Using Tris instead of water will enhance rehydration of high molecular weight DNA.  
 **DNA/RNase free water**: Used as an elution in the RNA extraction steps. RNA can tolerate a slightly acidic pH and dissolves. Warmed water as an elution increases high molecular yield.  
 **Yellow DNA/Green RNA Spin Columns**: contain a silica membrane that binds to nucleic acids. Proteins and polysaccharides should be in the flow-through liquid that is discarded while RNA and DNA is kept on the membrane.    
