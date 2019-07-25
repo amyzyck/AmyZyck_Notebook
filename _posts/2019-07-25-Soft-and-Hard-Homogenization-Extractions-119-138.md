@@ -45,6 +45,6 @@ RNA DNA Extraction start 10:34 end ~13:30
 | 20181103  | Montipora   | 1306     | 137           | soft           | 37.6          | 37            | 37.3              | 26.6          | 26.6          | 26.6              | 8.4 |
 | 20181103  | Montipora   | 1306     | 138           | hard           | 31.8          | 31.6          | 31.7              | 13.8          | 13.8          | 13.8              | 8.5 |
 
-[Link to 20190725 report, Extractions #119-138]()
+[Link to 20190725 TapeStation report, Extractions #119-138](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-25%20-%2014.17.49.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
