@@ -134,8 +134,50 @@ Fragments #1074, #1732, and #2202 were paler in color and liquid looked less den
 | 2550       | 117           | 47        | 47        | 47      |
 | 2550       | 118           | 42.8      | 42.8      | 42.8    |
 
-Two readings were only done for RNA extractions #99-118. 
+Two readings were only done for RNA extractions #99-118.
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
+Extractions #91-98
+
+![20190724 Extractions #91-98](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190724_91-98.jpg?raw=true)
+
+Extractions #99-111
+
+![20190724 Extractions #99-111](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190724_99-111.jpg?raw=true)
+
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
+
+| Coral ID | Extraction ID | RIN |
+|----------|---------------|-----|
+| 1332     | 91            | 7   |
+| 1332     | 92            | 7.3 |
+| 1074     | 93            | 8.2 |
+| 1074     | 94            | **  |
+| 1420     | 95            | 8.2 |
+| 1420     | 96            | 8.3 |
+| 1555     | 97            | 8.4 |
+| 1555     | 98            | 8.2 |
+| 1148     | 99            | 8.5 |
+| 1148     | 100           | 8.5 |
+| 2202     | 101           | 8.2 |
+| 2202     | 102           | 7.6 |
+| 2305     | 103           | 7.7 |
+| 2305     | 104           | 7.7 |
+| 2862     | 105           | 8.8 |
+| 2862     | 106           | 8.9 |
+| 1260     | 107           | 8.8 |
+| 1260     | 108           | 8.1 |
+| 2561     | 109           | 8   |
+| 2561     | 110           | 8.2 |
+| 1732     | 111           | 8.4 |
+| 1732     | 112           | 8.1 |
+| 2743     | 113           | 7   |
+| 2743     | 114           | 6.5 |
+| 1219     | 115           | 7.4 |
+| 1219     | 116           | 7.4 |
+| 2550     | 117           | 8.6 |
+| 2550     | 118           | 8.3 |
+
+[Link to 20190724 report #1, Extractions #91-98](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-23%20-%2015.58.04.pdf)  
+[Link to 20190724 report #2, Extractions #99-118](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-23%20-%2015.58.04.pdf)
