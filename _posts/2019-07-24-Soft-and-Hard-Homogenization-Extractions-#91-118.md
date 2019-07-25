@@ -146,6 +146,10 @@ Extractions #99-111
 
 ![20190724 Extractions #99-111](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190724_99-111.jpg?raw=true)
 
+Extractions #112-118
+
+![20190724 Extractions #111-118]()
+
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
 
 | Coral ID | Extraction ID | RIN |
@@ -179,5 +183,6 @@ Extractions #99-111
 | 2550     | 117           | 8.6 |
 | 2550     | 118           | 8.3 |
 
-[Link to 20190724 report #1, Extractions #91-98](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-23%20-%2015.58.04.pdf)  
-[Link to 20190724 report #2, Extractions #99-118](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-23%20-%2015.58.04.pdf)
+TapeStation report #1 does not have descriptions. Order of samples: Ladder, 91-98.  
+[Link to 20190724 report #1, Extractions #91-98](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-24%20-%2014.15.15.pdf)    
+[Link to 20190724 report #2, Extractions #99-118](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-24%20-%2017.16.29.pdf)
