@@ -148,7 +148,7 @@ Extractions #99-111
 
 Extractions #112-118
 
-![20190724 Extractions #111-118]()
+![20190724 Extractions #111-118](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190724_112-118.jpg?raw=true)
 
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) Results:
 
