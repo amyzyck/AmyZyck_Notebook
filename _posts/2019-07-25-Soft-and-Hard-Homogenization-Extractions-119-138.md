@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soft and Hard Homogenization Extractions 119-138
+title: Soft and Hard Homogenization DNA/RNA Extractions 119-138
 date: '2019-07-25'
 categories: Processing
 tags: RNA, DNA, soft and hard homogenization
@@ -48,6 +48,8 @@ RNA DNA Extraction start 10:34 end ~13:30
 [Link to 20190725 TapeStation report, Extractions #119-138](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-25%20-%2014.17.49.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
+
+![20190725 Extractions #118-138](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190725.JPG?raw=true)
 
 Extraction #121 was lighter in color before placing in well.  
 Extraction #137 did not settle well into the gel. Could be leftover ethanol in the sample.
