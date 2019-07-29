@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soft and Hard Homogenization Extractions #139-146
-date: '2019-07-28'
+date: '2019-07-26'
 categories: Processing
 tags: DNA, RNA, soft and hard homogenization
 projects: Holobiont Integration
@@ -47,8 +47,8 @@ Qubit start 11:00 end 12:15
 | 20181117  | Montipora   | 1204     | 146-1         | hard           | 1       | 6             | 5.96          | 5.98              | 14.4          | 14.4          | 14.4              | 9.4 |
 | 20181117  | Montipora   | 1204     | 146-2         | hard           | 2       | 8.14          | 8.06          | 8.1               | **            | **            | **                | **  |
 
-[Link to 20190725 TapeStation report, Extractions #139-146]()
+[Link to 20190726 TapeStation report, Extractions #139-146](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-26%20-%2012.32.23.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
-![20190725 Extractions #139-146]()
+![20190726 Extractions #139-146](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190726.JPG?raw=true)
