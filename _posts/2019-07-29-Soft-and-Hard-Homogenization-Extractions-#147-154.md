@@ -14,7 +14,7 @@ DNA/RNA Extractions from *Montipora capitata* and *Pocillopora acuta* adult cora
 
 Soft and Hard homogenization, and DNA/RNA Extractions followed this [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-06-05-Soft-and-Hard-Homogenization-Protocol.md). General Zymo Duet DNA/RNA Extraction protocol found [here](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md). With the following changes:  
 - DNA: The first and second elutions were spun down in separate microcentrifuge tubes to compare the quantity and quality between the first and second elution. The first elution had no incubation period (previously 5 minutes) and the second elution had a 15 minute incubation period (previously 5 minutes).  
-- 10 μl aliquots of DNA and 5 μl aliquots of RNA.
+- 10 μl aliquots of DNA and 5 μl aliquots of RNA (instead of 10 μl of each).
 
 Coral fragments were randomly chosen from different timepoint bags.
 
@@ -57,8 +57,8 @@ RNA Standard 2: 11462.14  ng/μl
 | 20181020  | Montipora   | 1779     | 154-1         | hard           | 1           | 19.4          | 19.4          | 19.4              | NA            | NA            | NA                | NA  |
 | 20181020  | Montipora   | 1779     | 154-2         | hard           | 2           | 16.9          | 16.9          | 16.9              | NA            | NA            | NA                | NA  |
 
-[Link to 20190729 TapeStation report, Extractions #147-154]()
+[Link to 20190729 TapeStation report, Extractions #147-154](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-29%20-%2016.14.51.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
-![20190729 Extractions #147-154]()
+![20190729 Extractions #147-154](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190729.jpg?raw=true)

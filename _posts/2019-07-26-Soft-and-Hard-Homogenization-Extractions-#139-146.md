@@ -26,7 +26,12 @@ RNA DNA Extraction start 9:50 end 11:40
 Qubit start 11:00 end 12:15  
 
 [Qubit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md) used to check DNA and RNA quantity (ng/μl).  
-[TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) used to check RNA quality.
+[TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) used to check RNA quality.  
+
+DNA Standard 1: 178.41  ng/μl  
+DNA Standard 2: 2043.83  ng/μl  
+RNA Standard 1: 417.05  ng/μl  
+RNA Standard 2: 11005.81  ng/μl
 
 | Timepoint | Species     | Coral ID | Extraction ID | Homogenization | Elution | DNA Reading 1 | DNA Reading 2 | Average DNA ng/μl | RNA Reading 1 | RNA Reading 2 | Average RNA ng/μl | RIN |
 |-----------|-------------|----------|---------------|----------------|---------|---------------|---------------|-------------------|---------------|---------------|-------------------|-----|
