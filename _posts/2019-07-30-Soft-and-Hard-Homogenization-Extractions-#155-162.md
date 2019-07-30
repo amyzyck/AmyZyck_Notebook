@@ -57,8 +57,8 @@ RNA Standard 2: 11710.89  ng/μl
 | 20181020  | Pocillopora | 2861     | 162-1         | hard           | 1           | 139           | 138           | 138.5             | NA            | NA            | NA                | NA  |
 | 20181020  | Pocillopora | 2861     | 162-2         | hard           | 2           | 25.2          | 25.2          | 25.2              | NA            | NA            | NA                | NA  |
 
-[Link to 20190730 TapeStation report, Extractions #155-162]()
+[Link to 20190730 TapeStation report, Extractions #155-162](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-30%20-%2012.05.21.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
-![20190729 Extractions #155-162]()
+![20190729 Extractions #155-162](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190730.JPG?raw=true)
