@@ -63,9 +63,9 @@ RNA Standard 2: 11710.89  ng/μl
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
-![20190729 Extractions #155-162](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190730.JPG?raw=true)
+![20190730 Extractions #155-162](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190730_1.JPG?raw=true)
 
-**Round 1: Extractions #163-178**
+**Round 2: Extractions #163-178**
 
 Fragment preparation start 13:09 end 13:34  
 Soft/Hard homogenization start 13:35 end 14:05  
@@ -130,8 +130,10 @@ RNA Standard 2: 11351.13  ng/μl
 | 20180922  | Montipora   | 2000     | 178-1         | hard           | 1           | 128           | 128           | 128               | NA            | NA            | NA                | NA  |
 | 20180922  | Montipora   | 2000     | 178-2         | hard           | 2           | 19.2          | 18.9          | 19.05             | NA            | NA            | NA                | NA  |
 
-[Link to 20190730 TapeStation report, Extractions #163-178]()
+[Link to 20190730 TapeStation report, Extractions #163-178](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-30%20-%2017.07.19.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
-![20190729 Extractions #163-178]()
+![20190730 Extractions #163-175](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190730_2.JPG?raw=true)
+
+![20190730 Extractions #175-178](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190730_3.JPG?raw=true)
