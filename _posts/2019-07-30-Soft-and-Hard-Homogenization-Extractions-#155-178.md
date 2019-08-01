@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soft and Hard Homogenization Extractions #155-162
+title: Soft and Hard Homogenization Extractions #155-162; #163-178
 date: '2019-07-30'
 categories: Processing
 tags: RNA, DNA, soft and hard homogenization
