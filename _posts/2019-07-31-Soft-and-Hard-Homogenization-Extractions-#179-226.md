@@ -107,8 +107,86 @@ RNA Standard 2: 7871.22  ng/μl
 | 20181103  | Montipora   | 1121     | 202-1         | hard           | 1           | 30            | 30            | 30                | NA            | NA            | NA                | NA  |
 | 20181103  | Montipora   | 1121     | 202-2         | hard           | 2           | 5.7           | 5.58          | 5.64              | NA            | NA            | NA                | NA  |
 
-[Link to 20190731 TapeStation report, Extractions #179-202]()
+| Timepoint | Species     | Coral ID | Extraction ID | Homogenization | DNA Elution | DNA Reading 1 | DNA Reading 2 | Average DNA ng/μl | RNA Reading 1 | RNA Reading 2 | Average RNA ng/μl | RIN |
+|-----------|-------------|----------|---------------|----------------|-------------|---------------|---------------|-------------------|---------------|---------------|-------------------|-----|
+| 20181020  | Pocillopora | 2012     | 203           | soft           | NA          | NA            | NA            | NA                | 46.6          | 46.4          | 46.5              | 8.8 |
+| 20181020  | Pocillopora | 2012     | 203-1         | soft           | 1           | 42            | 40.6          | 41.3              | NA            | NA            | NA                | NA  |
+| 20181020  | Pocillopora | 2012     | 203-2         | soft           | 2           | 19.1          | 18.7          | 18.9              | NA            | NA            | NA                | NA  |
+| 20181020  | Pocillopora | 2012     | 204           | hard           | NA          | NA            | NA            | NA                | 60.8          | 60.4          | 60.6              | 8.7 |
+| 20181020  | Pocillopora | 2012     | 204-1         | hard           | 1           | 242           | 240           | 241               | NA            | NA            | NA                | NA  |
+| 20181020  | Pocillopora | 2012     | 204-2         | hard           | 2           | 36.2          | 36            | 36.1              | NA            | NA            | NA                | NA  |
+| 20181020  | Montipora   | 1436     | 205           | soft           | NA          | NA            | NA            | NA                | 14.8          | 14.8          | 14.8              | 9.1 |
+| 20181020  | Montipora   | 1436     | 205-1         | soft           | 1           | 91            | 90.6          | 90.8              | NA            | NA            | NA                | NA  |
+| 20181020  | Montipora   | 1436     | 205-2         | soft           | 2           | 16.1          | 16.1          | 16.1              | NA            | NA            | NA                | NA  |
+| 20181020  | Montipora   | 1436     | 206           | hard           | NA          | NA            | NA            | NA                | **            | **            | **                | **  |
+| 20181020  | Montipora   | 1436     | 206-1         | hard           | 1           | 85.8          | 85.6          | 85.7              | NA            | NA            | NA                | NA  |
+| 20181020  | Montipora   | 1436     | 206-2         | hard           | 2           | 9.32          | 9.28          | 9.3               | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1254     | 207           | soft           | NA          | NA            | NA            | NA                | 49.8          | 49.6          | 49.7              | 8   |
+| 20180929  | Pocillopora | 1254     | 207-1         | soft           | 1           | 280           | 278           | 279               | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1254     | 207-2         | soft           | 2           | 43.4          | 43.2          | 43.3              | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1254     | 208           | hard           | NA          | NA            | NA            | NA                | 32.8          | 32.6          | 32.7              | 8.5 |
+| 20180929  | Pocillopora | 1254     | 208-1         | hard           | 1           | 169           | 169           | 169               | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1254     | 208-2         | hard           | 2           | 32.8          | 32.6          | 32.7              | NA            | NA            | NA                | NA  |
+| 20181020  | Pocillopora | 1051     | 209           | soft           | NA          | NA            | NA            | NA                | 75.8          | 75.6          | 75.7              | 8.3 |
+| 20181020  | Pocillopora | 1051     | 209-1         | soft           | 1           | 248           | 244           | 246               | NA            | NA            | NA                | NA  |
+| 20181020  | Pocillopora | 1051     | 209-2         | soft           | 2           | 86.4          | 86            | 86.2              | NA            | NA            | NA                | NA  |
+| 20181020  | Pocillopora | 1051     | 210           | hard           | NA          | NA            | NA            | NA                | 68.6          | 68.6          | 68.6              | 8.2 |
+| 20181020  | Pocillopora | 1051     | 210-1         | hard           | 1           | 220           | 220           | 220               | NA            | NA            | NA                | NA  |
+| 20181020  | Pocillopora | 1051     | 210-2         | hard           | 2           | 45.6          | 45.4          | 45.5              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1776     | 211           | soft           | NA          | NA            | NA            | NA                | 24.6          | 24.6          | 24.6              | 8.1 |
+| 20180923  | Montipora   | 1776     | 211-1         | soft           | 1           | 50.4          | 50.2          | 50.3              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1776     | 211-2         | soft           | 2           | 11.5          | 11.4          | 11.45             | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1776     | 212           | hard           | NA          | NA            | NA            | NA                | 15.4          | 15.6          | 15.5              | 9   |
+| 20180923  | Montipora   | 1776     | 212-1         | hard           | 1           | 50.8          | 50.4          | 50.6              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1776     | 212-2         | hard           | 2           | 10.5          | 10.4          | 10.45             | NA            | NA            | NA                | NA  |
+| 20180923  | Pocillopora | 2877     | 213           | soft           | NA          | NA            | NA            | NA                | 129           | 129           | 129               | 7.7 |
+| 20180923  | Pocillopora | 2877     | 213-1         | soft           | 1           | 394           | 394           | 394               | NA            | NA            | NA                | NA  |
+| 20180923  | Pocillopora | 2877     | 213-2         | soft           | 2           | 130           | 129           | 129.5             | NA            | NA            | NA                | NA  |
+| 20180923  | Pocillopora | 2877     | 214           | hard           | NA          | NA            | NA            | NA                | 48.2          | 48.2          | 48.2              | 7.7 |
+| 20180923  | Pocillopora | 2877     | 214-1         | hard           | 1           | 264           | 262           | 263               | NA            | NA            | NA                | NA  |
+| 20180923  | Pocillopora | 2877     | 214-2         | hard           | 2           | 59.2          | 59            | 59.1              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 1604     | 215           | soft           | NA          | NA            | NA            | NA                | 15.8          | 15.8          | 15.8              | 8.5 |
+| 20180929  | Montipora   | 1604     | 215-1         | soft           | 1           | 63.6          | 63.4          | 63.5              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 1604     | 215-2         | soft           | 2           | 8.08          | 8             | 8.04              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 1604     | 216           | hard           | NA          | NA            | NA            | NA                | 10            | 10            | 10                | **  |
+| 20180929  | Montipora   | 1604     | 216-1         | hard           | 1           | 36            | 35.8          | 35.9              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 1604     | 216-2         | hard           | 2           | 5.8           | 5.66          | 5.73              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2555     | 217           | soft           | NA          | NA            | NA            | NA                | 10.4          | 10.2          | 10.3              | **  |
+| 20180929  | Montipora   | 2555     | 217-1         | soft           | 1           | 23.4          | 23.2          | 23.3              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2555     | 217-2         | soft           | 2           | 6.26          | 6.2           | 6.23              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2555     | 218           | hard           | NA          | NA            | NA            | NA                | 13.8          | 13.8          | 13.8              | 8.9 |
+| 20180929  | Montipora   | 2555     | 218-1         | hard           | 1           | 30.4          | 30.4          | 30.4              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2555     | 218-2         | hard           | 2           | 6.66          | 6.6           | 6.63              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1583     | 219           | soft           | NA          | NA            | NA            | NA                | 11.2          | 11.2          | 11.2              | **  |
+| 20180923  | Montipora   | 1583     | 219-1         | soft           | 1           | 49            | 48.8          | 48.9              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1583     | 219-2         | soft           | 2           | 7.44          | 7.38          | 7.41              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1583     | 220           | hard           | NA          | NA            | NA            | NA                | **            | **            | **                | **  |
+| 20180923  | Montipora   | 1583     | 220-1         | hard           | 1           | 32.6          | 32.4          | 32.5              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1583     | 220-2         | hard           | 2           | 5.3           | 5.04          | 5.17              | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1466     | 221           | soft           | NA          | NA            | NA            | NA                | 58.8          | 58.8          | 58.8              | 8.3 |
+| 20180929  | Pocillopora | 1466     | 221-1         | soft           | 1           | 308           | 306           | 307               | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1466     | 221-2         | soft           | 2           | 55            | 54.6          | 54.8              | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1466     | 222           | hard           | NA          | NA            | NA            | NA                | 61.2          | 61.2          | 61.2              | 7.8 |
+| 20180929  | Pocillopora | 1466     | 222-1         | hard           | 1           | 196           | 196           | 196               | NA            | NA            | NA                | NA  |
+| 20180929  | Pocillopora | 1466     | 222-2         | hard           | 2           | 32.8          | 32.8          | 32.8              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2016     | 223           | soft           | NA          | NA            | NA            | NA                | 10.8          | 10.8          | 10.8              | **  |
+| 20180929  | Montipora   | 2016     | 223-1         | soft           | 1           | 22            | 21.8          | 21.9              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2016     | 223-2         | soft           | 2           | 5.2           | 5.14          | 5.17              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2016     | 224           | hard           | NA          | NA            | NA            | NA                | **            | **            | **                | **  |
+| 20180929  | Montipora   | 2016     | 224-1         | hard           | 1           | 26.4          | 26.4          | 26.4              | NA            | NA            | NA                | NA  |
+| 20180929  | Montipora   | 2016     | 224-2         | hard           | 2           | 4.36          | 4.32          | 4.34              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1321     | 225           | soft           | NA          | NA            | NA            | NA                | **            | **            | **                | **  |
+| 20180923  | Montipora   | 1321     | 225-1         | soft           | 1           | 45.4          | 45.4          | 45.4              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1321     | 225-2         | soft           | 2           | 6.42          | 6.38          | 6.4               | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1321     | 226           | hard           | NA          | NA            | NA            | NA                | **            | **            | **                | **  |
+| 20180923  | Montipora   | 1321     | 226-1         | hard           | 1           | 28.6          | 28.6          | 28.6              | NA            | NA            | NA                | NA  |
+| 20180923  | Montipora   | 1321     | 226-2         | hard           | 2           | 6.7           | 6.62          | 6.66              | NA            | NA            | NA                | NA  |
+
+
+[Link to 20190731 TapeStation report, Extractions #179-202](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-31%20-%2017.33.00.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
-![20190731 Extractions #179-202]()
+![20190731 Extractions #179-197-2](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190731_1.JPG?raw=true)
+
+![20190731 Extractions #198-202](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190731_2.JPG?raw=true)
