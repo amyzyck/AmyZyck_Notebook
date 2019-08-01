@@ -182,6 +182,7 @@ RNA Standard 2: 7871.22  ng/μl
 | 20180923  | Montipora   | 1321     | 226-1         | hard           | 1           | 28.6          | 28.6          | 28.6              | NA            | NA            | NA                | NA  |
 | 20180923  | Montipora   | 1321     | 226-2         | hard           | 2           | 6.7           | 6.62          | 6.66              | NA            | NA            | NA                | NA  |
 
+Fragment #2300 is very bleached with algae on the top of some of the branches. Pieces taken from the no algae portions. 
 
 [Link to 20190731 TapeStation report, Extractions #179-202](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-07-31%20-%2017.33.00.pdf)
 
