@@ -187,6 +187,12 @@ RNA Standard 2: 7871.22  ng/μl
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):  
 
+Several samples did not sink into the well. Possibly because of excess ethanol.
+
 ![20190731 Extractions #179-197-2](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190731_1.JPG?raw=true)
 
 ![20190731 Extractions #198-202](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190731_2.JPG?raw=true)
+
+![20190731 Extractions #203-226](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190731_3.JPG?raw=true)
+
+![20190731 Extractions #203-226](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190731_4.JPG?raw=true)
