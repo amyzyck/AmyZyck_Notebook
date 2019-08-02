@@ -20,7 +20,7 @@ Coral fragments were randomly chosen from different timepoint bags.
 
 DNA samples atypically put in green spin-away columns (green columns are usually used for RNA samples), but Zymo webpage states green spin-away columns can be used for DNA and/or RNA. DNA samples measured on the Qubit before proceeding with RNA samples. DNA/RNA shield atypically used instead of Wash Buffer during DNA extraction.
 
-DNA samples #260 and #266 have final elution volume of 80 μl. 
+DNA samples #260 and #266 have final elution volume of 80 μl.
 
 Fragment preparation start 9:25 end 9:43   
 Soft/Hard homogenization start 9:44 end 10:10  
@@ -43,3 +43,9 @@ RNA DNA Extraction start 10:11 end 12:51
 | 20180922  | Montipora   | 1128     | 264           | hard           | 3.74          | 3.74          | 3.74              | 30.2          | 30.4          | 30.3              | 8.9 |
 | 20180929  | Montipora   | 1588     | 265           | soft           | 8.96          | 8.94          | 8.95              | 25.2          | 25.2          | 25.2              | 9.4 |
 | 20180929  | Montipora   | 1588     | 266           | hard           | 4.66          | 4.66          | 4.66              | 20            | 20            | 20                | 9.6 |
+
+[Link to 20190802 TapeStation report, Extractions #255-266](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-02%20-%2013.38.30.pdf)
+
+[Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
+
+![20190802 Extractions #255-266](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190802.JPG?raw=true)

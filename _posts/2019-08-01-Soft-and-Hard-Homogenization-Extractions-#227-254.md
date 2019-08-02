@@ -77,7 +77,7 @@ RNA Standard 2: 10,100.11 ng/μl
 
 Extractions #243-254 ran on 20190802 with extractions #255-266.  
 
-[Link to 20190802 TapeStation report, Extractions #255-266]()
+[Link to 20190802 TapeStation report, Extractions #255-266](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-02%20-%2013.38.30.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
