@@ -34,7 +34,7 @@ Round 1: Extractions #227-242:
 DNA Standard 1: 196.29 ng/μl  
 DNA Standard 2: 21,117.67  ng/μl  
 RNA Standard 1: 399.45  ng/μl  
-RNA Standard 2: 9.024.70  ng/μl  
+RNA Standard 2: 9,024.70  ng/μl  
 
 Round 2: Extractions #243-254:  
 DNA Standard 1: 191.06 ng/μl    

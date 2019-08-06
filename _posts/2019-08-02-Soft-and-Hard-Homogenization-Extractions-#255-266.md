@@ -29,6 +29,11 @@ RNA DNA Extraction start 10:11 end 12:51
 [Qubit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md) used to check DNA and RNA quantity (ng/μl).  
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) used to check RNA quality.
 
+DNA Standard 1: 188.62 ng/μl  
+DNA Standard 2: 18,548.07  ng/μl  
+RNA Standard 1: 389.8  ng/μl  
+RNA Standard 2: 10,185.69  ng/μl 
+
 | Timepoint | Species     | Coral ID | Extraction ID | Homogenization | DNA Reading 1 | DNA Reading 2 | Average DNA ng/μl | RNA Reading 1 | RNA Reading 2 | Average RNA ng/μl | RIN |
 |-----------|-------------|----------|---------------|----------------|---------------|---------------|-------------------|---------------|---------------|-------------------|-----|
 | 20180929  | Pocillopora | 1468     | 255           | soft           | 6.32          | 6.16          | 6.24              | 131           | 130           | 130.5             | 6.7 |
