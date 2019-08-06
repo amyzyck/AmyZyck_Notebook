@@ -54,8 +54,8 @@ RNA Standard 2: 10,498.84  ng/μl
 
 Think about re-qubiting 1212 hard 282 and re-tapestation 1637 hard 278.
 
-[Link to 20190805 TapeStation report, Extractions #267-282]()
+[Link to 20190805 TapeStation report, Extractions #267-282](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-05%20-%2015.04.13.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
-![20190805 Extractions #267-282]()
+![20190805 Extractions #267-282](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190805.JPG?raw=true)
