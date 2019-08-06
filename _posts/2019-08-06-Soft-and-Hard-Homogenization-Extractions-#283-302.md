@@ -55,8 +55,8 @@ RNA Standard 2: 10,606.91  ng/μl
 
 Not enough tapestation tips, only the first 7 samples ran.
 
-[Link to 20190806 TapeStation report, Extractions #283-289]()
+[Link to 20190806 TapeStation report, Extractions #283-289](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-06%20-%2017.19.09.pdf)
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
-![20190805 Extractions #283-289]()
+![20190806 Extractions #283-302](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190806.JPG?raw=true)
