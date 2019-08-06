@@ -23,7 +23,7 @@ Fragment preparation start 11:00 end 11:18
 Soft/Hard homogenization start 11:19 end 11:51  
 RNA DNA Extraction start 11:52 end 14:42
 
-Extraction #s: 269, 270, 277, and 278 got the 500 μl RNA/DNA shield "wash" step.
+Extraction #s: 269, 270, 277, and 278 got the 500 μl RNA/DNA shield "wash" step in the DNA extractions only.
 
 [Qubit](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Qubit-Protocol.md) used to check DNA and RNA quantity (ng/μl).  
 [TapeStation](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-TapeStation-Protocol.md) used to check RNA quality.
