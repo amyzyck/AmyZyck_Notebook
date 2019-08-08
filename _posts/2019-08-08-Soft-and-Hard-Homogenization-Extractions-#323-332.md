@@ -43,4 +43,4 @@ Not enough TapeStation tips to run today's samples.
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
-![20190806 Extractions #323-332]()
+![20190806 Extractions #323-332](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190808.JPG?raw=true)
