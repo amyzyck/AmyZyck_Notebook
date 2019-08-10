@@ -39,7 +39,7 @@ RNA Standard 2: 10,702  ng/μl
 | 20180929  | Pocillopora | 1050     | 341           | soft           | 38.6          | 38.2          | 38.4              | 86            | 85.8          | 85.9              | 7.6 |
 | 20180929  | Pocillopora | 1050     | 342           | hard           | 35.4          | 35.4          | 35.4              | 59.2          | 59.2          | 59.2              | 7.2 |
 
-[Link to 20190809 TapeStation report, Extractions #290-342](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-05%20-%2015.04.13.pdf)
+[Link to 20190809 TapeStation report, Extractions #290-342](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-09%20-%2013.04.26.pdf)
 
 | Coral ID | Extraction ID | RIN |
 |----------|---------------|-----|
