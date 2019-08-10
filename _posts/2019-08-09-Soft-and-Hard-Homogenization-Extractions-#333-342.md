@@ -91,4 +91,4 @@ Extractions #: 301, 313, 325, and 337 did not run because not enough TapeStation
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
-![20190809 Extractions #333-342]()
+![20190809 Extractions #333-342](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190809.JPG?raw=true)
