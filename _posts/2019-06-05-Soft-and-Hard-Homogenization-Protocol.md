@@ -160,7 +160,7 @@ Modified from the [Zymo protocol](https://github.com/kevinhwong1/KevinHWong_Note
 26. Incubate at room temp for 5 minutes  
 27. Centrifuge at 16,000 rcf (g) for 30 seconds  
 28. Repeat steps 25-27 for a final elution volume of 100 µl  
-29. Label 1.5mL tubes on ice afterwards, and aliquot 10 µl into PCR strip tubes to save for Gel Electrophoresis, Qubit, and Tape Station to avoid freeze-thaw of your stock sample  
+29. Aliquot 5 µl of the final elution to 0.5 mL PCR tubes for Qubit and TapeStation analysis.    
 30. Store all tubes in the -80 &deg;C freezer.
 
 ## Clean-up
