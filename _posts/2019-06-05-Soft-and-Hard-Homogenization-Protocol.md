@@ -113,12 +113,15 @@ Modified from the [Zymo protocol](https://github.com/kevinhwong1/KevinHWong_Note
 14. Add 400 µl DNA/RNA Wash Buffer genetly to the yellow DNA spin columns  
 15. Centrifuge at 16,000 rcf (g) for **2 minutes**  
 16. Discard flow through (Zymo kit waste)  
-17. Transfer yellow columns to new 1.5 mL microcentrifuge tubes  
-18. Add 50 µl warmed 10mM Tris HCl to each yellow DNA column by dripping slowly directly on the filer  
-19. Incubate at room temp for 5 minutes  
-20. Centrifuge at 16,000 rcf (g) for 30 seconds  
-21. Repeat steps 18-20 for a final elution volume of 100µl  
-22. Label tubes, store at 4 &deg;C if quantifying the same day or the next, if waiting longer store in -20 &deg;C freezer
+17. Transfer yellow columns to new 1.5 mL microcentrifuge tubes ("E1")
+18. Add 10 µl warmed 10mM Tris HCl to each yellow DNA column by dripping slowly directly on the filter    
+19. No incubation for the first elution. Centrifuge at 16,000 rcf (g) for 30 seconds  
+20. Transfer the yellow DNA columns to new 1.5 mL microcentrifuge tubes ("E2")   
+21. Add 100 µl warmed 10mM Tris HCl to each yellow DNA column by dripping slowly directly on the filter   
+22. Incubate at room temperature for 15 minutes.   
+23. Centrifuge at 16,000 rcf (g) for 30 seconds  
+24. Aliquot 10 µl of the second elution ("E2") to 0.5 mL PCR tubes for Qubit and Gel Electrophoresis analysis.    
+25. Store at 4 &deg;C if quantifying the same day or the next, if waiting longer store in -20 &deg;C freezer
 
 **RNA Extraction**
 *Can do concurrently with DNA Extraction after DNA Extraction Step 7*  
@@ -153,7 +156,7 @@ Modified from the [Zymo protocol](https://github.com/kevinhwong1/KevinHWong_Note
 22. Centrifuge at 16,000 rcf (g) for **2 minutes**  
 23. Discard flow through (Zymo kit waste)  
 24. Transfer green columns to new 1.5 mL microcentrifuge tubes  
-25. Add 50 µl warmed DNase/RNase free water to each green RNA column by dripping slowly directly on the filer  
+25. Add 50 µl warmed DNase/RNase free water to each green RNA column by dripping slowly directly on the filter  
 26. Incubate at room temp for 5 minutes  
 27. Centrifuge at 16,000 rcf (g) for 30 seconds  
 28. Repeat steps 25-27 for a final elution volume of 100 µl  
