@@ -32,7 +32,7 @@ RNA Standard 2: 10,702  ng/μl
 | 20181006  | Pocillopora | 2413     | 334           | hard           | 37            | 36.8          | 36.9              | 44            | 43.8          | 43.9              | 8   |
 | 20180929  | Pocillopora | 1138     | 335           | soft           | 47.4          | 47            | 47.2              | 59.8          | 58.6          | 59.2              | 8.8 |
 | 20180929  | Pocillopora | 1138     | 336           | hard           | 33.2          | 33            | 33.1              | 33.6          | 33.4          | 33.5              | 8.2 |
-| 20181006  | Montipora   | 1250     | 337           | soft           | 16.2          | 16.2          | 16.2              | 15            | 15            | 15                | NA  |
+| 20181006  | Montipora   | 1250     | 337           | soft           | 16.2          | 16.2          | 16.2              | 15            | 15            | 15                | 9.1  |
 | 20181006  | Montipora   | 1250     | 338           | hard           | 12.5          | 12.5          | 12.5              | 12.4          | 12.4          | 12.4              | **  |
 | 20181006  | Montipora   | 1278     | 339           | soft           | 32.6          | 32.6          | 32.6              | 25            | 25            | 25                | 8.8 |
 | 20181006  | Montipora   | 1278     | 340           | hard           | 19.1          | 19.1          | 19.1              | 17.8          | 17.8          | 17.8              | 8.7 |
@@ -40,6 +40,9 @@ RNA Standard 2: 10,702  ng/μl
 | 20180929  | Pocillopora | 1050     | 342           | hard           | 35.4          | 35.4          | 35.4              | 59.2          | 59.2          | 59.2              | 7.2 |
 
 [Link to 20190809 TapeStation report, Extractions #290-342](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-09%20-%2013.04.26.pdf)
+
+[Link to 20190812 TapeStation report, Extractions #301, 313, 325, 337]()
+
 
 | Coral ID | Extraction ID | RIN |
 |----------|---------------|-----|
