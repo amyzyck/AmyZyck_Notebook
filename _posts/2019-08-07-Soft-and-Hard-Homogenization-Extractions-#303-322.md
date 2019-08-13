@@ -42,7 +42,7 @@ RNA Standard 2: 10,145.65  ng/μl
 | 20180929  | Pocillopora | 1744     | 310           | hard           | 21.8          | 21.8          | 21.8              | 40.4          | 40.2          | 40.3              | 8.2 |
 | 20181006  | Pocillopora | 1427     | 311           | soft           | 43            | 42.8          | 42.9              | 52.4          | 52.2          | 52.3              | 8.8 |
 | 20181006  | Pocillopora | 1427     | 312           | hard           | 29.8          | 29.6          | 29.7              | 34.4          | 34.2          | 34.3              | 8.5 |
-| 20181006  | Pocillopora | 1090     | 313           | soft           | 31.6          | 31.4          | 31.5              | 30.6          | 30.6          | 30.6              | NA  |
+| 20181006  | Pocillopora | 1090     | 313           | soft           | 31.6          | 31.4          | 31.5              | 30.6          | 30.6          | 30.6              | 8.4  |
 | 20181006  | Pocillopora | 1090     | 314           | hard           | 14            | 14            | 14                | 25.4          | 25.4          | 25.4              | 8.1 |
 | 20180922  | Montipora   | 1323     | 315           | soft           | 19.5          | 19.5          | 19.5              | 23.4          | 23.4          | 23.4              | 9.2 |
 | 20180922  | Montipora   | 1323     | 316           | hard           | 10.8          | 10.7          | 10.75             | 17            | 17            | 17                | **  |
@@ -110,3 +110,9 @@ Not enough TapeStation tips to run today's samples.
 | 2068     | 332           | **  |
 
 Extractions #: 301, 313, 325, and 337 did not run because not enough TapeStation screentapes.
+
+20190812 edit:  
+
+TapeStation ran for Extraction ID #s: 301, 313, 325, and 337.
+
+[Link to 20190812 TapeStation report, Extractions #301, 313, 325, 337](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-12%20-%2016.16.31.pdf)

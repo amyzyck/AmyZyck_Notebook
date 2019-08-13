@@ -50,7 +50,7 @@ RNA Standard 2: 10,606.91  ng/μl
 | 20181006  | Montipora   | 1223     | 298           | hard           | 6.02          | 5.96          | 5.99              | 11.8          | 12            | 11.9              | **  |
 | 20180929  | Montipora   | 1611     | 299           | soft           | 11.5          | 11.4          | 11.45             | 20.4          | 20.4          | 20.4              | 8.8 |
 | 20180929  | Montipora   | 1611     | 300           | hard           | 5.66          | 5.62          | 5.64              | 18.4          | 18.6          | 18.5              | 8.9 |
-| 20181006  | Montipora   | 2875     | 301           | soft           | 29            | 29            | 29                | 26.4          | 26.2          | 26.3              | NA  |
+| 20181006  | Montipora   | 2875     | 301           | soft           | 29            | 29            | 29                | 26.4          | 26.2          | 26.3              | 8.7  |
 | 20181006  | Montipora   | 2875     | 302           | hard           | 11.4          | 11.3          | 11.35             | 17.6          | 18.2          | 17.9              | 8.7 |
 
 Not enough tapestation tips, only the first 7 samples ran.
@@ -112,3 +112,9 @@ Not enough tapestation tips, only the first 7 samples ran.
 | 2068     | 332           | **  |
 
 Extractions #: 301, 313, 325, and 337 did not run because not enough TapeStation screentapes.
+
+20190812 edit:  
+
+TapeStation ran for Extraction ID #s: 301, 313, 325, and 337.
+
+[Link to 20190812 TapeStation report, Extractions #301, 313, 325, 337](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-12%20-%2016.16.31.pdf)

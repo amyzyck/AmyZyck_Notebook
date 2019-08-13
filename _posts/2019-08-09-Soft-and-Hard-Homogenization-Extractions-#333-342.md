@@ -41,7 +41,7 @@ RNA Standard 2: 10,702  ng/μl
 
 [Link to 20190809 TapeStation report, Extractions #290-342](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-09%20-%2013.04.26.pdf)
 
-[Link to 20190812 TapeStation report, Extractions #301, 313, 325, 337]()
+[Link to 20190812 TapeStation report, Extractions #301, 313, 325, 337](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/TapeStation/2019-08-12%20-%2016.16.31.pdf)
 
 
 | Coral ID | Extraction ID | RIN |
@@ -90,8 +90,12 @@ RNA Standard 2: 10,702  ng/μl
 | 2068     | 331           | 8.7 |
 | 2068     | 332           | **  |
 
-Extractions #: 301, 313, 325, and 337 did not run because not enough TapeStation screentapes.
+Extractions #: 301, 313, 325, and 337 did not run because not enough TapeStation screentapes.  
 
 [Gel Electrophoresis Results](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-07-16-Gel-Electrophoresis-Protocol.md):
 
 ![20190809 Extractions #333-342](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190809.JPG?raw=true)
+
+20190813 edit:
+
+TapeStation ran for Extraction IDs #s: 301, 313, 325, 337. See above for tapestation report link. Extraction ID # 337: 9.1 
