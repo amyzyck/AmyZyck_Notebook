@@ -60,4 +60,4 @@ RNA Standard 2: 10,577.53 ng/μl
 
 ![20190826 Extractions #395-416](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/20190827.jpg?raw=true)
 
-21 lanes of DNA but only 20 samples extracted. The extra is unknown. Think about re-doing this gel. Usually a coral fragment's soft and hard DNA quality will match. In the above labeling, #404 and #405 have the same smearing pattern but are labeled as different coral fragments. It is unlikely that they are truly different samples. 
+The last lane is a re-do of Extraction #402 because the first lane mostly floated out of the well. 
