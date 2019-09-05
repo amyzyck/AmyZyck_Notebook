@@ -1,8 +1,8 @@
-#Curriculum Vitae
+# Curriculum Vitae
 
 Last updated: September 5, 2019
 
-#Amaelia H. Zyck
+# Amaelia H. Zyck
 ----
 Phone: 630.926.4179 | Email: amaeliazyck@gmail.com
 
