@@ -3,7 +3,6 @@
 Last updated: September 5, 2019
 
 # Amaelia H. Zyck
-----
 Phone: 630.926.4179 | Email: amaeliazyck@gmail.com
 
 ### EDUCATION
@@ -53,9 +52,9 @@ Fall 2018 | Invertebrate Zoology (BIO 354), _University of Rhode Island_
 2017-2018 | **Magellan Apprentice Grant**: Spatial and Temporal Variation in Larval Availability: Success in the Plankton and Maintenance of Connectivity among Adult Mussel Populations. AH Zyck, P.I., $1000. Awarded by University of South Carolina Capstone Scholars Program
 
 ### RELEVANT COURSEWORK
-_Marine Science_: Invertebrate Zoology; Marine Ecology; Biology of Marine Organisms; Chemical Oceanography, Physical Oceanography; Principles of Biological Oceanography; Ichthyology; Processes of Global Environmental Change
+_Marine Science_: Invertebrate Zoology; Marine Ecology; Biology of Marine Organisms; Chemical Oceanography; Physical Oceanography; Principles of Biological Oceanography; Ichthyology; Processes of Global Environmental Change
 
-_Biology_: Evolutionary and Ecological Genomics, Evolutionary Biology, Ecology and Evolution; Cell and Molecular Biology; Fundamental Genetics
+_Biology_: Evolutionary and Ecological Genomics; Evolutionary Biology; Ecology and Evolution; Cell and Molecular Biology; Fundamental Genetics
 
 _Stats and Computer Science_: Mixed Effect Models; Ocean Data Analysis; Statistical Methods
 
