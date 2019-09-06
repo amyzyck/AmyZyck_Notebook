@@ -34,7 +34,7 @@ May-Aug ‘16 ~ **Field Technician**, Dr. Hilbish, Density-dependent mortality i
 ### ORAL PRESENTATIONS
 (first author only)
 
-2018 ~ **Conflicts in Scale: Temporal and spatial variation in larval settlement and post-settlement growth in marine mussel populations**, Benthic Ecology Meeting 2018, _Corpus Christi, TX_
+2018 ~ **Conflicts in Scale: Temporal and spatial variation in larval settlement and post-settlement growth in marine mussel populations**, Benthic Ecology Meeting, _Corpus Christi, TX_
 
 2017 ~ **Coupled effects of pCO2 and dissolved oxygen on early life stages of Atlantic
 silverside (_Menidia menidia_)**, NOAA Ernest F. Hollings Symposium, _Silver Spring, MD_
@@ -42,16 +42,16 @@ silverside (_Menidia menidia_)**, NOAA Ernest F. Hollings Symposium, _Silver Spr
 ### POSTER PRESENTATIONS
 (first author only)
 
-2019 ~ **Understanding the impacts of sewage effluent on the genomic diversity and population connectivity of the Fiddler Crab (_Uca rapax_)**, Evolution Meeting 2019, _Providence, RI_
+2019 ~ **Understanding the impacts of sewage effluent on the genomic diversity and population connectivity of the Fiddler Crab (_Uca rapax_)**, Evolution Meeting, _Providence, RI_
 
 2018 ~ **Coupled effects of pCO2 and dissolved oxygen on early life stages of Atlantic
 silverside (_Menidia menidia_)**, Ocean Sciences Meeting, _Portland, OR_
 
-2017 ~ **Spatial and Temporal Variation in Larval Availability: Success in the Plankton and Maintenance of Connectivity among Adult Mussel Populations**, Benthic Ecology Meeting 2017, _Myrtle Beach, SC_
+2017 ~ **Spatial and Temporal Variation in Larval Availability: Success in the Plankton and Maintenance of Connectivity among Adult Mussel Populations**, Benthic Ecology Meeting, _Myrtle Beach, SC_
 
-2016 ~ **Mussel settlement and post settlement dynamics**, Benthic Ecology Meeting 2016, _Portland, ME_
+2016 ~ **Mussel settlement and post settlement dynamics**, Benthic Ecology Meeting, _Portland, ME_
 
-2016 ~ **Mussel settlement and post settlement dynamics**, Southeastern Ecology and Evolution 2016, _Tallahassee, FL_
+2016 ~ **Mussel settlement and post settlement dynamics**, Southeastern Ecology and Evolution, _Tallahassee, FL_
 
 ### TEACHING ASSISTANTSHIPS
 Fall 2019	~ Invertebrate Zoology (BIO 354), _University of Rhode Island_
