@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 I am a Ph.D. student at the University of Rhode Island in the Puritz Lab of Marine Evolutionary Ecology. My research aims to understand the evolutionary responses of marine organisms to multiple anthropogenic stressors. I believe that research should be accessible and reproducible in order to increase productivity and progress in the scientific field. If you have questions about my research, please contact me at [amaeliazyck@gmail.com](mailto:amaeliazyck@gmail.com).
 
 If you would like to find more information about the Puritz Laboratory at the University of Rhode Island, please visit [http://marineevoeco.com/](http://marineevoeco.com/).
