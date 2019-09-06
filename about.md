@@ -31,13 +31,17 @@ May-Aug ‘16 ~ **Field Technician**, Dr. Hilbish, Density-dependent mortality i
 
 2015-2016 ~ **Independent Study**, Dr. Hilbish, Mussel settlement and post settlement dynamics. _University of South Carolina_
 
-### ORAL PRESENTATIONS (first author only)
+### ORAL PRESENTATIONS
+(first author only)
+
 2018 ~ **Conflicts in Scale: Temporal and spatial variation in larval settlement and post-settlement growth in marine mussel populations**, Benthic Ecology Meeting 2018, _Corpus Christi, TX_
 
 2017 ~ **Coupled effects of pCO2 and dissolved oxygen on early life stages of Atlantic
 silverside (_Menidia menidia_)**, NOAA Ernest F. Hollings Symposium, _Silver Spring, MD_
 
-### POSTER PRESENTATIONS (first author only)
+### POSTER PRESENTATIONS
+(first author only)
+
 2019 ~ **Understanding the impacts of sewage effluent on the genomic diversity and population connectivity of the Fiddler Crab (_Uca rapax_)**, Evolution Meeting 2019, _Providence, RI_
 
 2018 ~ **Coupled effects of pCO2 and dissolved oxygen on early life stages of Atlantic
