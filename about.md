@@ -31,19 +31,19 @@ May-Aug ‘16 ~ **Field Technician**, Dr. Hilbish, Density-dependent mortality i
 
 2015-2016 ~ **Independent Study**, Dr. Hilbish, Mussel settlement and post settlement dynamics. _University of South Carolina_
 
-### PROFESSIONAL PRESENTATIONS (first author only)
-2019 ~ **Understanding the impacts of sewage effluent on the genomic diversity and population connectivity of the Fiddler Crab (_Uca rapax_)** Poster presentation	|	Evolution Meeting 2019, _Providence, RI_
+### ORAL PRESENTATIONS (first author only)
+2019 ~ **Understanding the impacts of sewage effluent on the genomic diversity and population connectivity of the Fiddler Crab (_Uca rapax_)** Poster presentation, Evolution Meeting 2019, _Providence, RI_
 
-2018 ~ **Conflicts in Scale: Temporal and spatial variation in larval settlement and post-settlement growth in marine mussel populations** Podium presentation	|	Benthic Ecology Meeting 2018, _Corpus Christi, TX_
+2018 ~ **Conflicts in Scale: Temporal and spatial variation in larval settlement and post-settlement growth in marine mussel populations** Podium presentation, Benthic Ecology Meeting 2018, _Corpus Christi, TX_
 
-2017 ~ **Spatial and Temporal Variation in Larval Availability: Success in the Plankton and Maintenance of Connectivity among Adult Mussel Populations** Poster Presentation	|	Benthic Ecology Meeting 2017, _Myrtle Beach, SC_
+2017 ~ **Spatial and Temporal Variation in Larval Availability: Success in the Plankton and Maintenance of Connectivity among Adult Mussel Populations** Poster Presentation, Benthic Ecology Meeting 2017, _Myrtle Beach, SC_
 
 2017 ~ **Coupled effects of _p_CO2 and dissolved oxygen on early life stages of Atlantic
-silverside (_Menidia menidia_)** Podium presentation	|	NOAA Ernest F. Hollings Symposium, _Silver Spring, MD_
+silverside (_Menidia menidia_)** Podium presentation, NOAA Ernest F. Hollings Symposium, _Silver Spring, MD_
 
-2016 ~ **Mussel settlement and post settlement dynamics** Poster presentation	|	Benthic Ecology Meeting 2016, _Portland, OR_
+2016 ~ **Mussel settlement and post settlement dynamics** Poster presentation, Benthic Ecology Meeting 2016, _Portland, OR_
 
-2016 ~ **Mussel settlement and post settlement dynamics** Poster presentation	|	Southeastern Ecology and Evolution 2016, _Tallahassee, FL_
+2016 ~ **Mussel settlement and post settlement dynamics** Poster presentation, Southeastern Ecology and Evolution 2016, _Tallahassee, FL_
 
 ### TEACHING ASSISTANTSHIPS
 Fall 2019	~ Invertebrate Zoology (BIO 354), _University of Rhode Island_
