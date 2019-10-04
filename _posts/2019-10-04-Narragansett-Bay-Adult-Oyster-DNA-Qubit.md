@@ -7,7 +7,6 @@ tags: [Narragansett Bay, Crassostrea virginica, DNA, Sonication]
 projects: [Narragansett Bay]
 ---
 
-# Sonication of Narragansett Bay Adult Oyster DNA Samples 1-50
 
 50 adult oyster DNA samples were received from [Dr. Rebecca Stevick](https://github.com/rjstevick).
 
