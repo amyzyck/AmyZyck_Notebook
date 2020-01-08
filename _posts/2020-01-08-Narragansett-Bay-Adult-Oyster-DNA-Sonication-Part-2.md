@@ -21,6 +21,7 @@ Samples were sonicated using the [Qsonica Protocol](https://meschedl.github.io/M
 The remaining 42 samples were sonicated to ~150 basepairs. These remaining samples were broken up into 3 sets of 14 samples, sonicated on: Oct. 11, 2019; Oct. 16, 2019; Oct. 24, 2019.
 
 ##### October 11, 2019
+
 |Sample|Aliquot (for 500ng DNA)|Buffer AE to 51 uL (1 extra uL for TapeStation)|
 |---|---|---|
 |1.3|25.91|25.09|
@@ -54,6 +55,7 @@ Sample 4.1 was sonicated for an extra 2 minutes.
 ----
 
 ##### October 16, 2019
+
 |Sample|Aliquot (for 500ng DNA)|Buffer AE to 51 uL (1 extra uL for TapeStation)|
 |---|---|---|
 |1.1|35.97|15.03|
@@ -87,6 +89,7 @@ Samples 1.1, 1.10, 2.2, 2.5, 2.8, 3.2, 3.8, 4.2, 4.9, 5.2, 5.5 were sonicated fo
 ----
 
 ##### October 24, 2019
+
 |Sample|Aliquot (for 500ng DNA)|Buffer AE to 51 uL (1 extra uL for TapeStation)|
 |---|---|---|
 |1.4|27.47|23.53|
