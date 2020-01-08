@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Narragansett Bay Adult Oyster DNA Sonication
+title: Narragansett Bay Adult Oyster DNA Sonication Part 1
 date: '2019-09-29'
 categories: Processing, Protocols
 tags: [Narragansett Bay, Crassostrea virginica, DNA, Sonication]
@@ -17,7 +17,7 @@ Concentrations ranged from 12.8 uL - 528 uL.
 
 ### Sonication
 
-Samples were sonicated using the [Qsonica Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qsonica/)
+Samples were sonicated using the [Qsonica Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qsonica/).
 
 8 random samples were sonicated to ~150 basepairs on September 26 and September 30, 2019.
 
