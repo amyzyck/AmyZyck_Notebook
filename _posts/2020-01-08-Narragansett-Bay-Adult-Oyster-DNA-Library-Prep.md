@@ -160,7 +160,7 @@ Previously, all samples were sonicated to 150 bp following the [QSonica protocol
 
 See full report [here](https://drive.google.com/a/uri.edu/file/d/1gOXP601mOL54BYIJOa_hCchIj3Qa6pyP/view?usp=sharing)
 
-![1]({{ site.baseurl}}/images/Sample1.2.png)
-![2]({{ site.baseurl}}/images/Sample3.9.png)
-![3]({{ site.baseurl}}/images/Sample5.6.png)
-![4]({{ site.baseurl}}/images/Sample5.8.png)
+![1](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample1.2.png)
+![2](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample3.9.png)
+![3](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample5.6.png)
+![4](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample5.8.png)
