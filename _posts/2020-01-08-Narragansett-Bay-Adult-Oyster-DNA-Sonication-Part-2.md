@@ -10,6 +10,7 @@ projects: [Narragansett Bay]
 50 adult oyster DNA samples were received from [Dr. Rebecca Stevick](https://github.com/rjstevick).
 
 ### Qubit
+
 Prior to sonication, DNA concentrations were calculated following the Qubit dsDNA broad range [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/).
 
 Concentrations ranged from 12.8 uL - 528 uL.
@@ -18,11 +19,7 @@ Concentrations ranged from 12.8 uL - 528 uL.
 
 Samples were sonicated using the [Qsonica Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qsonica/).
 
-<<<<<<< HEAD
 The remaining 42 samples were sonicated to ~150 basepairs. These remaining samples were broken up into 3 sets of 14 samples, sonicated on:
-=======
-The remaining 42 samples were sonicated to ~150 basepairs. These remaining samples were broken up into 3 sets of 14 samples, sonicated on: 
->>>>>>> dd88cc0019faa966f8e9d6e56e3cadd4959cb234
 
 - Oct. 11, 2019
 - Oct. 16, 2019
