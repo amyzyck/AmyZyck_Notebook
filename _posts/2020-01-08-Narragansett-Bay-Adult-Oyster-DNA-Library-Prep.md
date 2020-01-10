@@ -162,7 +162,14 @@ Completed on Oct. 16, 2019
 
 See full report [here](https://drive.google.com/a/uri.edu/file/d/1gOXP601mOL54BYIJOa_hCchIj3Qa6pyP/view?usp=sharing)
 
-![1](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample1.2.png)
-![2](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample3.9.png)
-![3](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample5.6.png)
-![4](https://github.com/amyzyck/AmyZyck_Notebook/blob/master/images/Sample5.8.png)
+Sample 1.2:
+![Sample1.2]({{ site.baseurl}}/images/Sample1.2.png "Sample1.2")
+
+Sample 3.9:
+![Sample3.9]({{ site.baseurl}}/images/Sample3.9.png "Sample3.9")
+
+Sample 5.6:
+![Sample5.6]({{ site.baseurl}}/images/Sample5.6.png "Sample5.6")
+
+Sample 5.8:
+![Sample5.4]({{ site.baseurl}}/images/Sample5.8.png "Sample5.8")
