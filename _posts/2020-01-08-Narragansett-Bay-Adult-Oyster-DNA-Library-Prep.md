@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Narragansett Bay Adult Oyster DNA Library Prep
+title: Narragansett Bay Adult Oyster DNA Library Prep Part 1
 date: '2020-01-08'
 categories: Processing, Protocols
 tags: [Narragansett Bay, Crassostrea virginica, DNA, Library Prep]
 projects: [Narragansett Bay]
 ---
 
-### DNA Library Prep for NB Adult Oyster EecSeq
+### DNA Library Prep for NB Adult Oyster EecSeq - 8 Samples
 
 ***Initial bead cleanup and library prep were performed on Oct. 15, 2019.***
 
@@ -140,6 +140,8 @@ Previously, all samples were sonicated to 150 bp following the [QSonica protocol
 - Placed tubes back onto the magnet plate and removed supernatant when clear to new labeled PCR strip tubes
 
 #### Qubit and TapeStation
+
+Completed on Oct. 16, 2019
 
 - Followed [Qubit protocol for BR DNA](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
 
