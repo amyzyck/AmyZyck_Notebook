@@ -13,7 +13,7 @@ projects: [Narragansett Bay]
 
 Using the [KAPA HyperPrep DNA Library Prep Kit](https://sequencing.roche.com/en-us/products-solutions/by-category/library-preparation/dna-library-preparation/kapa-hyperprep.html) on 14 DNA samples in 10 mM Tris HCl pH 8 containing 500 ng from the first 50 samples of the NB adult oyster experiment.
 
-Previously, all samples were sonicated to 150 bp following the [QSonica protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qsonica/)- instructions can be found [here](https://amyzyck.github.io/AmyZyck_Notebook/Narragansett-Bay-Adult-Oyster-DNA-Sonication-Part-1/).
+Previously, all samples were sonicated to 150 bp following the [QSonica protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qsonica/)- instructions can be found [here](https://amyzyck.github.io/AmyZyck_Notebook/Narragansett-Bay-Adult-Oyster-DNA-Sonication-Part-2/).
 
 ***A 1.8X bead cleanup was performed to concentrate 500 ng of DNA in 25 μl before library prep:***
 
@@ -78,6 +78,8 @@ _(should have multiplied by 15.5 instead of 14.5 to account for more pipetting e
 
 #### 0.8X Cleanup
 
+- _Made fresh 80% EtOH_
+- _Took KAPA Pure Beads out of fridge beforehand to warm to room temp_
 - After incubation, added 44 μl of KAPA pure beads to each sample and pipetted up and down 10 times to mix (_avoid bubbles_)
 - Placed tubes on shaker at room temp for 15 minutes
 - Placed tubes on magnet plate and removed supernatant from tubes when it was fully clear not disturbing the beads
