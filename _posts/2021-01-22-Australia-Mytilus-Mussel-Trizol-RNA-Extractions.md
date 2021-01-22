@@ -208,10 +208,10 @@ Qubit BR RNA assay
 |----|----|
 |Std 1|417|
 |Std 2|10806|
-|4392|25|
-|4402|194|
-|4415|49.9|
-|4431|76.7|
+|4428|25|
+|Primel 2|194|
+|Primel 6|49.9|
+|Primel 9|76.7|
 
 TapeStation report can be accessed [here](https://drive.google.com/file/d/1TyrQpJmSZiaP7XAxn4S6YuaYnlBdfJo9/view?usp=sharing).
 
