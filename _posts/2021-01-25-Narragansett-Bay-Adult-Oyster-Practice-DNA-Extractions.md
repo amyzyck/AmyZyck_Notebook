@@ -29,12 +29,12 @@ __[Zymo Research Quick-DNA Miniprep Plus](https://www.zymoresearch.com/collectio
   - check the tissue after 1 hour of incubation
   - *Tissue was completely solubilized after 1 hour*
 
-AA001 Lid: ![AA001_Lid]({{ site.baseurl}}/images/AA001_Lid.HEIC "AA001_Lid")
-AA001 Side: ![AA001_Side]({{ site.baseurl}}/images/AA001_Side.HEIC "AA001_Side")
-AA004 Lid: ![AA004_Lid]({{ site.baseurl}}/images/AA004_Lid.HEIC "AA004_Lid")
-AA004 Side: ![AA004_Side]({{ site.baseurl}}/images/AA004_Side.HEIC "AA004_Side")
-AA008 Lid: ![AA008_Lid]({{ site.baseurl}}/images/AA008_Lid.HEIC "AA008_Lid")
-AA008 Side: ![AA008_Side]({{ site.baseurl}}/images/AA008_Side.HEIC "AA008_Side")
+AA001 Lid: ![AA001_Lid]({{ site.baseurl}}/images/AA001_Lid.png "AA001_Lid")
+AA001 Side: ![AA001_Side]({{ site.baseurl}}/images/AA001_Side.png "AA001_Side")
+AA004 Lid: ![AA004_Lid]({{ site.baseurl}}/images/AA004_Lid.png "AA004_Lid")
+AA004 Side: ![AA004_Side]({{ site.baseurl}}/images/AA004_Side.png "AA004_Side")
+AA008 Lid: ![AA008_Lid]({{ site.baseurl}}/images/AA008_Lid.png "AA008_Lid")
+AA008 Side: ![AA008_Side]({{ site.baseurl}}/images/AA008_Side.png "AA008_Side")
 
 - After incubation, place all samples in tabletop centrifuge at 13000 rcf for 1 minute
   - Little debris pellet should form at bottom of tube
@@ -106,7 +106,7 @@ The DNA quality and size were assessed following [Agarose Gel Protocol](https://
 
 Gel was run with Kevin Wong. His samples are the top row.
 
-Gel_Practice_Part1: ![Gel_Practice_Part1]({{ site.baseurl}}/images/Gel_Practice_Part1.HEIC "Gel_Practice_Part1")
+Gel_Practice_Part1: ![Gel_Practice_Part1]({{ site.baseurl}}/images/Gel_Practice_Part1.png "Gel_Practice_Part1")
 
 The samples look very streaky. Likely due to gel artifacts Will do a 1X Beadclean and then run samples on gel again.
 
@@ -147,7 +147,7 @@ __Agarose Gel Electrophoresis__
 
 The DNA quality and size were assessed following [Agarose Gel Protocol](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-03-01/PPP-Lab-Gel-Protocol) for a small 1% gel.
 
-Gel_Practice_Part2: ![Gel_Practice_Part2]({{ site.baseurl}}/images/Gel_Practice_Part2.HEIC "Gel_Practice_Part2")
+Gel_Practice_Part2: ![Gel_Practice_Part2]({{ site.baseurl}}/images/Gel_Practice_Part2.png "Gel_Practice_Part2")
 
 The gel does not look any different. I will look at the samples on the TapeStation.
 
