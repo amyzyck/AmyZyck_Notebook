@@ -155,6 +155,8 @@ __TapeStation__
 
 Completed on November 25, 2020
 
+Samples were run on the TapeStation following the protocol for [Genomic DNA](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA-Tapestation/).
+
 See full report [here](https://drive.google.com/file/d/1iHFXCkq150cMiKCZ8HLPYqL7elhXk7MN/view?usp=sharing)
 
 The DNA looks pretty good, some smaller fragments around 1500 bp, but the majority is still larger fragments. I'm not sure why the gel looked bad. For future gels, I will use less DNA (2 ul instead of 5 ul) and used diluted gelgreen.

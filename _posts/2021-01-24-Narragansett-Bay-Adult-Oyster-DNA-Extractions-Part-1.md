@@ -126,8 +126,10 @@ __TapeStation__
 
 Completed on January 20, 2021
 
+Samples were run on the TapeStation following the protocol for [Genomic DNA](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA-Tapestation/).
+
 - Ran samples BAR_5 and KIC_6
 
 See full report [here](https://drive.google.com/file/d/1lbIGKiY1sWVaq-7DMm4KU01Ii3Z0ce5h/view?usp=sharing).
 
-KIC_6 looked really good, BAR_5 had a lot of smaller fragments around 1500 bp. Next time I will try smaller pieces of tissue. 
+KIC_6 looked really good, BAR_5 had a lot of smaller fragments around 1500 bp. Next time I will try smaller pieces of tissue.
