@@ -43,7 +43,7 @@ NAR_7 M2: ![NAR7_M2]({{ site.baseurl}}/images/NAR7_M2.png "NAR7_M2")
 BAR_5 M2: ![BAR5_M2]({{ site.baseurl}}/images/BAR5_M2.png "BAR5_M2")
 BAR_7 M2: ![BAR7_M2]({{ site.baseurl}}/images/BAR7_M2.png "BAR7_M2")
 GHP_8 M2: ![GHP8_M2]({{ site.baseurl}}/images/GHP8_M2.png "GHP8_M2")
-KIC_6 M2: ![KIC6_M2]({{ site.baseurl}}/images/KIC6_M2.png "KIC6_M2")
+KIC_6 M1: ![KIC6_M1]({{ site.baseurl}}/images/KIC6_M1.png "KIC6_M1")
 
 - After incubation, place all samples in the tabletop centrifuge and spin at 13000 rcf for 1 minute
 - Make new set of labeled 1.5 ml tubes
