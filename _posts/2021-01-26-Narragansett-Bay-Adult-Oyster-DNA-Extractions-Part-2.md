@@ -91,7 +91,7 @@ MCD_4: ![MCD4_M1]({{ site.baseurl}}/images/MCD4_M1.png "MCD4_M1")
 - Centrifuge at max speed for 1 minute
 - Take out spin columns at discard
 - Aliquot 2 ul of each sample to their respective PCR strip tube for agarose gel
-  - 1 ul will be taken directly from 1.5 ml tube for Qubit 
+  - 1 ul will be taken directly from 1.5 ml tube for Qubit
 
 *97 ul remaining in 1.5 ml sample tubes*
 
@@ -118,6 +118,7 @@ The DNA quality and size were assessed following [Agarose Gel Protocol](https://
 
 - Only 2 ul of DNA for each sample were used
 - Used a diluted gelgreen made by [Maggie Schedl](https://meschedl.github.io/MES_Puritz_Lab_Notebook/)
+- Used a different loading dye - Purple loading dye versus Tritrack
 
 ![Gel_Part2]({{ site.baseurl}}/images/Gel_Part2.png "Gel_Part2")
 
