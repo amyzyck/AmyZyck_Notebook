@@ -123,3 +123,5 @@ The DNA quality and size were assessed following [Agarose Gel Protocol](https://
 - Used a different loading dye - Purple loading dye versus Tritrack
 
 ![Gel_Part4]({{ site.baseurl}}/images/Gel_Part4.png "Gel_Part4")
+
+Same as before, first elution has smaller fragments than second elution. Gel doesn't look super pretty. I may run two or three of these samples on the TapeStation just to make sure everything is good. I also think I'll run the gel longer next time. 
