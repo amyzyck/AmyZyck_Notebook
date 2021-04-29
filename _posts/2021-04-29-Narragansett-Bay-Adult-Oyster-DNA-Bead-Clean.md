@@ -7,6 +7,8 @@ tags: [Narragansett Bay, Crassostrea virginica, oyster, DNA, KAPA Bead Clean]
 projects: [Narragansett Bay]
 ---
 
+### 1.8X Bead clean of oyster DNA samples post sonication
+
 DNA samples were previously sonicated down to a modal size of 150 bp, documented [here](https://amyzyck.github.io/AmyZyck_Notebook/Narragansett-Bay-Adult-Oyster-DNA-Sonication-with-50-new-samples/). Before moving on to library prep, I performed a 1.8X bead clean to concentrate the 500 ng of DNA in 25 uL of 10 mM Tris HCl pH 8.
 
 Completed April 27 and 28, 2021

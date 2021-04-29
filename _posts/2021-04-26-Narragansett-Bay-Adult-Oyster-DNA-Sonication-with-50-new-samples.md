@@ -7,6 +7,8 @@ tags: [Narragansett Bay, Crassostrea virginica, Oyster, DNA, Sonication]
 projects: [Narragansett Bay]
 ---
 
+### Sonication of oyster DNA samples for shearing to 150 bp 
+
 DNA extraction was previously performed on 50 oysters collected from 5 sites in Narragansett Bay.
 
 ### Sonication
