@@ -7,7 +7,7 @@ tags: [Narragansett Bay, Crassostrea virginica, oyster, Bead clean, DNA]
 projects: [Narragansett Bay]
 ---
 
-### 1X Bead clean to concentrate DNA into smaller volume
+### 1X Bead clean to concentrate DNA into smaller volume before sonication
 
 Completed April 19, 2021
 
@@ -87,4 +87,4 @@ GHP_2 and GHP_3 are too low, so adding more DNA:
 |GHP_2|Extraction 3 E1|144|2|51|
 |GHP_3|Extraction 1 E1|180|1|51|
 
-The MCD_10 sample DNA concentration is too low, so I will proceed using DNA from Extraction 2 E1 for this sample. Ready to move on to sonication. 
+The MCD_10 sample DNA concentration is too low, so I will proceed using DNA from Extraction 2 E1 for this sample. Ready to move on to sonication.

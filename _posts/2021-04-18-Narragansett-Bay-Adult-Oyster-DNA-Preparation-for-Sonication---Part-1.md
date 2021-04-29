@@ -7,7 +7,7 @@ tags: [Narragansett Bay, Crassostrea virginica, oyster, DNA, Bead clean]
 projects: [Narragansett Bay]
 ---
 
-### 1X Bead clean to concentrate DNA into smaller volume
+### 1X Bead clean to concentrate DNA into smaller volume before sonication
 
 Completed April 14, 2021
 
@@ -61,4 +61,4 @@ Before sonicating the DNA, a few samples need to have the DNA concentrated into 
 |GHP_2|3.88|
 |GHP_3|6.48|
 
-A lot of DNA was lost during the bead clean, so all of these samples have less than 500 ng total. Thankfully I have replicate extracted DNA for all these samples, so I can use those to get 500 ng of DNA and move onto sonication. 
+A lot of DNA was lost during the bead clean, so all of these samples have less than 500 ng total. Thankfully I have replicate extracted DNA for all these samples, so I can use those to get 500 ng of DNA and move onto sonication.
