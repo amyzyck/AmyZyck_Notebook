@@ -111,6 +111,7 @@ Completed on December 10, 2019
 - Add 500 ng of probes to each pooled capture
   - 500 ng/68.8 ng/ul = 7.27 ul
 - Add nuclease-free water to bring volume up to 29.37
+
 |Sample|Vol. pooled w/ probes (ul)|Vol. of water (ul)|
 |----|----|----|
 |Capture 1|28.41|0.96|
