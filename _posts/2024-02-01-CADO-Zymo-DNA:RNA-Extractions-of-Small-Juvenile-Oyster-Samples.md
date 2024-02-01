@@ -7,7 +7,7 @@ tags: [Crassostrea virginica, oyster, juvenile, DNA, RNA, Extractions]
 projects: [CADO]
 ---
 
-# Zymo DNA/RNA Extractions of Juvenile Oyster (< 4 mm) Samples
+## Zymo DNA/RNA Extractions of Juvenile Oyster (< 4 mm) Samples
 
 Extracting DNA and RNA from juvenile oyster samples from a multi-stressor exposure experiment. 
 
