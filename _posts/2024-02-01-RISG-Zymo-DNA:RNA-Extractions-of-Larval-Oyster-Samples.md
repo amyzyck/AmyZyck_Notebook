@@ -7,7 +7,7 @@ tags: [Crassostrea virginica, oyster, larval, DNA, RNA, Extractions]
 projects: [Rhode Island Sea Grant]
 ---
 
-# Zymo DNA/RNA Extractions of Larval Oyster Samples
+## Zymo DNA/RNA Extractions of Larval Oyster Samples
 
 Using [Zymo *Quick*-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit)
 
