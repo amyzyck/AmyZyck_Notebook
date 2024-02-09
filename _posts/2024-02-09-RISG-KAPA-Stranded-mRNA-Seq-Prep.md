@@ -124,7 +124,7 @@ All calculations and notes for pooling RNA samples can be accessed [here](https:
 
 *Because I used a 10 μM stock of the library amplificatiton index primers, the cDNA library concentrations were too small (less than 10 ng/μL). I peformed an additonal 6 cycle PCR amplification to increase number of libraries. Because libraries are already completed, I can use the Illumina universal primers for the re-amplification.*
 
-- Combine 25 μL of HSRM and 5 μL of Illumin Primer mix
+- Combine 25 μL of HSRM and 5 μL of Illumina Primer mix
 - Add 30 μL of amplification mix to the 20 μL sample
 - Thermocycler PCR 6 program 
 - Peform 1X bead clean
@@ -141,3 +141,7 @@ All calculations and notes for pooling RNA samples can be accessed [here](https:
 **TapeStation**
 - cDNA libraries are checked using the [D5000 ScreenTape Assay](https://www.agilent.com/cs/library/usermanuals/public/ScreenTape_D5000_QG.pdf)
 - Sample TapeStation report can be accessed [here](https://drive.google.com/file/d/1zPisxY_qLmG7QU8WpjD2vXR5HGQov6La/view?usp=sharing)
+    - Libraries should be around 300 bp 
+    - The smaller peaks larger than 300 bp are indicative of over-amplification
+        - These peaks are very small so I'm not worried about them
+        - Using a higher concentration (20 μM) of index primers should resolve this issue because an additional 6 cycle PCR likely would not be necessary
