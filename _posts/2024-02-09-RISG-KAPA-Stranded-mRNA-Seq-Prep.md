@@ -13,7 +13,7 @@ Using [KAPA Stranded mRNA Seq Kit with mRNA Capture Beads](https://sequencing.ro
 
 Following the [KAPA mRNA HyperPrep Kit Protocol](https://genome.med.harvard.edu/documents/libraryPrep/KAPAmRNAHyperPrepProtocol.pdf) using half volumes. 
 
-**Time to Completion: ~12 hours (includes pooling RNA samples at beginning and OC at the end)**
+**Time to Completion: ~12 hours (includes pooling RNA samples at beginning and QC at the end)**
 
 ### Sample Preparation
 
